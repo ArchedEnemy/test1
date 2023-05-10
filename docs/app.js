@@ -62,6 +62,14 @@ pn.panel(
     "Hello and welcome to the awesome world of [Panel](https://panel.holoviz-org) and data apps"
 ).servable()
 
+
+season = pn.widgets.RadioButtonGroup(
+    name='Season', 
+    options=['2022', '2023',],
+    button_type='success'
+).servable()
+
+
 await write_doc()
   `
 

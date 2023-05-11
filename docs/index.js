@@ -15,7 +15,7 @@ async function startApplication() {
   self.pyodide.globals.set("sendPatch", sendPatch);
   console.log("Loaded!");
   await self.pyodide.loadPackage("micropip");
-  const env_spec = ['https://cdn.holoviz.org/panel/0.14.4/dist/wheels/bokeh-2.4.3-py3-none-any.whl', 'https://cdn.holoviz.org/panel/0.14.4/dist/wheels/panel-0.14.4-py3-none-any.whl', 'pyodide-http==0.1.0', 'datetime', 'holoviews>=1.15.4', 'hvplot', 'io', 'pandas', 'requests']
+  const env_spec = ['https://cdn.holoviz.org/panel/0.14.4/dist/wheels/bokeh-2.4.3-py3-none-any.whl', 'https://cdn.holoviz.org/panel/0.14.4/dist/wheels/panel-0.14.4-py3-none-any.whl', 'pyodide-http==0.1.0', 'datetime', 'holoviews>=1.15.4', 'hvplot', 'pandas']
   for (const pkg of env_spec) {
     let pkg_name;
     if (pkg.endsWith('.whl')) {
@@ -52,16 +52,8 @@ import panel as pn
 pn.extension('tabulator', sizing_mode="stretch_width")
 import hvplot.pandas
 import datetime as dt
-import requests
-import io
-    
-# Downloading the csv file from your GitHub account
-url = "https://github.com/ArchedEnemy/test1/raw/main/understat_adj.csv" # Make sure the url is the raw version of the file on GitHub
-download = requests.get(url).content
 
-# Reading the downloaded content and turning it into a pandas dataframe
-df = pd.read_csv(io.StringIO(download.decode('utf-8')),parse_dates = ['date'])
-#df = pd.read_csv("https://github.com/ArchedEnemy/test1/raw/main/understat_adj.csv",parse_dates = ['date'])
+df = pd.read_csv("./understat_adj.csv",parse_dates = ['date'])
 
 date_range_slider = pn.widgets.DateRangeSlider(
     name='Date Range Slider',
@@ -93,8 +85,7 @@ def input_function1(sdate, team, sortby):
     df5 = pd.merge(df4, assist_df,how='left', on='player').sort_values(by=sortby, ascending=False).head(20)
     return df5
 
-inputi = hvplot.bind(input_function1, date_range_slider, teams, sort)
-pn.Column(pn.Row(teams, pn.Column(date_range_slider, sort)), inputi).servable()
+pn.Column(pn.Row(teams, pn.Column(date_range_slider, sort)), hvplot.bind(input_function1, date_range_slider, teams, sort)).servable()
 
 await write_doc()
   `

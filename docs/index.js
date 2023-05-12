@@ -53,7 +53,7 @@ pn.extension('tabulator', sizing_mode="stretch_width")
 import hvplot.pandas
 import datetime as dt
 
-df = pd.read_csv(r'https://github.com/ArchedEnemy/test1/raw/main/understat_adj.csv',parse_dates = ['date'])
+df = pd.read_csv(r'https://github.com/ArchedEnemy/test1/raw/main/docs/understat_adj.csv',parse_dates = ['date'])
 
 date_range_slider = pn.widgets.DateRangeSlider(
     name='Date Range Slider',

@@ -52,7 +52,7 @@ import panel as pn
 pn.extension('tabulator', sizing_mode="stretch_width")
 import hvplot.pandas
 
-data_url = "https://cdn.jsdelivr.net/gh/holoviz/panel@master/examples/assets/occupancy.csv"
+data_url = "https://github.com/ArchedEnemy/test1/raw/main/docs/understat_adj.csv"
 data = pd.read_csv(data_url, parse_dates=["date"]).set_index("date")
 
 pn.Column(

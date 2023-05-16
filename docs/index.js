@@ -52,7 +52,7 @@ import panel as pn
 pn.extension('tabulator', sizing_mode="stretch_width")
 import hvplot.pandas
 
-df = pd.read_csv('https://github.com/ArchedEnemy/test1/raw/main/docs/understat.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/ArchedEnemy/test1/main/docs/understat.csv')
 
 
 pn.Column(

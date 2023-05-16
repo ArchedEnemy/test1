@@ -61,10 +61,10 @@ date_range_slider = pn.widgets.DateRangeSlider(
     start=min(df['date']), end=max(df['date']),
     value=(dt.datetime(2022, 8, 5), max(df['date'])),
     step=24*3600*1*1000
-).servable()
-teams = pn.widgets.MultiSelect(options=list(df['team'].unique()),name='Team',value=list(df['team'].unique()),size=10).servable()
-sort = pn.widgets.Select(options=['shot', 'onTarget', 'goal', 'xG', 'xG_Diff','%ShotsOnTarget','GoalsPerShot', 'attAssists', 'Assits', 'xA', 'xA_Diff'],name='Sort by', value='goal').servable()
-
+)
+teams = pn.widgets.MultiSelect(options=list(df['team'].unique()),name='Team',value=list(df['team'].unique()),size=10)
+sort = pn.widgets.Select(options=['shot', 'onTarget', 'goal', 'xG', 'xG_Diff','%ShotsOnTarget','GoalsPerShot', 'attAssists', 'Assits', 'xA', 'xA_Diff'],name='Sort by', value='goal')
+	
 
 def input_function1(sdate, team, sortby):
     a=sdate[0]

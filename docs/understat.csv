@@ -17109,3 +17109,1227 @@ season,matchId,date,team,venue,opponent,playerId,player,minute,x,y,situation,sho
 2022,18511,15/04/2023,Brentford,away,Wolverhampton Wanderers,998,Ivan Toney,87,0.710999985,0.45,OpenPlay,RightFoot,0.0137403,MissedShots,Mikkel Damsgaard,1,0,0
 2022,18511,15/04/2023,Brentford,away,Wolverhampton Wanderers,998,Ivan Toney,92,0.94,0.661999969,OpenPlay,LeftFoot,0.078382798,SavedShot,Vitaly Janelt,1,1,0
 2022,18511,15/04/2023,Brentford,away,Wolverhampton Wanderers,998,Ivan Toney,93,0.879000015,0.429000015,OpenPlay,RightFoot,0.324993014,BlockedShot,Yoane Wissa,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,2517,Martin Odegaard,5,0.981999969,0.656999969,FromCorner,LeftFoot,0.103604592,MissedShots,Thomas Partey,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,2958,Oleksandr Zinchenko,7,0.774000015,0.524000015,FromCorner,LeftFoot,0.021460984,MissedShots,,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,7752,Gabriel Martinelli,19,0.890999985,0.542000008,OpenPlay,RightFoot,0.297006875,Goal,Bukayo Saka,1,1,1
+2022,18512,21/04/2023,Arsenal,home,Southampton,2517,Martin Odegaard,27,0.9,0.532999992,OpenPlay,Head,0.077713065,MissedShots,Gabriel Martinelli,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,11007,Fábio Vieira,32,0.795999985,0.577000008,SetPiece,RightFoot,0.014285474,MissedShots,,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,11007,Fábio Vieira,32,0.819000015,0.485,SetPiece,LeftFoot,0.055242773,MissedShots,Gabriel Martinelli,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,2517,Martin Odegaard,45,0.954000015,0.649000015,FromCorner,LeftFoot,0.042079192,BlockedShot,Gabriel Martinelli,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,1749,Rob Holding,45,0.925999985,0.445,FromCorner,Head,0.044663571,MissedShots,Fábio Vieira,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,5543,Gabriel Jesus,47,0.933000031,0.282999992,OpenPlay,RightFoot,0.136084035,SavedShot,Bukayo Saka,1,1,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,7298,Ben White,47,0.969000015,0.354000015,FromCorner,Head,0.012591355,BlockedShot,Bukayo Saka,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,7752,Gabriel Martinelli,51,0.901999969,0.696999969,OpenPlay,LeftFoot,0.022288248,MissedShots,Bukayo Saka,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,5543,Gabriel Jesus,52,0.929000015,0.48,OpenPlay,Head,0.05106198,BlockedShot,Gabriel Martinelli,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,5543,Gabriel Jesus,52,0.909000015,0.445999985,OpenPlay,RightFoot,0.108483016,BlockedShot,,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,7298,Ben White,52,0.859000015,0.297000008,OpenPlay,RightFoot,0.035075389,BlockedShot,,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,5543,Gabriel Jesus,68,0.933000031,0.465999985,OpenPlay,RightFoot,0.458216459,MissedShots,Gabriel Martinelli,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,2328,Thomas Partey,77,0.815,0.474000015,OpenPlay,RightFoot,0.056921687,BlockedShot,Martin Odegaard,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,7322,Bukayo Saka,78,0.87,0.562999992,OpenPlay,LeftFoot,0.093980394,BlockedShot,Gabriel Martinelli,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,5543,Gabriel Jesus,79,0.921999969,0.577000008,FromCorner,Head,0.046960209,MissedShots,Bukayo Saka,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,2517,Martin Odegaard,87,0.815,0.312000008,OpenPlay,LeftFoot,0.020329876,Goal,Ben White,1,1,1
+2022,18512,21/04/2023,Arsenal,home,Southampton,5543,Gabriel Jesus,89,0.871999969,0.487000008,OpenPlay,LeftFoot,0.072029546,BlockedShot,Eddie Nketiah,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,6492,Reiss Nelson,89,0.875999985,0.683000031,OpenPlay,RightFoot,0.056328896,SavedShot,Gabriel Jesus,1,1,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,7322,Bukayo Saka,89,0.913000031,0.484000015,OpenPlay,LeftFoot,0.471915931,Goal,,1,1,1
+2022,18512,21/04/2023,Arsenal,home,Southampton,7698,Leandro Trossard,91,0.791999969,0.545999985,OpenPlay,LeftFoot,0.039705053,ShotOnPost,Reiss Nelson,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,6492,Reiss Nelson,94,0.855,0.545999985,OpenPlay,RightFoot,0.080462083,BlockedShot,Leandro Trossard,1,0,0
+2022,18512,21/04/2023,Arsenal,home,Southampton,2328,Thomas Partey,98,0.71,0.56,OpenPlay,RightFoot,0.01315825,MissedShots,Gabriel,1,0,0
+2022,18512,21/04/2023,Southampton,away,Arsenal,11297,Carlos Alcaraz,0,0.791999969,0.417000008,OpenPlay,RightFoot,0.038742349,Goal,,1,1,1
+2022,18512,21/04/2023,Southampton,away,Arsenal,503,Theo Walcott,13,0.901999969,0.389000015,OpenPlay,RightFoot,0.578844845,Goal,Carlos Alcaraz,1,1,1
+2022,18512,21/04/2023,Southampton,away,Arsenal,6894,Mohamed Elyounoussi,25,0.961999969,0.387999992,OpenPlay,Head,0.069081232,SavedShot,Romain Perraud,1,1,0
+2022,18512,21/04/2023,Southampton,away,Arsenal,11297,Carlos Alcaraz,25,0.96,0.404000015,OpenPlay,RightFoot,0.136275902,SavedShot,,1,1,0
+2022,18512,21/04/2023,Southampton,away,Arsenal,6042,Jan Bednarek,26,0.899000015,0.395999985,FromCorner,Head,0.015070023,BlockedShot,,1,0,0
+2022,18512,21/04/2023,Southampton,away,Arsenal,503,Theo Walcott,30,0.704000015,0.664000015,OpenPlay,RightFoot,0.012515048,SavedShot,,1,1,0
+2022,18512,21/04/2023,Southampton,away,Arsenal,9710,Armel Bella Kotchap,65,0.958000031,0.420999985,FromCorner,OtherBodyPart,0.061860628,MissedShots,James Ward-Prowse,1,0,0
+2022,18512,21/04/2023,Southampton,away,Arsenal,7007,Duje Caleta-Car,65,0.976999969,0.542999992,FromCorner,Head,0.562451541,Goal,Armel Bella Kotchap,1,1,1
+2022,18513,23/04/2023,Bournemouth,home,West Ham,6034,Philip Billing,6,0.743000031,0.539000015,OpenPlay,LeftFoot,0.020720081,MissedShots,Ryan Christie,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,1679,Dominic Solanke,19,0.840999985,0.325,OpenPlay,RightFoot,0.038137805,BlockedShot,Adam Smith,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,7384,Chris Mepham,21,0.960999985,0.442000008,FromCorner,Head,0.121724054,SavedShot,Joe Rothwell,1,1,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,2182,Jefferson Lerma,27,0.769000015,0.595999985,OpenPlay,RightFoot,0.016636781,SavedShot,,1,1,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,1679,Dominic Solanke,29,0.936999969,0.306000004,OpenPlay,RightFoot,0.055963811,SavedShot,Adam Smith,1,1,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,10741,Marcus Tavernier,46,0.785,0.731999969,OpenPlay,LeftFoot,0.01303424,BlockedShot,Dominic Solanke,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,10744,Ryan Christie,48,0.953000031,0.655,OpenPlay,LeftFoot,0.047926769,BlockedShot,,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,10743,Kieffer Moore,48,0.909000015,0.57,OpenPlay,Head,0.047549538,MissedShots,Philip Billing,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,1679,Dominic Solanke,57,0.858000031,0.477999992,OpenPlay,Head,0.021679072,MissedShots,Ryan Christie,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,10743,Kieffer Moore,64,0.761999969,0.562000008,OpenPlay,RightFoot,0.027643433,SavedShot,Dango Ouattara,1,1,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,9662,Dango Ouattara,68,0.714000015,0.530999985,OpenPlay,LeftFoot,0.014388734,MissedShots,Jefferson Lerma,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,9662,Dango Ouattara,69,0.845,0.635,FromCorner,LeftFoot,0.019714206,MissedShots,,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,9662,Dango Ouattara,73,0.790999985,0.367999992,OpenPlay,LeftFoot,0.02038721,BlockedShot,,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,1679,Dominic Solanke,73,0.898000031,0.479000015,OpenPlay,RightFoot,0.130766839,ShotOnPost,Jaidon Anthony,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,10746,Jaidon Anthony,80,0.795,0.372999992,OpenPlay,LeftFoot,0.033661503,SavedShot,Dango Ouattara,1,1,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,10743,Kieffer Moore,81,0.901999969,0.477999992,OpenPlay,RightFoot,0.278910697,MissedShots,Marcus Tavernier,1,0,0
+2022,18513,23/04/2023,Bournemouth,home,West Ham,1679,Dominic Solanke,91,0.933000031,0.374000015,OpenPlay,RightFoot,0.065842599,BlockedShot,,1,0,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,1776,Jarrod Bowen,2,0.803000031,0.33,OpenPlay,LeftFoot,0.0259686,MissedShots,,1,0,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,531,Michail Antonio,4,0.961999969,0.53,FromCorner,Head,0.502010524,Goal,Aaron Cresswell,1,1,1
+2022,18513,23/04/2023,West Ham,away,Bournemouth,3585,Said Benrahma,10,0.821999969,0.407999992,OpenPlay,RightFoot,0.072129883,SavedShot,Tomas Soucek,1,1,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,7365,Lucas Paquetá,11,0.941999969,0.55,OpenPlay,Head,0.46255073,Goal,Vladimir Coufal,1,1,1
+2022,18513,23/04/2023,West Ham,away,Bournemouth,3585,Said Benrahma,18,0.918000031,0.505999985,OpenPlay,Head,0.061335698,MissedShots,,1,0,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,8288,Tomas Soucek,23,0.869000015,0.375999985,OpenPlay,Head,0.036065869,SavedShot,Lucas Paquetá,1,1,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,5553,Declan Rice,30,0.751999969,0.663000031,OpenPlay,RightFoot,0.017024862,BlockedShot,Said Benrahma,1,0,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,1776,Jarrod Bowen,33,0.786999969,0.357999992,OpenPlay,LeftFoot,0.033916399,SavedShot,,1,1,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,5553,Declan Rice,42,0.923000031,0.415,FromCorner,RightFoot,0.096467391,Goal,Tomas Soucek,1,1,1
+2022,18513,23/04/2023,West Ham,away,Bournemouth,534,Aaron Cresswell,53,0.774000015,0.267000008,DirectFreekick,LeftFoot,0.046607859,BlockedShot,,1,0,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,7365,Lucas Paquetá,53,0.805,0.474000015,SetPiece,LeftFoot,0.032042596,BlockedShot,,1,0,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,531,Michail Antonio,53,0.926999969,0.665,OpenPlay,LeftFoot,0.096759476,MissedShots,Lucas Paquetá,1,0,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,3585,Said Benrahma,62,0.791999969,0.575999985,OpenPlay,RightFoot,0.098015942,SavedShot,Michail Antonio,1,1,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,3585,Said Benrahma,62,0.855,0.562999992,OpenPlay,RightFoot,0.11998412,SavedShot,Jarrod Bowen,1,1,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,2335,Pablo Fornals,71,0.955999985,0.524000015,OpenPlay,RightFoot,0.627520263,Goal,Jarrod Bowen,1,1,1
+2022,18513,23/04/2023,West Ham,away,Bournemouth,10845,Flynn Downes,77,0.818000031,0.545,OpenPlay,RightFoot,0.079508826,SavedShot,Declan Rice,1,1,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,3278,Maxwel Cornet,89,0.830999985,0.63,OpenPlay,RightFoot,0.042072494,BlockedShot,Aaron Cresswell,1,0,0
+2022,18513,23/04/2023,West Ham,away,Bournemouth,8288,Tomas Soucek,93,0.915999985,0.552999992,FromCorner,Head,0.074729167,MissedShots,Thilo Kehrer,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,6552,Bryan Mbeumo,3,0.869000015,0.307000008,OpenPlay,LeftFoot,0.044422466,SavedShot,Ivan Toney,1,1,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,9156,Kevin Schade,9,0.909000015,0.620999985,OpenPlay,LeftFoot,0.102128491,BlockedShot,Ethan Pinnock,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,7166,Mathias Jensen,18,0.765,0.415,OpenPlay,RightFoot,0.025449166,MissedShots,,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,9679,Rico Henry,22,0.810999985,0.489000015,FromCorner,LeftFoot,0.031536084,BlockedShot,Ivan Toney,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,7166,Mathias Jensen,30,0.888000031,0.810999985,DirectFreekick,RightFoot,0.060590219,SavedShot,,1,1,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,9681,Frank Onyeka,48,0.879000015,0.472999992,OpenPlay,Head,0.047191769,SavedShot,Bryan Mbeumo,1,1,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,9156,Kevin Schade,52,0.776999969,0.499000015,OpenPlay,Head,0.012894869,SavedShot,Bryan Mbeumo,1,1,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,9156,Kevin Schade,52,0.920999985,0.605999985,OpenPlay,LeftFoot,0.344239771,MissedShots,,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,6552,Bryan Mbeumo,56,0.856999969,0.409000015,OpenPlay,LeftFoot,0.089050382,BlockedShot,Kevin Schade,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,8942,Aaron Hickey,59,0.97,0.405999985,FromCorner,Head,0.030469934,BlockedShot,,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,8942,Aaron Hickey,60,0.775999985,0.494000015,FromCorner,RightFoot,0.034879923,MissedShots,Ethan Pinnock,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,6552,Bryan Mbeumo,61,0.905,0.5,OpenPlay,LeftFoot,0.327303618,MissedShots,Ivan Toney,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,998,Ivan Toney,63,0.819000015,0.445,SetPiece,RightFoot,0.044331066,BlockedShot,Mathias Jensen,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,998,Ivan Toney,64,0.975,0.587000008,OpenPlay,LeftFoot,0.359713942,Goal,Bryan Mbeumo,1,1,1
+2022,18514,22/04/2023,Brentford,home,Aston Villa,998,Ivan Toney,68,0.909000015,0.46,OpenPlay,RightFoot,0.126745433,MissedShots,,1,0,0
+2022,18514,22/04/2023,Brentford,home,Aston Villa,9681,Frank Onyeka,83,0.925999985,0.442999992,OpenPlay,LeftFoot,0.355109632,MissedShots,Bryan Mbeumo,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,2203,Emiliano Buendía,1,0.81,0.567000008,OpenPlay,RightFoot,0.052713841,SavedShot,Douglas Luiz,1,1,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,8941,Jacob Ramsey,2,0.850999985,0.34,FromCorner,RightFoot,0.033639334,MissedShots,,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,8941,Jacob Ramsey,19,0.793000031,0.527000008,OpenPlay,LeftFoot,0.044107448,MissedShots,Emiliano Buendía,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,7723,John McGinn,27,0.770999985,0.542999992,OpenPlay,LeftFoot,0.027330948,MissedShots,,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,4120,Álex Moreno,36,0.86,0.700999985,OpenPlay,LeftFoot,0.041179009,MissedShots,Emiliano Buendía,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,7723,John McGinn,37,0.805,0.295,OpenPlay,LeftFoot,0.025794383,MissedShots,Ollie Watkins,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,8941,Jacob Ramsey,71,0.89,0.537999992,OpenPlay,RightFoot,0.415029645,MissedShots,Emiliano Buendía,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,8865,Ollie Watkins,86,0.920999985,0.515,OpenPlay,Head,0.049191616,MissedShots,Lucas Digne,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,2203,Emiliano Buendía,86,0.911999969,0.532999992,OpenPlay,LeftFoot,0.086440593,MissedShots,Jacob Ramsey,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,2203,Emiliano Buendía,86,0.953000031,0.572999992,OpenPlay,LeftFoot,0.104867443,BlockedShot,Lucas Digne,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,6122,Douglas Luiz,86,0.923000031,0.515999985,OpenPlay,RightFoot,0.421317548,Goal,Emiliano Buendía,1,1,1
+2022,18514,22/04/2023,Aston Villa,away,Brentford,6122,Douglas Luiz,93,0.68,0.65,OpenPlay,RightFoot,0.010536633,MissedShots,Jacob Ramsey,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,1024,Tyrone Mings,94,0.689000015,0.68,OpenPlay,LeftFoot,0.011345408,MissedShots,Ezri Konsa Ngoyo,1,0,0
+2022,18514,22/04/2023,Aston Villa,away,Brentford,8865,Ollie Watkins,96,0.915,0.497000008,OpenPlay,Head,0.342529267,MissedShots,Calum Chambers,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,672,Jordan Ayew,8,0.91,0.524000015,SetPiece,Head,0.049367227,MissedShots,Michael Olise,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,9948,Michael Olise,22,0.758000031,0.31,OpenPlay,RightFoot,0.019964844,SavedShot,Joachim Andersen,1,1,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,8214,Tyrick Mitchell,25,0.843000031,0.694000015,OpenPlay,LeftFoot,0.039487425,MissedShots,Jeffrey Schlupp,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,672,Jordan Ayew,40,0.875999985,0.700999985,OpenPlay,RightFoot,0.037504431,BlockedShot,Joachim Andersen,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,8706,Eberechi Eze,75,0.820999985,0.63,OpenPlay,RightFoot,0.038601547,SavedShot,Jordan Ayew,1,1,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,8666,Cheick Oumar Doucoure,76,0.864000015,0.688000031,FromCorner,RightFoot,0.030603638,BlockedShot,,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,8666,Cheick Oumar Doucoure,77,0.866999969,0.33,FromCorner,RightFoot,0.019461432,MissedShots,,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,6314,Joachim Andersen,81,0.896999969,0.512999992,FromCorner,Head,0.019747782,MissedShots,Michael Olise,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,9948,Michael Olise,83,0.716999969,0.587999992,OpenPlay,LeftFoot,0.010442382,BlockedShot,Joel Ward,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,8214,Tyrick Mitchell,84,0.95,0.705,OpenPlay,LeftFoot,0.049130172,BlockedShot,,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,5549,Luka Milivojevic,84,0.809000015,0.38,OpenPlay,RightFoot,0.036728982,BlockedShot,Tyrick Mitchell,1,0,0
+2022,18516,22/04/2023,Crystal Palace,home,Everton,672,Jordan Ayew,89,0.720999985,0.708000031,OpenPlay,RightFoot,0.017096825,MissedShots,Marc Guehi,1,0,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,6756,Dwight McNeil,3,0.770999985,0.492999992,OpenPlay,LeftFoot,0.05570057,SavedShot,Alex Iwobi,1,1,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,5555,Dominic Calvert-Lewin,6,0.909000015,0.474000015,OpenPlay,OtherBodyPart,0.060725361,SavedShot,Alex Iwobi,1,1,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,500,Alex Iwobi,31,0.749000015,0.407999992,SetPiece,RightFoot,0.01315152,SavedShot,,1,1,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,6756,Dwight McNeil,31,0.858000031,0.575999985,OpenPlay,RightFoot,0.059961721,BlockedShot,Mason Holgate,1,0,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,6756,Dwight McNeil,34,0.750999985,0.660999985,OpenPlay,LeftFoot,0.017560642,BlockedShot,Alex Iwobi,1,0,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,5555,Dominic Calvert-Lewin,38,0.769000015,0.685999985,OpenPlay,RightFoot,0.015444292,SavedShot,Dwight McNeil,1,1,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,6756,Dwight McNeil,41,0.791999969,0.292999992,OpenPlay,LeftFoot,0.022247899,SavedShot,Mason Holgate,1,1,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,5555,Dominic Calvert-Lewin,61,0.868000031,0.55,OpenPlay,LeftFoot,0.145883605,MissedShots,Alex Iwobi,1,0,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,668,Idrissa Gueye,64,0.769000015,0.350999985,SetPiece,RightFoot,0.013970438,MissedShots,,1,0,0
+2022,18516,22/04/2023,Everton,away,Crystal Palace,500,Alex Iwobi,65,0.863000031,0.74,OpenPlay,RightFoot,0.029066218,MissedShots,,1,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,5596,Harry Wilson,19,0.853000031,0.592999992,OpenPlay,LeftFoot,0.061937165,BlockedShot,,1,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,922,Andreas Pereira,19,0.77,0.678000031,OpenPlay,LeftFoot,0.021260705,SavedShot,João Palhinha,1,1,0
+2022,18517,22/04/2023,Fulham,home,Leeds,5590,Tosin Adarabioyo,26,0.415999985,0.044000001,DirectFreekick,RightFoot,0.014988948,MissedShots,,1,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,922,Andreas Pereira,32,0.789000015,0.617000008,OpenPlay,RightFoot,0.031712119,MissedShots,Harry Wilson,1,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,700,Willian,33,0.831999969,0.572000008,OpenPlay,RightFoot,0.073221527,BlockedShot,Andreas Pereira,1,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,10715,João Palhinha,33,0.759000015,0.354000015,OpenPlay,RightFoot,0.015612233,BlockedShot,,1,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,922,Andreas Pereira,39,0.758000031,0.52,OpenPlay,RightFoot,0.076156139,SavedShot,Kenny Tete,1,1,0
+2022,18517,22/04/2023,Fulham,home,Leeds,700,Willian,48,0.815,0.585,OpenPlay,RightFoot,0.03508883,BlockedShot,Kenny Tete,1,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,5596,Harry Wilson,57,0.913000031,0.412000008,OpenPlay,LeftFoot,0.092569053,Goal,,1,1,1
+2022,18517,22/04/2023,Fulham,home,Leeds,922,Andreas Pereira,63,0.805,0.355,DirectFreekick,RightFoot,0.092305742,ShotOnPost,,1,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,922,Andreas Pereira,71,0.976999969,0.51,OpenPlay,RightFoot,0.862878084,Goal,,1,1,1
+2022,18517,22/04/2023,Fulham,home,Leeds,10715,João Palhinha,78,0.038,0.472000008,OpenPlay,OtherBodyPart,0,OwnGoal,,0,0,0
+2022,18517,22/04/2023,Fulham,home,Leeds,700,Willian,82,0.753000031,0.409000015,DirectFreekick,RightFoot,0.061040875,SavedShot,,1,1,0
+2022,18517,22/04/2023,Leeds,away,Fulham,5086,Marc Roca,13,0.761999969,0.56,SetPiece,LeftFoot,0.011328372,MissedShots,,1,0,0
+2022,18517,22/04/2023,Leeds,away,Fulham,5086,Marc Roca,16,0.793000031,0.292000008,DirectFreekick,LeftFoot,0.060888913,SavedShot,,1,1,0
+2022,18517,22/04/2023,Leeds,away,Fulham,2381,Rodrigo,22,0.935,0.429000015,OpenPlay,LeftFoot,0.13907823,BlockedShot,Crysencio Summerville,1,0,0
+2022,18517,22/04/2023,Leeds,away,Fulham,9492,Crysencio Summerville,59,0.885999985,0.312999992,FromCorner,RightFoot,0.036274463,MissedShots,Robin Koch,1,0,0
+2022,18517,22/04/2023,Leeds,away,Fulham,8720,Jack Harrison,60,0.865999985,0.671999969,OpenPlay,RightFoot,0.054505408,BlockedShot,Brenden Aaronson,1,0,0
+2022,18517,22/04/2023,Leeds,away,Fulham,5086,Marc Roca,76,0.766999969,0.507000008,OpenPlay,LeftFoot,0.025082637,SavedShot,Jack Harrison,1,1,0
+2022,18517,22/04/2023,Leeds,away,Fulham,10866,Luis Sinisterra,78,0.95,0.512999992,OpenPlay,RightFoot,0.109637707,BlockedShot,Liam Cooper,1,0,0
+2022,18517,22/04/2023,Leeds,away,Fulham,822,Patrick Bamford,78,0.959000015,0.520999985,OpenPlay,LeftFoot,0.606427073,MissedShots,,1,0,0
+2022,18517,22/04/2023,Leeds,away,Fulham,8816,Liam Cooper,99,0.873000031,0.432999992,FromCorner,Head,0.01232947,BlockedShot,Marc Roca,1,0,0
+2022,18517,22/04/2023,Leeds,away,Fulham,11155,Wilfried Gnonto,99,0.796999969,0.334000015,FromCorner,RightFoot,0.0192708,MissedShots,,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,10536,Tetê,2,0.905,0.452000008,OpenPlay,LeftFoot,0.576794505,BlockedShot,Jamie Vardy,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,5956,Youri Tielemans,5,0.7,0.344000015,OpenPlay,RightFoot,0.012169634,BlockedShot,Tetê,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,10536,Tetê,22,0.699000015,0.507000008,SetPiece,LeftFoot,0.00929853,BlockedShot,,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,620,Kelechi Iheanacho,36,0.885,0.5,Penalty,LeftFoot,0.761168838,Goal,,1,1,1
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,620,Kelechi Iheanacho,39,0.716999969,0.654000015,OpenPlay,LeftFoot,0.010775412,MissedShots,,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,620,Kelechi Iheanacho,47,0.845999985,0.325999985,OpenPlay,LeftFoot,0.045617107,SavedShot,Boubakary Soumare,1,1,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,9738,Patson Daka,47,0.970999985,0.562000008,OpenPlay,RightFoot,0.614945471,SavedShot,,1,1,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,9739,Kiernan Dewsbury-Hall,49,0.765999985,0.655999985,OpenPlay,LeftFoot,0.022295281,MissedShots,Wout Faes,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,9738,Patson Daka,56,0.9,0.644000015,OpenPlay,LeftFoot,0.11688032,SavedShot,Tetê,1,1,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,9739,Kiernan Dewsbury-Hall,56,0.935,0.572000008,OpenPlay,LeftFoot,0.165450156,MissedShots,,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,5264,Caglar Söyüncü,66,0.905,0.569000015,FromCorner,RightFoot,0.040776234,SavedShot,,1,1,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,6157,Timothy Castagne,74,0.878000031,0.485999985,OpenPlay,LeftFoot,0.088197827,Goal,Victor Kristiansen,1,1,1
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,9738,Patson Daka,77,0.764000015,0.718000031,OpenPlay,LeftFoot,0.016034985,BlockedShot,Kelechi Iheanacho,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,5264,Caglar Söyüncü,85,0.925,0.470999985,SetPiece,Head,0.131312102,MissedShots,Dennis Praet,1,0,0
+2022,18518,22/04/2023,Leicester,home,Wolverhampton Wanderers,9738,Patson Daka,91,0.863000031,0.500999985,OpenPlay,RightFoot,0.10496562,SavedShot,Kiernan Dewsbury-Hall,1,1,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,804,Craig Dawson,7,0.856999969,0.45,SetPiece,LeftFoot,0.066528805,MissedShots,,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,2199,Pablo Sarabia,9,0.82,0.656999969,OpenPlay,LeftFoot,0.029578241,MissedShots,Matheus Cunha,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,7080,Matheus Cunha,12,0.815999985,0.457999992,OpenPlay,RightFoot,0.056480803,Goal,Mario Lemina,1,1,1
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,7080,Matheus Cunha,24,0.943000031,0.345999985,OpenPlay,RightFoot,0.102585107,BlockedShot,Matheus Nunes,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,2199,Pablo Sarabia,25,0.856999969,0.277000008,FromCorner,LeftFoot,0.021629322,BlockedShot,Matheus Nunes,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,804,Craig Dawson,25,0.811999969,0.525999985,FromCorner,LeftFoot,0.04776717,BlockedShot,,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,2199,Pablo Sarabia,46,0.718000031,0.385999985,OpenPlay,LeftFoot,0.016660254,MissedShots,Matheus Nunes,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,6853,Rúben Neves,60,0.726999969,0.698000031,DirectFreekick,RightFoot,0.036137439,MissedShots,,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,10293,Toti,79,0.975999985,0.612999992,OpenPlay,Head,0.025729945,MissedShots,Matheus Nunes,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,6853,Rúben Neves,82,0.715,0.622000008,OpenPlay,RightFoot,0.014566232,BlockedShot,Hee-Chan Hwang,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,8845,Hee-Chan Hwang,82,0.955999985,0.654000015,OpenPlay,Head,0.009132011,SavedShot,João Moutinho,1,1,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,6853,Rúben Neves,87,0.805999985,0.695999985,DirectFreekick,RightFoot,0.072341345,SavedShot,,1,1,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,6853,Rúben Neves,88,0.764000015,0.532000008,FromCorner,RightFoot,0.019220117,BlockedShot,,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,6853,Rúben Neves,92,0.698000031,0.639000015,FromCorner,RightFoot,0.01209169,MissedShots,,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,6382,Pedro Neto,93,0.720999985,0.674000015,OpenPlay,RightFoot,0.008884618,BlockedShot,João Gomes,1,0,0
+2022,18518,22/04/2023,Wolverhampton Wanderers,away,Leicester,7332,Max Kilman,93,0.949000015,0.56,FromCorner,Head,0.057960074,MissedShots,Daniel Podence,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,11296,Cody Gakpo,4,0.761999969,0.605999985,OpenPlay,RightFoot,0.020679433,MissedShots,,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,6326,Ibrahima Konaté,9,0.891999969,0.602000008,SetPiece,Head,0.013488069,BlockedShot,Andrew Robertson,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,1250,Mohamed Salah,9,0.865,0.527999992,FromCorner,LeftFoot,0.0716708,BlockedShot,,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,3420,Fabinho,21,0.806999969,0.475999985,OpenPlay,RightFoot,0.052488912,MissedShots,Mohamed Salah,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,833,Virgil van Dijk,25,0.908000031,0.530999985,SetPiece,Head,0.045349233,SavedShot,Trent Alexander-Arnold,1,1,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,11296,Cody Gakpo,29,0.935,0.455999985,FromCorner,LeftFoot,0.116688237,BlockedShot,Trent Alexander-Arnold,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,833,Virgil van Dijk,34,0.888000031,0.370999985,FromCorner,Head,0.011431008,BlockedShot,Andrew Robertson,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,11296,Cody Gakpo,34,0.925999985,0.45,FromCorner,RightFoot,0.09827172,BlockedShot,,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,1250,Mohamed Salah,34,0.869000015,0.312000008,FromCorner,LeftFoot,0.045438822,MissedShots,Jordan Henderson,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,6854,Diogo Jota,38,0.974000015,0.545,SetPiece,Head,0.580369353,MissedShots,Trent Alexander-Arnold,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,6854,Diogo Jota,46,0.981999969,0.502000008,FromCorner,Head,0.788019001,Goal,Fabinho,1,1,1
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,11296,Cody Gakpo,49,0.858000031,0.355,OpenPlay,RightFoot,0.071308285,MissedShots,Mohamed Salah,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,605,Jordan Henderson,49,0.879000015,0.442000008,OpenPlay,Head,0.038183317,BlockedShot,Andrew Robertson,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,6854,Diogo Jota,54,0.881999969,0.582999992,SetPiece,LeftFoot,0.042492118,Goal,Andrew Robertson,1,1,1
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,6854,Diogo Jota,64,0.888000031,0.550999985,OpenPlay,Head,0.26672855,SavedShot,Ibrahima Konaté,1,1,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,605,Jordan Henderson,64,0.858000031,0.557000008,FromCorner,RightFoot,0.027243545,MissedShots,Virgil van Dijk,1,0,0
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,1250,Mohamed Salah,69,0.934000015,0.5,SetPiece,LeftFoot,0.519711375,Goal,Trent Alexander-Arnold,1,1,1
+2022,18519,22/04/2023,Liverpool,home,Nottingham Forest,10720,Darwin Núñez,88,0.950999985,0.492999992,SetPiece,Head,0.517883182,MissedShots,Andrew Robertson,1,0,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,6857,Morgan Gibbs-White,17,0.731999969,0.545,OpenPlay,RightFoot,0.016935175,SavedShot,,1,1,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,6857,Morgan Gibbs-White,47,0.810999985,0.474000015,SetPiece,RightFoot,0.017685113,SavedShot,,1,1,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,8204,Neco Williams,50,0.795999985,0.355999985,OpenPlay,RightFoot,0.030554518,Goal,Morgan Gibbs-White,1,1,1
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,7814,Taiwo Awoniyi,55,0.885,0.6,OpenPlay,RightFoot,0.058565766,MissedShots,Felipe,1,0,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,7814,Taiwo Awoniyi,63,0.911999969,0.685999985,OpenPlay,RightFoot,0.047965482,BlockedShot,,1,0,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,6857,Morgan Gibbs-White,66,0.856999969,0.472000008,OpenPlay,RightFoot,0.030692857,Goal,,1,1,1
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,7814,Taiwo Awoniyi,72,0.905999985,0.469000015,OpenPlay,RightFoot,0.089803353,MissedShots,Joe Worrall,1,0,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,10760,Brennan Johnson,78,0.9,0.594000015,OpenPlay,RightFoot,0.311088771,ShotOnPost,Morgan Gibbs-White,1,0,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,6088,Orel Mangala,88,0.888000031,0.427999992,OpenPlay,Head,0.022402544,SavedShot,Brennan Johnson,1,1,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,6088,Orel Mangala,90,0.764000015,0.555,OpenPlay,RightFoot,0.026373226,MissedShots,Danilo,1,0,0
+2022,18519,22/04/2023,Nottingham Forest,away,Liverpool,10760,Brennan Johnson,92,0.91,0.384000015,SetPiece,RightFoot,0.072599478,MissedShots,,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,87,Joelinton,1,0.858000031,0.54,OpenPlay,RightFoot,0.170151517,SavedShot,Bruno Guimarães,1,1,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,6063,Jacob Murphy,1,0.988000031,0.420999985,OpenPlay,RightFoot,0.372891575,Goal,,1,1,1
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,5232,Alexander Isak,3,0.923000031,0.325999985,OpenPlay,RightFoot,0.092633381,BlockedShot,Jacob Murphy,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,76,Fabian Schär,4,0.896999969,0.457000008,FromCorner,Head,0.017513702,MissedShots,Kieran Trippier,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,87,Joelinton,5,0.93,0.407999992,OpenPlay,RightFoot,0.605463922,Goal,Fabian Schär,1,1,1
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,6063,Jacob Murphy,8,0.73,0.399000015,OpenPlay,RightFoot,0.017096367,Goal,Fabian Schär,1,1,1
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,8635,Sven Botman,16,0.903000031,0.584000015,FromCorner,Head,0.014285561,BlockedShot,Kieran Trippier,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,5232,Alexander Isak,18,0.868000031,0.419000015,OpenPlay,RightFoot,0.450509757,Goal,Joe Willock,1,1,1
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,5232,Alexander Isak,20,0.933000031,0.306000004,OpenPlay,RightFoot,0.080573834,Goal,Sean Longstaff,1,1,1
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,6630,Joe Willock,38,0.855999985,0.46,OpenPlay,RightFoot,0.406472981,MissedShots,Sean Longstaff,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,6630,Joe Willock,40,0.766999969,0.629000015,OpenPlay,RightFoot,0.0334047,BlockedShot,Joelinton,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,7382,Dan Burn,42,0.904000015,0.49,OpenPlay,Head,0.105876952,MissedShots,Kieran Trippier,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,7078,Sean Longstaff,42,0.815999985,0.51,OpenPlay,RightFoot,0.072798051,BlockedShot,Joe Willock,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,6063,Jacob Murphy,46,0.798000031,0.392000008,OpenPlay,LeftFoot,0.051093679,MissedShots,Bruno Guimarães,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,7078,Sean Longstaff,46,0.891999969,0.455,OpenPlay,LeftFoot,0.087116465,BlockedShot,,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,5232,Alexander Isak,46,0.955999985,0.572999992,OpenPlay,Head,0.115576513,MissedShots,Bruno Guimarães,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,7078,Sean Longstaff,51,0.915999985,0.357999992,OpenPlay,RightFoot,0.099015638,BlockedShot,Bruno Guimarães,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,7382,Dan Burn,52,0.916999969,0.485999985,FromCorner,Head,0.094587587,BlockedShot,Kieran Trippier,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,7420,Miguel Almirón,66,0.859000015,0.335999985,OpenPlay,LeftFoot,0.079638816,BlockedShot,Kieran Trippier,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,468,Callum Wilson,66,0.916999969,0.537999992,OpenPlay,RightFoot,0.538368523,Goal,,1,1,1
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,87,Joelinton,69,0.824000015,0.579000015,OpenPlay,LeftFoot,0.07562457,BlockedShot,Callum Wilson,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,8150,Anthony Gordon,78,0.915,0.629000015,OpenPlay,RightFoot,0.317985743,SavedShot,Joe Willock,1,1,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,766,Jamaal Lascelles,79,0.905,0.44,FromCorner,Head,0.054012094,BlockedShot,Anthony Gordon,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,87,Joelinton,79,0.865,0.482000008,FromCorner,RightFoot,0.060419444,BlockedShot,,1,0,0
+2022,18521,23/04/2023,Newcastle United,home,Tottenham,6630,Joe Willock,90,0.813000031,0.527999992,OpenPlay,RightFoot,0.078528985,BlockedShot,Miguel Almirón,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,647,Harry Kane,12,0.863000031,0.412000008,OpenPlay,RightFoot,0.084685542,MissedShots,Oliver Skipp,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,6691,Dejan Kulusevski,25,0.899000015,0.311000004,FromCorner,LeftFoot,0.06154364,MissedShots,Pedro Porro,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,453,Son Heung-Min,29,0.790999985,0.345999985,OpenPlay,RightFoot,0.05970934,MissedShots,Pedro Porro,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,647,Harry Kane,29,0.898000031,0.495,OpenPlay,LeftFoot,0.160446182,SavedShot,Son Heung-Min,1,1,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,647,Harry Kane,48,0.929000015,0.684000015,OpenPlay,LeftFoot,0.267749548,Goal,Pierre-Emile Højbjerg,1,1,1
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,448,Ivan Perisic,50,0.811999969,0.725,OpenPlay,RightFoot,0.021451287,MissedShots,Son Heung-Min,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,6912,Pedro Porro,53,0.860999985,0.265,OpenPlay,RightFoot,0.030473681,BlockedShot,Dejan Kulusevski,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,453,Son Heung-Min,60,0.765999985,0.342000008,OpenPlay,LeftFoot,0.020353125,BlockedShot,Cristian Romero,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,453,Son Heung-Min,63,0.855999985,0.56,OpenPlay,RightFoot,0.083064668,BlockedShot,Ivan Perisic,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,6912,Pedro Porro,63,0.905999985,0.317999992,OpenPlay,RightFoot,0.032907464,MissedShots,,1,0,0
+2022,18521,23/04/2023,Tottenham,away,Newcastle United,8066,Arnaut Danjuma Groeneveld,87,0.895,0.460999985,OpenPlay,RightFoot,0.072929792,SavedShot,Richarlison,1,1,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,1726,Abdoulaye Doucouré,5,0.861999969,0.655,OpenPlay,RightFoot,0.065095492,BlockedShot,Idrissa Gueye,1,0,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,500,Alex Iwobi,5,0.845999985,0.698000031,OpenPlay,RightFoot,0.026571587,MissedShots,,1,0,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,668,Idrissa Gueye,6,0.709000015,0.430999985,OpenPlay,LeftFoot,0.014517957,SavedShot,Abdoulaye Doucouré,1,1,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,668,Idrissa Gueye,11,0.785999985,0.605,DirectFreekick,RightFoot,0.086544432,MissedShots,,1,0,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,5555,Dominic Calvert-Lewin,18,0.899000015,0.439000015,OpenPlay,LeftFoot,0.343209058,MissedShots,Abdoulaye Doucouré,1,0,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,6756,Dwight McNeil,20,0.698000031,0.48,OpenPlay,LeftFoot,0.0146068,SavedShot,Idrissa Gueye,1,1,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,5555,Dominic Calvert-Lewin,23,0.795,0.681999969,OpenPlay,RightFoot,0.019942226,BlockedShot,Vitalii Mykolenko,1,0,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,6756,Dwight McNeil,34,0.715,0.554000015,OpenPlay,LeftFoot,0.016700108,SavedShot,Amadou Onana,1,1,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,1653,Michael Keane,44,0.965999985,0.617999992,FromCorner,RightFoot,0.047612891,MissedShots,Alex Iwobi,1,0,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,5555,Dominic Calvert-Lewin,51,0.905999985,0.305,OpenPlay,RightFoot,0.077726074,SavedShot,Alex Iwobi,1,1,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,6756,Dwight McNeil,59,0.854000015,0.675999985,OpenPlay,LeftFoot,0.040021226,BlockedShot,,1,0,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,9667,Amadou Onana,63,0.755,0.674000015,OpenPlay,RightFoot,0.015287371,MissedShots,Dominic Calvert-Lewin,1,0,0
+2022,18522,27/04/2023,Everton,home,Newcastle United,6756,Dwight McNeil,79,0.995999985,0.008,FromCorner,LeftFoot,0.010902821,Goal,,1,1,1
+2022,18522,27/04/2023,Newcastle United,away,Everton,8327,Bruno Guimarães,8,0.794000015,0.683000031,FromCorner,RightFoot,0.019785967,MissedShots,Miguel Almirón,1,0,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,87,Joelinton,27,0.900999985,0.770999985,OpenPlay,RightFoot,0.024282873,SavedShot,Matt Targett,1,1,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,468,Callum Wilson,27,0.926999969,0.494000015,OpenPlay,RightFoot,0.518127978,Goal,,1,1,1
+2022,18522,27/04/2023,Newcastle United,away,Everton,468,Callum Wilson,29,0.910999985,0.497000008,OpenPlay,Head,0.119195968,SavedShot,Sean Longstaff,1,1,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,6630,Joe Willock,45,0.916999969,0.594000015,OpenPlay,RightFoot,0.257644713,BlockedShot,Joelinton,1,0,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,7420,Miguel Almirón,46,0.785,0.440999985,FromCorner,LeftFoot,0.02342828,BlockedShot,,1,0,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,468,Callum Wilson,62,0.759000015,0.397999992,OpenPlay,RightFoot,0.02579304,MissedShots,Miguel Almirón,1,0,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,6630,Joe Willock,69,0.811999969,0.661999969,FromCorner,RightFoot,0.022298597,SavedShot,,1,1,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,87,Joelinton,71,0.954000015,0.522000008,OpenPlay,Head,0.585251629,Goal,Joe Willock,1,1,1
+2022,18522,27/04/2023,Newcastle United,away,Everton,468,Callum Wilson,74,0.81,0.555,OpenPlay,RightFoot,0.074500881,Goal,Bruno Guimarães,1,1,1
+2022,18522,27/04/2023,Newcastle United,away,Everton,5232,Alexander Isak,76,0.931999969,0.683000031,OpenPlay,LeftFoot,0.065324821,BlockedShot,,1,0,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,76,Fabian Schär,77,0.970999985,0.605,FromCorner,Head,0.037048593,BlockedShot,Kieran Trippier,1,0,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,6063,Jacob Murphy,80,0.98,0.464000015,OpenPlay,RightFoot,0.885080218,Goal,,1,1,1
+2022,18522,27/04/2023,Newcastle United,away,Everton,5232,Alexander Isak,85,0.901999969,0.675,OpenPlay,RightFoot,0.088288613,BlockedShot,Joe Willock,1,0,0
+2022,18522,27/04/2023,Newcastle United,away,Everton,6063,Jacob Murphy,92,0.866999969,0.452000008,OpenPlay,LeftFoot,0.130209595,MissedShots,Bruno Guimarães,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,10866,Luis Sinisterra,15,0.934000015,0.500999985,OpenPlay,RightFoot,0.123499148,MissedShots,Jack Harrison,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,10866,Luis Sinisterra,19,0.973000031,0.572999992,OpenPlay,Head,0.386824965,Goal,Jack Harrison,1,1,1
+2022,18523,25/04/2023,Leeds,home,Leicester,8716,Luke Ayling,24,0.698000031,0.141000004,OpenPlay,RightFoot,0.008354001,MissedShots,,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,822,Patrick Bamford,48,0.799000015,0.622999992,OpenPlay,LeftFoot,0.03911119,BlockedShot,Weston McKennie,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,2381,Rodrigo,49,0.875,0.532999992,OpenPlay,RightFoot,0.109902345,BlockedShot,,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,5360,Weston McKennie,49,0.795999985,0.377000008,OpenPlay,RightFoot,0.032176096,BlockedShot,,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,2381,Rodrigo,49,0.903000031,0.56,OpenPlay,Head,0.089026079,MissedShots,Weston McKennie,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,5360,Weston McKennie,67,0.800999985,0.335999985,SetPiece,RightFoot,0.019669648,MissedShots,,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,8716,Luke Ayling,87,0.843000031,0.312999992,OpenPlay,RightFoot,0.037337959,BlockedShot,,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,5086,Marc Roca,88,0.959000015,0.482000008,FromCorner,Head,0.502558827,SavedShot,Jack Harrison,1,1,0
+2022,18523,25/04/2023,Leeds,home,Leicester,10751,Brenden Aaronson,88,0.905,0.292999992,FromCorner,RightFoot,0.172481671,SavedShot,Marc Roca,1,1,0
+2022,18523,25/04/2023,Leeds,home,Leicester,5086,Marc Roca,89,0.939000015,0.449000015,FromCorner,Head,0.055066559,MissedShots,Jack Harrison,1,0,0
+2022,18523,25/04/2023,Leeds,home,Leicester,822,Patrick Bamford,89,0.981999969,0.572000008,FromCorner,RightFoot,0.523981512,MissedShots,Marc Roca,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,6681,Harvey Barnes,6,0.92,0.567000008,FromCorner,RightFoot,0.076035336,MissedShots,James Maddison,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,6681,Harvey Barnes,14,0.866999969,0.587000008,OpenPlay,RightFoot,0.071497172,BlockedShot,,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,6818,James Maddison,16,0.936999969,0.547999992,OpenPlay,LeftFoot,0.578796744,MissedShots,Kelechi Iheanacho,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,8646,Wout Faes,56,0.905999985,0.417999992,OpenPlay,RightFoot,0.08700747,MissedShots,Timothy Castagne,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,6681,Harvey Barnes,56,0.924000015,0.715999985,OpenPlay,RightFoot,0.035705339,MissedShots,Kelechi Iheanacho,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,6818,James Maddison,60,0.789000015,0.395,DirectFreekick,RightFoot,0.089840204,BlockedShot,,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,6681,Harvey Barnes,61,0.945,0.437999992,FromCorner,RightFoot,0.11522875,BlockedShot,Tetê,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,5264,Caglar Söyüncü,64,0.914000015,0.564000015,FromCorner,Head,0.026214544,MissedShots,,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,620,Kelechi Iheanacho,72,0.765,0.65,OpenPlay,LeftFoot,0.022065194,SavedShot,Patson Daka,1,1,0
+2022,18523,25/04/2023,Leicester,away,Leeds,620,Kelechi Iheanacho,74,0.969000015,0.392000008,OpenPlay,LeftFoot,0.364578426,SavedShot,James Maddison,1,1,0
+2022,18523,25/04/2023,Leicester,away,Leeds,8646,Wout Faes,75,0.915999985,0.524000015,SetPiece,RightFoot,0.096008472,MissedShots,James Maddison,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,755,Jamie Vardy,79,0.886999969,0.629000015,OpenPlay,RightFoot,0.311252236,Goal,James Maddison,1,1,1
+2022,18523,25/04/2023,Leicester,away,Leeds,9738,Patson Daka,94,0.893000031,0.617999992,OpenPlay,RightFoot,0.085376777,BlockedShot,Jamie Vardy,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,1234,Dennis Praet,94,0.891999969,0.569000015,OpenPlay,RightFoot,0.099787816,BlockedShot,Patson Daka,1,0,0
+2022,18523,25/04/2023,Leicester,away,Leeds,5956,Youri Tielemans,94,0.790999985,0.442999992,OpenPlay,RightFoot,0.029490519,BlockedShot,,1,0,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,7814,Taiwo Awoniyi,6,0.916999969,0.439000015,OpenPlay,RightFoot,0.137479365,BlockedShot,Brennan Johnson,1,0,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,7921,Felipe,7,0.949000015,0.464000015,FromCorner,LeftFoot,0.124617711,BlockedShot,,1,0,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,10760,Brennan Johnson,10,0.885,0.5,Penalty,RightFoot,0.761168838,SavedShot,,1,1,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,11317,Danilo,12,0.741999969,0.439000015,OpenPlay,RightFoot,0.02107165,MissedShots,Brennan Johnson,1,0,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,10760,Brennan Johnson,32,0.821999969,0.505,OpenPlay,RightFoot,0.217989907,MissedShots,Danilo,1,0,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,7814,Taiwo Awoniyi,42,0.859000015,0.624000015,OpenPlay,LeftFoot,0.057655796,SavedShot,Felipe,1,1,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,11317,Danilo,43,0.891999969,0.723000031,OpenPlay,LeftFoot,0.036193457,MissedShots,Morgan Gibbs-White,1,0,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,8204,Neco Williams,51,0.873000031,0.275,OpenPlay,RightFoot,0.037549496,MissedShots,Morgan Gibbs-White,1,0,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,8204,Neco Williams,58,0.925,0.429000015,OpenPlay,Head,0.04665279,SavedShot,Morgan Gibbs-White,1,1,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,11317,Danilo,67,0.873000031,0.417000008,OpenPlay,RightFoot,0.130037785,Goal,Taiwo Awoniyi,1,1,1
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,6857,Morgan Gibbs-White,73,0.846999969,0.519000015,OpenPlay,RightFoot,0.106878795,MissedShots,Danilo,1,0,0
+2022,18524,26/04/2023,Nottingham Forest,home,Brighton,6857,Morgan Gibbs-White,90,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,10806,Kaoru Mitoma,3,0.775999985,0.699000015,FromCorner,RightFoot,0.019880757,BlockedShot,Pascal Groß,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,11058,Julio Enciso,15,0.914000015,0.525,OpenPlay,LeftFoot,0.495136738,SavedShot,,1,1,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,10806,Kaoru Mitoma,18,0.743000031,0.464000015,OpenPlay,RightFoot,0.017055586,SavedShot,Alexis Mac Allister,1,1,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,11058,Julio Enciso,25,0.885999985,0.605999985,OpenPlay,RightFoot,0.088460654,BlockedShot,Kaoru Mitoma,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,8379,Alexis Mac Allister,30,0.780999985,0.457999992,OpenPlay,RightFoot,0.032220937,SavedShot,Solly March,1,1,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,8379,Alexis Mac Allister,36,0.816999969,0.507000008,OpenPlay,RightFoot,0.059715569,MissedShots,Solly March,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,6049,Solly March,37,0.813000031,0.312000008,OpenPlay,LeftFoot,0.028776804,SavedShot,Facundo Buonanotte,1,1,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,11362,Facundo Buonanotte,37,0.925,0.515999985,OpenPlay,LeftFoot,0.524329901,Goal,,1,1,1
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,239,Pascal Groß,47,0.050999999,0.324000015,OpenPlay,LeftFoot,0,OwnGoal,,0,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,5136,Estupiñán,48,0.864000015,0.545,OpenPlay,LeftFoot,0.078375451,MissedShots,Julio Enciso,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,10806,Kaoru Mitoma,57,0.86,0.544000015,OpenPlay,RightFoot,0.387988567,MissedShots,Facundo Buonanotte,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,6049,Solly March,78,0.880999985,0.739000015,OpenPlay,LeftFoot,0.034083501,SavedShot,Lewis Dunk,1,1,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,6048,Lewis Dunk,79,0.918000031,0.56,FromCorner,Head,0.074590258,MissedShots,Pascal Groß,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,8379,Alexis Mac Allister,81,0.755,0.871999969,OpenPlay,RightFoot,0.008377491,SavedShot,,1,1,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,10805,Levi Colwill,94,0.973000031,0.580999985,FromCorner,LeftFoot,0.310315549,MissedShots,Solly March,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,6049,Solly March,99,0.875999985,0.342000008,OpenPlay,LeftFoot,0.065086186,BlockedShot,Deniz Undav,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,8379,Alexis Mac Allister,99,0.843000031,0.452000008,OpenPlay,RightFoot,0.080177538,BlockedShot,Solly March,1,0,0
+2022,18524,26/04/2023,Brighton,away,Nottingham Forest,8379,Alexis Mac Allister,101,0.958000031,0.392000008,FromCorner,Head,0.041154627,MissedShots,Pascal Groß,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,6026,Richarlison,12,0.879000015,0.629000015,OpenPlay,RightFoot,0.108191304,SavedShot,Son Heung-Min,1,1,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,6912,Pedro Porro,20,0.716999969,0.318999996,OpenPlay,RightFoot,0.014067668,MissedShots,Harry Kane,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,448,Ivan Perisic,27,0.959000015,0.640999985,FromCorner,Head,0.014362333,SavedShot,Pedro Porro,1,1,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,453,Son Heung-Min,28,0.871999969,0.320999985,FromCorner,RightFoot,0.046205308,BlockedShot,,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,647,Harry Kane,39,0.973000031,0.664000015,OpenPlay,LeftFoot,0.062561728,MissedShots,Pierre-Emile Højbjerg,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,448,Ivan Perisic,42,0.885999985,0.66,OpenPlay,LeftFoot,0.259372264,SavedShot,Harry Kane,1,1,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,6912,Pedro Porro,47,0.895,0.342000008,OpenPlay,RightFoot,0.049128946,BlockedShot,,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,343,Pierre-Emile Højbjerg,49,0.683000031,0.464000015,OpenPlay,RightFoot,0.010762827,MissedShots,Ivan Perisic,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,647,Harry Kane,55,0.936999969,0.424000015,OpenPlay,LeftFoot,0.083311737,BlockedShot,,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,6912,Pedro Porro,55,0.864000015,0.420999985,OpenPlay,RightFoot,0.055019613,Goal,,1,1,1
+2022,18525,27/04/2023,Tottenham,home,Manchester United,343,Pierre-Emile Højbjerg,59,0.778000031,0.564000015,FromCorner,RightFoot,0.021406282,MissedShots,,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,647,Harry Kane,61,0.789000015,0.615,OpenPlay,LeftFoot,0.027267901,BlockedShot,Ivan Perisic,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,343,Pierre-Emile Højbjerg,62,0.778000031,0.47,FromCorner,RightFoot,0.022379784,SavedShot,,1,1,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,453,Son Heung-Min,65,0.900999985,0.582000008,OpenPlay,RightFoot,0.432650745,MissedShots,Harry Kane,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,6691,Dejan Kulusevski,66,0.899000015,0.288999996,OpenPlay,RightFoot,0.044664823,MissedShots,Harry Kane,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,643,Eric Dier,68,0.940999985,0.492999992,OpenPlay,Head,0.464538604,MissedShots,Ivan Perisic,1,0,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,647,Harry Kane,74,0.805999985,0.342000008,OpenPlay,RightFoot,0.026250018,SavedShot,Cristian Romero,1,1,0
+2022,18525,27/04/2023,Tottenham,home,Manchester United,453,Son Heung-Min,78,0.965,0.54,OpenPlay,RightFoot,0.635493457,Goal,Harry Kane,1,1,1
+2022,18525,27/04/2023,Manchester United,away,Tottenham,6345,Jadon Sancho,6,0.861999969,0.665999985,OpenPlay,RightFoot,0.059679378,Goal,Marcus Rashford,1,1,1
+2022,18525,27/04/2023,Manchester United,away,Tottenham,556,Marcus Rashford,12,0.704000015,0.445999985,DirectFreekick,RightFoot,0.038611986,MissedShots,,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,6345,Jadon Sancho,18,0.896999969,0.646999969,OpenPlay,RightFoot,0.100515157,BlockedShot,Bruno Fernandes,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,6345,Jadon Sancho,18,0.895999985,0.617000008,OpenPlay,RightFoot,0.090869159,BlockedShot,,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,1228,Bruno Fernandes,23,0.919000015,0.327999992,OpenPlay,RightFoot,0.091290459,BlockedShot,Antony,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,1228,Bruno Fernandes,24,0.713000031,0.686999969,OpenPlay,LeftFoot,0.014636684,SavedShot,Casemiro,1,1,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,1228,Bruno Fernandes,32,0.868000031,0.575,OpenPlay,RightFoot,0.117135189,BlockedShot,Antony,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,556,Marcus Rashford,38,0.956999969,0.420999985,OpenPlay,RightFoot,0.34616977,SavedShot,Bruno Fernandes,1,1,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,556,Marcus Rashford,40,0.849000015,0.705999985,OpenPlay,LeftFoot,0.046914108,SavedShot,Christian Eriksen,1,1,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,646,Christian Eriksen,41,0.710999985,0.500999985,DirectFreekick,RightFoot,0.04230823,MissedShots,,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,556,Marcus Rashford,43,0.905,0.624000015,OpenPlay,LeftFoot,0.351250678,Goal,Bruno Fernandes,1,1,1
+2022,18525,27/04/2023,Manchester United,away,Tottenham,1228,Bruno Fernandes,56,0.923000031,0.507000008,OpenPlay,RightFoot,0.527398288,ShotOnPost,Christian Eriksen,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,5584,Aaron Wan-Bissaka,56,0.9,0.560999985,OpenPlay,Head,0.029400043,SavedShot,,1,1,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,11094,Antony,57,0.761999969,0.405999985,FromCorner,LeftFoot,0.017504089,SavedShot,,1,1,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,556,Marcus Rashford,83,0.748000031,0.609000015,OpenPlay,RightFoot,0.016246773,MissedShots,,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,2248,Casemiro,92,0.925999985,0.445999985,OpenPlay,Head,0.05516785,MissedShots,Luke Shaw,1,0,0
+2022,18525,27/04/2023,Manchester United,away,Tottenham,6817,Fred,93,0.810999985,0.495,OpenPlay,RightFoot,0.044616405,BlockedShot,Wout Weghorst,1,0,0
+2022,18526,26/04/2023,West Ham,home,Liverpool,7365,Lucas Paquetá,11,0.765,0.627000008,OpenPlay,RightFoot,0.023902062,Goal,Michail Antonio,1,1,1
+2022,18526,26/04/2023,West Ham,home,Liverpool,3585,Said Benrahma,18,0.909000015,0.719000015,OpenPlay,RightFoot,0.037099775,MissedShots,Declan Rice,1,0,0
+2022,18526,26/04/2023,West Ham,home,Liverpool,531,Michail Antonio,41,0.975,0.532000008,FromCorner,Head,0.565249622,MissedShots,,1,0,0
+2022,18526,26/04/2023,West Ham,home,Liverpool,7365,Lucas Paquetá,46,0.81,0.497000008,OpenPlay,LeftFoot,0.044109967,BlockedShot,Said Benrahma,1,0,0
+2022,18526,26/04/2023,West Ham,home,Liverpool,3278,Maxwel Cornet,78,0.845999985,0.665999985,OpenPlay,LeftFoot,0.13785243,MissedShots,Declan Rice,1,0,0
+2022,18526,26/04/2023,West Ham,home,Liverpool,8288,Tomas Soucek,83,0.914000015,0.539000015,FromCorner,Head,0.078905374,MissedShots,Aaron Cresswell,1,0,0
+2022,18526,26/04/2023,West Ham,home,Liverpool,1776,Jarrod Bowen,85,0.88,0.34,OpenPlay,LeftFoot,0.052228797,SavedShot,Lucas Paquetá,1,1,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,1250,Mohamed Salah,6,0.853000031,0.236000004,OpenPlay,LeftFoot,0.023896145,BlockedShot,Cody Gakpo,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,11296,Cody Gakpo,6,0.886999969,0.313999996,OpenPlay,RightFoot,0.040919203,BlockedShot,,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,833,Virgil van Dijk,7,0.909000015,0.49,FromCorner,Head,0.031112997,BlockedShot,Trent Alexander-Arnold,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,11296,Cody Gakpo,17,0.725999985,0.377000008,OpenPlay,RightFoot,0.01810055,Goal,Trent Alexander-Arnold,1,1,1
+2022,18526,26/04/2023,Liverpool,away,West Ham,1250,Mohamed Salah,22,0.849000015,0.242000008,OpenPlay,LeftFoot,0.018401787,BlockedShot,Curtis Jones,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,6854,Diogo Jota,26,0.854000015,0.617000008,OpenPlay,RightFoot,0.05819571,MissedShots,Jordan Henderson,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,3420,Fabinho,31,0.725,0.731999969,OpenPlay,RightFoot,0.010969543,MissedShots,Curtis Jones,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,833,Virgil van Dijk,35,0.930999985,0.534000015,FromCorner,OtherBodyPart,0.08249604,MissedShots,Andrew Robertson,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,6854,Diogo Jota,38,0.959000015,0.51,OpenPlay,Head,0.584968507,MissedShots,Jordan Henderson,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,6665,Curtis Jones,42,0.905999985,0.584000015,OpenPlay,Head,0.034161851,MissedShots,Jordan Henderson,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,3420,Fabinho,42,0.759000015,0.627000008,OpenPlay,RightFoot,0.01159033,SavedShot,,1,1,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,1250,Mohamed Salah,57,0.815999985,0.439000015,OpenPlay,LeftFoot,0.058033083,BlockedShot,Cody Gakpo,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,1791,Trent Alexander-Arnold,57,0.679000015,0.385,OpenPlay,RightFoot,0.008752028,MissedShots,,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,10408,Luis Díaz,62,0.855,0.72,OpenPlay,RightFoot,0.02045651,MissedShots,Curtis Jones,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,1791,Trent Alexander-Arnold,63,0.789000015,0.355999985,OpenPlay,RightFoot,0.02753113,MissedShots,Fabinho,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,332,Joel Matip,65,0.955999985,0.527000008,FromCorner,Head,0.133499935,MissedShots,Andrew Robertson,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,332,Joel Matip,65,0.950999985,0.492999992,FromCorner,RightFoot,0.147837356,SavedShot,,1,1,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,10408,Luis Díaz,65,0.924000015,0.665999985,FromCorner,RightFoot,0.058294415,BlockedShot,,1,0,0
+2022,18526,26/04/2023,Liverpool,away,West Ham,332,Joel Matip,66,0.925999985,0.552999992,FromCorner,Head,0.30076471,Goal,Andrew Robertson,1,1,1
+2022,18526,26/04/2023,Liverpool,away,West Ham,229,Thiago Alcántara,72,0.925,0.292999992,OpenPlay,RightFoot,0.070485264,BlockedShot,Mohamed Salah,1,0,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,802,Diego Costa,1,0.883000031,0.437999992,OpenPlay,LeftFoot,0.084597237,SavedShot,Hugo Bueno,1,1,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,8845,Hee-Chan Hwang,23,0.879000015,0.355,OpenPlay,RightFoot,0.034080423,MissedShots,,1,0,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,1299,Mario Lemina,33,0.804000015,0.723000031,OpenPlay,RightFoot,0.030294031,MissedShots,,1,0,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,8845,Hee-Chan Hwang,37,0.9,0.562000008,FromCorner,Head,0.015733467,BlockedShot,Rúben Neves,1,0,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,7332,Max Kilman,46,0.926999969,0.455,FromCorner,Head,0.044579666,MissedShots,Rúben Neves,1,0,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,8845,Hee-Chan Hwang,50,0.815999985,0.472999992,OpenPlay,LeftFoot,0.076466359,BlockedShot,Diego Costa,1,0,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,6853,Rúben Neves,51,0.756999969,0.429000015,OpenPlay,RightFoot,0.022460209,SavedShot,,1,1,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,804,Craig Dawson,63,0.949000015,0.557000008,FromCorner,Head,0.060624257,MissedShots,Hugo Bueno,1,0,0
+2022,18527,25/04/2023,Wolverhampton Wanderers,home,Crystal Palace,6853,Rúben Neves,93,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,6314,Joachim Andersen,2,0.020999999,0.515,FromCorner,LeftFoot,0,OwnGoal,,0,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,672,Jordan Ayew,6,0.955,0.674000015,OpenPlay,LeftFoot,0.05487423,BlockedShot,Eberechi Eze,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,8706,Eberechi Eze,28,0.728000031,0.5,OpenPlay,RightFoot,0.013942057,SavedShot,Tyrick Mitchell,1,1,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,5549,Luka Milivojevic,38,0.760999985,0.527000008,OpenPlay,LeftFoot,0.021594653,MissedShots,Eberechi Eze,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,9689,Albert Sambi Lokonga,38,0.896999969,0.435999985,OpenPlay,RightFoot,0.112233005,SavedShot,Will Hughes,1,1,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,9689,Albert Sambi Lokonga,47,0.794000015,0.287000008,OpenPlay,RightFoot,0.018471546,MissedShots,Michael Olise,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,8706,Eberechi Eze,50,0.795999985,0.334000015,FromCorner,RightFoot,0.019119479,MissedShots,,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,757,Jeffrey Schlupp,72,0.92,0.743000031,OpenPlay,LeftFoot,0.034086242,BlockedShot,Jordan Ayew,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,8706,Eberechi Eze,72,0.770999985,0.685999985,FromCorner,LeftFoot,0.013309199,SavedShot,,1,1,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,8706,Eberechi Eze,73,0.759000015,0.477999992,FromCorner,LeftFoot,0.024473216,BlockedShot,Will Hughes,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,7603,Marc Guehi,74,0.955,0.579000015,FromCorner,Head,0.041431844,SavedShot,Michael Olise,1,1,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,8706,Eberechi Eze,79,0.851999969,0.420999985,OpenPlay,RightFoot,0.054370526,BlockedShot,Joel Ward,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,510,Joel Ward,83,0.843000031,0.286000004,SetPiece,LeftFoot,0.025514545,BlockedShot,Eberechi Eze,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,9948,Michael Olise,85,0.873000031,0.298999996,OpenPlay,LeftFoot,0.04430154,BlockedShot,Eberechi Eze,1,0,0
+2022,18527,25/04/2023,Crystal Palace,away,Wolverhampton Wanderers,5735,Jean-Philippe Mateta,89,0.921999969,0.554000015,OpenPlay,Head,0.102571584,MissedShots,Joel Ward,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,2203,Emiliano Buendía,5,0.85,0.49,OpenPlay,LeftFoot,0.055305347,BlockedShot,Álex Moreno,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,631,Ashley Young,9,0.799000015,0.324000015,FromCorner,RightFoot,0.018873125,BlockedShot,,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,8941,Jacob Ramsey,9,0.799000015,0.504000015,FromCorner,RightFoot,0.030254444,MissedShots,,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,8865,Ollie Watkins,19,0.875,0.439000015,OpenPlay,RightFoot,0.079304703,BlockedShot,,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,1024,Tyrone Mings,20,0.95,0.407000008,FromCorner,Head,0.065294728,Goal,John McGinn,1,1,1
+2022,18528,25/04/2023,Aston Villa,home,Fulham,4120,Álex Moreno,25,0.916999969,0.716999969,OpenPlay,LeftFoot,0.031240767,BlockedShot,Ashley Young,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,8865,Ollie Watkins,34,0.799000015,0.675,OpenPlay,RightFoot,0.052907083,SavedShot,Jacob Ramsey,1,1,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,2203,Emiliano Buendía,37,0.799000015,0.515,OpenPlay,RightFoot,0.060927536,BlockedShot,Jacob Ramsey,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,7723,John McGinn,47,0.929000015,0.349000015,OpenPlay,Head,0.018654492,SavedShot,Jacob Ramsey,1,1,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,7726,Ezri Konsa Ngoyo,55,0.959000015,0.467000008,FromCorner,Head,0.083607487,BlockedShot,John McGinn,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,8865,Ollie Watkins,72,0.939000015,0.645,OpenPlay,LeftFoot,0.133686081,MissedShots,John McGinn,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,6122,Douglas Luiz,79,0.795999985,0.425,OpenPlay,RightFoot,0.071243323,MissedShots,,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,8865,Ollie Watkins,86,0.875,0.710999985,OpenPlay,RightFoot,0.048024993,BlockedShot,Emiliano Buendía,1,0,0
+2022,18528,25/04/2023,Aston Villa,home,Fulham,7723,John McGinn,90,0.825,0.515,OpenPlay,LeftFoot,0.08983539,MissedShots,Douglas Luiz,1,0,0
+2022,18528,25/04/2023,Fulham,away,Aston Villa,922,Andreas Pereira,0,0.871999969,0.460999985,OpenPlay,RightFoot,0.079864003,MissedShots,Harrison Reed,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,751,N&#039;Golo Kanté,20,0.780999985,0.303999996,OpenPlay,RightFoot,0.016910015,BlockedShot,,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,3288,Thiago Silva,22,0.889000015,0.452000008,OpenPlay,Head,0.057983778,SavedShot,N&#039;Golo Kanté,1,1,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,11356,Enzo Fernández,30,0.851999969,0.313999996,OpenPlay,RightFoot,0.036087632,SavedShot,N&#039;Golo Kanté,1,1,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,6615,Trevoh Chalobah,31,0.933000031,0.515999985,FromCorner,Head,0.061480232,BlockedShot,Ben Chilwell,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,751,N&#039;Golo Kanté,31,0.788000031,0.34,FromCorner,LeftFoot,0.020573139,MissedShots,Enzo Fernández,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,618,Raheem Sterling,32,0.818000031,0.33,OpenPlay,LeftFoot,0.033564471,MissedShots,Conor Gallagher,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,681,César Azpilicueta,36,0.044000001,0.5,FromCorner,OtherBodyPart,0,OwnGoal,,0,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,3288,Thiago Silva,41,0.698000031,0.354000015,OpenPlay,RightFoot,0.013136654,MissedShots,Wesley Fofana,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,751,N&#039;Golo Kanté,48,0.875999985,0.675,OpenPlay,LeftFoot,0.045772389,MissedShots,,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,318,Pierre-Emerick Aubameyang,51,0.906999969,0.495,OpenPlay,RightFoot,0.107523523,MissedShots,Raheem Sterling,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,318,Pierre-Emerick Aubameyang,53,0.868000031,0.425999985,OpenPlay,RightFoot,0.079769515,SavedShot,N&#039;Golo Kanté,1,1,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,318,Pierre-Emerick Aubameyang,54,0.949000015,0.512999992,OpenPlay,Head,0.41880697,MissedShots,Raheem Sterling,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,3288,Thiago Silva,56,0.915999985,0.555,SetPiece,Head,0.108926907,MissedShots,Mykhailo Mudryk,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,318,Pierre-Emerick Aubameyang,58,0.871999969,0.614000015,OpenPlay,RightFoot,0.067727,SavedShot,Mateo Kovacic,1,1,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,618,Raheem Sterling,60,0.795999985,0.624000015,SetPiece,RightFoot,0.026246373,BlockedShot,Enzo Fernández,1,0,0
+2022,18529,26/04/2023,Chelsea,home,Brentford,11357,Noni Madueke,91,0.919000015,0.450999985,OpenPlay,Head,0.116734132,MissedShots,Trevoh Chalobah,1,0,0
+2022,18529,26/04/2023,Brentford,away,Chelsea,1654,Ben Mee,26,0.945999985,0.482000008,OpenPlay,Head,0.117821001,MissedShots,Mathias Jensen,1,0,0
+2022,18529,26/04/2023,Brentford,away,Chelsea,6030,Zanka,36,0.951999969,0.532000008,FromCorner,Head,0.130355969,MissedShots,Mathias Jensen,1,0,0
+2022,18529,26/04/2023,Brentford,away,Chelsea,6552,Bryan Mbeumo,66,0.863000031,0.253999996,OpenPlay,LeftFoot,0.04110948,MissedShots,Vitaly Janelt,1,0,0
+2022,18529,26/04/2023,Brentford,away,Chelsea,998,Ivan Toney,75,0.865999985,0.282999992,OpenPlay,RightFoot,0.036546331,BlockedShot,Rico Henry,1,0,0
+2022,18529,26/04/2023,Brentford,away,Chelsea,6552,Bryan Mbeumo,77,0.893000031,0.313999996,OpenPlay,LeftFoot,0.204509437,Goal,Shandon Baptiste,1,1,1
+2022,18529,26/04/2023,Brentford,away,Chelsea,9914,Shandon Baptiste,83,0.904000015,0.547999992,OpenPlay,Head,0.040064335,MissedShots,Vitaly Janelt,1,0,0
+2022,18529,26/04/2023,Brentford,away,Chelsea,9678,Ethan Pinnock,83,0.951999969,0.402000008,OpenPlay,RightFoot,0.13015148,MissedShots,Shandon Baptiste,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,503,Theo Walcott,2,0.856999969,0.345999985,OpenPlay,LeftFoot,0.053493008,SavedShot,Mohamed Elyounoussi,1,1,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,6500,Romain Perraud,8,0.748000031,0.577000008,FromCorner,RightFoot,0.018074721,BlockedShot,,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,4419,Adam Armstrong,12,0.963000031,0.612999992,OpenPlay,RightFoot,0.094274223,ShotOnPost,,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,503,Theo Walcott,12,0.790999985,0.709000015,FromCorner,RightFoot,0.018658487,MissedShots,James Ward-Prowse,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,4419,Adam Armstrong,19,0.813000031,0.38,OpenPlay,RightFoot,0.051928069,BlockedShot,Romeo Lavia,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,503,Theo Walcott,20,0.905,0.457999992,OpenPlay,Head,0.088227659,BlockedShot,Kyle Walker-Peters,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,7007,Duje Caleta-Car,62,0.789000015,0.713000031,OpenPlay,LeftFoot,0.018453663,MissedShots,,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,4419,Adam Armstrong,65,0.86,0.547999992,OpenPlay,Head,0.023238527,SavedShot,Stuart Armstrong,1,1,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,9630,Kamaldeen Sulemana,83,0.784000015,0.584000015,OpenPlay,RightFoot,0.034711033,MissedShots,Romeo Lavia,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,11297,Carlos Alcaraz,86,0.855999985,0.676999969,SetPiece,LeftFoot,0.040809575,MissedShots,Romeo Lavia,1,0,0
+2022,18530,27/04/2023,Southampton,home,Bournemouth,10004,Romeo Lavia,91,0.788000031,0.482999992,OpenPlay,RightFoot,0.035165302,MissedShots,,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,10744,Ryan Christie,6,0.874000015,0.625,OpenPlay,RightFoot,0.089524053,BlockedShot,Matias Viña,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,10741,Marcus Tavernier,8,0.885,0.375999985,OpenPlay,LeftFoot,0.105905861,BlockedShot,Ryan Christie,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,6034,Philip Billing,21,0.808000031,0.497000008,OpenPlay,LeftFoot,0.053621057,MissedShots,Dominic Solanke,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,1679,Dominic Solanke,24,0.764000015,0.355,OpenPlay,RightFoot,0.024048597,BlockedShot,Jefferson Lerma,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,1679,Dominic Solanke,24,0.900999985,0.639000015,OpenPlay,LeftFoot,0.076023601,MissedShots,Ryan Christie,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,2182,Jefferson Lerma,36,0.891999969,0.47,FromCorner,Head,0.016741756,MissedShots,Ryan Christie,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,10741,Marcus Tavernier,49,0.873000031,0.429000015,OpenPlay,LeftFoot,0.104400694,Goal,Dominic Solanke,1,1,1
+2022,18530,27/04/2023,Bournemouth,away,Southampton,10741,Marcus Tavernier,52,0.893000031,0.627000008,OpenPlay,LeftFoot,0.133898363,BlockedShot,,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,10744,Ryan Christie,52,0.923000031,0.708000031,OpenPlay,LeftFoot,0.050280541,BlockedShot,,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,10744,Ryan Christie,55,0.873000031,0.372999992,OpenPlay,RightFoot,0.072118148,BlockedShot,Marcus Tavernier,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,6034,Philip Billing,55,0.889000015,0.385999985,OpenPlay,LeftFoot,0.090265028,BlockedShot,,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,9892,Matias Viña,56,0.743000031,0.69,FromCorner,LeftFoot,0.013433511,BlockedShot,,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,10744,Ryan Christie,58,0.889000015,0.242999992,OpenPlay,RightFoot,0.037640736,BlockedShot,Philip Billing,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,9892,Matias Viña,59,0.809000015,0.545,FromCorner,LeftFoot,0.033689927,MissedShots,,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,6034,Philip Billing,59,0.853000031,0.395999985,OpenPlay,LeftFoot,0.049544707,BlockedShot,Marcus Tavernier,1,0,0
+2022,18530,27/04/2023,Bournemouth,away,Southampton,561,Joe Rothwell,70,0.771999969,0.604000015,OpenPlay,RightFoot,0.044149701,SavedShot,,1,1,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,447,Kevin De Bruyne,6,0.785,0.392999992,OpenPlay,RightFoot,0.030651323,Goal,Erling Haaland,1,1,1
+2022,18531,26/04/2023,Manchester City,home,Arsenal,3635,Bernardo Silva,21,0.875,0.34,OpenPlay,LeftFoot,0.074387923,SavedShot,,1,1,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,447,Kevin De Bruyne,25,0.879000015,0.550999985,OpenPlay,LeftFoot,0.192550942,BlockedShot,Erling Haaland,1,0,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,8260,Erling Haaland,27,0.895,0.437000008,OpenPlay,LeftFoot,0.406842023,SavedShot,Kevin De Bruyne,1,1,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,8260,Erling Haaland,31,0.939000015,0.706999969,OpenPlay,LeftFoot,0.061109435,SavedShot,Jack Grealish,1,1,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,8260,Erling Haaland,35,0.849000015,0.537999992,OpenPlay,LeftFoot,0.131093428,MissedShots,Jack Grealish,1,0,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,8260,Erling Haaland,40,0.913000031,0.587999992,OpenPlay,LeftFoot,0.129505098,SavedShot,Ilkay Gündogan,1,1,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,586,John Stones,45,0.935,0.580999985,SetPiece,Head,0.265846819,Goal,Kevin De Bruyne,1,1,1
+2022,18531,26/04/2023,Manchester City,home,Arsenal,447,Kevin De Bruyne,45,0.901999969,0.303999996,OpenPlay,RightFoot,0.087181702,MissedShots,Bernardo Silva,1,0,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,8260,Erling Haaland,52,0.838000031,0.477999992,OpenPlay,LeftFoot,0.299632967,SavedShot,Rúben Dias,1,1,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,3635,Bernardo Silva,52,0.821999969,0.542000008,OpenPlay,LeftFoot,0.084836036,BlockedShot,Jack Grealish,1,0,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,447,Kevin De Bruyne,53,0.893000031,0.64,OpenPlay,RightFoot,0.099180095,Goal,Erling Haaland,1,1,1
+2022,18531,26/04/2023,Manchester City,home,Arsenal,314,Ilkay Gündogan,63,0.763000031,0.385,OpenPlay,RightFoot,0.027797364,MissedShots,Jack Grealish,1,0,0
+2022,18531,26/04/2023,Manchester City,home,Arsenal,8260,Erling Haaland,94,0.860999985,0.495999985,OpenPlay,LeftFoot,0.121068805,Goal,Phil Foden,1,1,1
+2022,18531,26/04/2023,Arsenal,away,Manchester City,5613,Gabriel,23,0.874000015,0.405999985,SetPiece,Head,0.009080426,MissedShots,Granit Xhaka,1,0,0
+2022,18531,26/04/2023,Arsenal,away,Manchester City,2328,Thomas Partey,34,0.815999985,0.477999992,OpenPlay,RightFoot,0.057942186,MissedShots,Martin Odegaard,1,0,0
+2022,18531,26/04/2023,Arsenal,away,Manchester City,204,Granit Xhaka,47,0.795,0.690999985,OpenPlay,LeftFoot,0.015315484,SavedShot,Oleksandr Zinchenko,1,1,0
+2022,18531,26/04/2023,Arsenal,away,Manchester City,5613,Gabriel,56,0.888000031,0.519000015,SetPiece,LeftFoot,0.081199899,BlockedShot,,1,0,0
+2022,18531,26/04/2023,Arsenal,away,Manchester City,2958,Oleksandr Zinchenko,56,0.8,0.51,SetPiece,LeftFoot,0.037500881,BlockedShot,Thomas Partey,1,0,0
+2022,18531,26/04/2023,Arsenal,away,Manchester City,1749,Rob Holding,56,0.905,0.445,SetPiece,RightFoot,0.091689281,BlockedShot,,1,0,0
+2022,18531,26/04/2023,Arsenal,away,Manchester City,7322,Bukayo Saka,79,0.774000015,0.295,DirectFreekick,LeftFoot,0.052320097,MissedShots,,1,0,0
+2022,18531,26/04/2023,Arsenal,away,Manchester City,1749,Rob Holding,85,0.853000031,0.497999992,FromCorner,RightFoot,0.053324036,Goal,Leandro Trossard,1,1,1
+2022,18532,2/05/2023,Arsenal,home,Chelsea,7322,Bukayo Saka,0,0.856999969,0.349000015,OpenPlay,LeftFoot,0.057186384,BlockedShot,Gabriel Jesus,1,0,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,204,Granit Xhaka,4,0.933000031,0.534000015,OpenPlay,LeftFoot,0.567588091,SavedShot,,1,1,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,7322,Bukayo Saka,14,0.926999969,0.484000015,FromCorner,Head,0.116469495,SavedShot,Leandro Trossard,1,1,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,5543,Gabriel Jesus,14,0.945999985,0.342999992,FromCorner,RightFoot,0.061449043,BlockedShot,,1,0,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,2517,Martin Odegaard,17,0.851999969,0.440999985,OpenPlay,LeftFoot,0.090550736,Goal,Granit Xhaka,1,1,1
+2022,18532,2/05/2023,Arsenal,home,Chelsea,2517,Martin Odegaard,30,0.890999985,0.48,OpenPlay,LeftFoot,0.325335771,Goal,Granit Xhaka,1,1,1
+2022,18532,2/05/2023,Arsenal,home,Chelsea,204,Granit Xhaka,33,0.954000015,0.560999985,OpenPlay,LeftFoot,0.151427194,BlockedShot,Gabriel Jesus,1,0,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,5543,Gabriel Jesus,33,0.965,0.612999992,OpenPlay,RightFoot,0.391152203,Goal,,1,1,1
+2022,18532,2/05/2023,Arsenal,home,Chelsea,5613,Gabriel,50,0.969000015,0.499000015,FromCorner,Head,0.111445755,BlockedShot,Leandro Trossard,1,0,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,204,Granit Xhaka,51,0.858000031,0.515999985,OpenPlay,LeftFoot,0.190500528,SavedShot,Bukayo Saka,1,1,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,5543,Gabriel Jesus,52,0.979000015,0.419000015,FromCorner,RightFoot,0.465687633,MissedShots,,1,0,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,7322,Bukayo Saka,55,0.965999985,0.335999985,OpenPlay,RightFoot,0.088683575,SavedShot,Martin Odegaard,1,1,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,7322,Bukayo Saka,56,0.76,0.432999992,OpenPlay,LeftFoot,0.060418308,MissedShots,Ben White,1,0,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,7322,Bukayo Saka,62,0.82,0.509000015,FromCorner,LeftFoot,0.041697979,MissedShots,,1,0,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,2517,Martin Odegaard,83,0.896999969,0.33,OpenPlay,LeftFoot,0.097272694,SavedShot,Ben White,1,1,0
+2022,18532,2/05/2023,Arsenal,home,Chelsea,204,Granit Xhaka,94,0.750999985,0.584000015,OpenPlay,LeftFoot,0.032723885,SavedShot,Martin Odegaard,1,1,0
+2022,18532,2/05/2023,Chelsea,away,Arsenal,11356,Enzo Fernández,0,0.745,0.654000015,OpenPlay,RightFoot,0.015547052,BlockedShot,,1,0,0
+2022,18532,2/05/2023,Chelsea,away,Arsenal,782,Ben Chilwell,24,0.894000015,0.635999985,OpenPlay,LeftFoot,0.262562156,SavedShot,N&#039;Golo Kanté,1,1,0
+2022,18532,2/05/2023,Chelsea,away,Arsenal,11357,Noni Madueke,64,0.904000015,0.449000015,OpenPlay,LeftFoot,0.275284618,Goal,Mateo Kovacic,1,1,1
+2022,18532,2/05/2023,Chelsea,away,Arsenal,3288,Thiago Silva,77,0.875999985,0.544000015,SetPiece,Head,0.040789917,BlockedShot,Mykhailo Mudryk,1,0,0
+2022,18532,2/05/2023,Chelsea,away,Arsenal,8992,Hakim Ziyech,90,0.750999985,0.675999985,OpenPlay,LeftFoot,0.012986015,MissedShots,Mateo Kovacic,1,0,0
+2022,18532,2/05/2023,Chelsea,away,Arsenal,5220,Kai Havertz,92,0.885,0.731999969,OpenPlay,LeftFoot,0.029289583,SavedShot,Mykhailo Mudryk,1,1,0
+2022,18532,2/05/2023,Chelsea,away,Arsenal,5220,Kai Havertz,93,0.945999985,0.480999985,OpenPlay,OtherBodyPart,0.148742288,SavedShot,Mykhailo Mudryk,1,1,0
+2022,18533,30/04/2023,Bournemouth,home,Leeds,9662,Dango Ouattara,16,0.884000015,0.307999992,OpenPlay,LeftFoot,0.040625565,BlockedShot,Jefferson Lerma,1,0,0
+2022,18533,30/04/2023,Bournemouth,home,Leeds,9892,Matias Viña,16,0.96,0.654000015,OpenPlay,RightFoot,0.059271805,MissedShots,,1,0,0
+2022,18533,30/04/2023,Bournemouth,home,Leeds,6034,Philip Billing,19,0.906999969,0.475999985,OpenPlay,RightFoot,0.137643293,BlockedShot,Dominic Solanke,1,0,0
+2022,18533,30/04/2023,Bournemouth,home,Leeds,2182,Jefferson Lerma,19,0.840999985,0.595,OpenPlay,RightFoot,0.049999587,Goal,,1,1,1
+2022,18533,30/04/2023,Bournemouth,home,Leeds,9892,Matias Viña,22,0.776999969,0.617999992,OpenPlay,LeftFoot,0.033940695,SavedShot,Philip Billing,1,1,0
+2022,18533,30/04/2023,Bournemouth,home,Leeds,2182,Jefferson Lerma,23,0.914000015,0.524000015,FromCorner,RightFoot,0.488616228,Goal,,1,1,1
+2022,18533,30/04/2023,Bournemouth,home,Leeds,10744,Ryan Christie,47,0.863000031,0.490999985,OpenPlay,RightFoot,0.10083098,BlockedShot,,1,0,0
+2022,18533,30/04/2023,Bournemouth,home,Leeds,6034,Philip Billing,58,0.954000015,0.532999992,OpenPlay,LeftFoot,0.569718242,SavedShot,Ryan Christie,1,1,0
+2022,18533,30/04/2023,Bournemouth,home,Leeds,1679,Dominic Solanke,62,0.940999985,0.405999985,OpenPlay,RightFoot,0.445327044,Goal,,1,1,1
+2022,18533,30/04/2023,Bournemouth,home,Leeds,10743,Kieffer Moore,80,0.925999985,0.519000015,OpenPlay,Head,0.439639419,MissedShots,Lewis Cook,1,0,0
+2022,18533,30/04/2023,Bournemouth,home,Leeds,11363,Antoine Semenyo,90,0.861999969,0.63,OpenPlay,LeftFoot,0.094299078,Goal,Jaidon Anthony,1,1,1
+2022,18533,30/04/2023,Bournemouth,home,Leeds,2182,Jefferson Lerma,92,0.91,0.567000008,FromCorner,Head,0.066612996,SavedShot,Adam Smith,1,1,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,822,Patrick Bamford,3,0.775,0.407999992,OpenPlay,LeftFoot,0.02887838,MissedShots,Crysencio Summerville,1,0,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,5086,Marc Roca,5,0.816999969,0.387000008,DirectFreekick,LeftFoot,0.125154123,SavedShot,,1,1,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,8720,Jack Harrison,11,0.880999985,0.547999992,OpenPlay,LeftFoot,0.085952498,BlockedShot,,1,0,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,822,Patrick Bamford,19,0.791999969,0.322000008,OpenPlay,LeftFoot,0.018760078,SavedShot,Crysencio Summerville,1,1,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,822,Patrick Bamford,31,0.955999985,0.464000015,OpenPlay,Head,0.529297292,Goal,Wilfried Gnonto,1,1,1
+2022,18533,30/04/2023,Leeds,away,Bournemouth,5086,Marc Roca,36,0.741999969,0.464000015,OpenPlay,LeftFoot,0.018730385,BlockedShot,Wilfried Gnonto,1,0,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,11155,Wilfried Gnonto,45,0.909000015,0.485,OpenPlay,Head,0.037849925,MissedShots,Luke Ayling,1,0,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,8716,Luke Ayling,49,0.920999985,0.301000004,SetPiece,RightFoot,0.045224119,MissedShots,,1,0,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,9492,Crysencio Summerville,51,0.908000031,0.542999992,FromCorner,RightFoot,0.087952189,MissedShots,Weston McKennie,1,0,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,11155,Wilfried Gnonto,59,0.960999985,0.582000008,OpenPlay,Head,0.05399115,MissedShots,Luke Ayling,1,0,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,5086,Marc Roca,69,0.775999985,0.520999985,OpenPlay,LeftFoot,0.032098588,SavedShot,Patrick Bamford,1,1,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,6273,Robin Koch,71,0.963000031,0.442999992,FromCorner,Head,0.073562436,SavedShot,Jack Harrison,1,1,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,11155,Wilfried Gnonto,71,0.859000015,0.535999985,FromCorner,RightFoot,0.071373224,SavedShot,,1,1,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,5086,Marc Roca,71,0.95,0.415999985,FromCorner,Head,0.081511937,MissedShots,Jack Harrison,1,0,0
+2022,18533,30/04/2023,Leeds,away,Bournemouth,11155,Wilfried Gnonto,71,0.905999985,0.665999985,FromCorner,RightFoot,0.056421593,MissedShots,,1,0,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,8859,Mikkel Damsgaard,7,0.855999985,0.532000008,OpenPlay,RightFoot,0.10572125,BlockedShot,Ivan Toney,1,0,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,6552,Bryan Mbeumo,9,0.755,0.272000008,OpenPlay,LeftFoot,0.011360713,SavedShot,,1,1,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,9679,Rico Henry,34,0.904000015,0.602999992,SetPiece,Head,0.039628778,MissedShots,Bryan Mbeumo,1,0,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,9156,Kevin Schade,38,0.930999985,0.614000015,OpenPlay,Head,0.026627252,SavedShot,Vitaly Janelt,1,1,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,9678,Ethan Pinnock,41,0.903000031,0.367000008,OpenPlay,RightFoot,0.080141827,SavedShot,,1,1,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,8859,Mikkel Damsgaard,41,0.961999969,0.475999985,OpenPlay,RightFoot,0.673328757,SavedShot,,1,1,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,1654,Ben Mee,43,0.865,0.539000015,SetPiece,Head,0.032721095,SavedShot,Bryan Mbeumo,1,1,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,6552,Bryan Mbeumo,49,0.969000015,0.557000008,FromCorner,Head,0.130643204,BlockedShot,Mathias Jensen,1,0,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,10405,Josh Dasilva,59,0.818000031,0.545,OpenPlay,LeftFoot,0.046778027,BlockedShot,,1,0,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,1654,Ben Mee,78,0.906999969,0.537999992,FromCorner,LeftFoot,0.103459783,MissedShots,,1,0,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,998,Ivan Toney,81,0.751999969,0.322999992,DirectFreekick,RightFoot,0.047613125,Goal,,1,1,1
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,9681,Frank Onyeka,88,0.775,0.495999985,OpenPlay,RightFoot,0.033670224,SavedShot,Saman Ghoddos,1,1,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,8942,Aaron Hickey,90,0.725999985,0.272000008,OpenPlay,RightFoot,0.01164856,MissedShots,Josh Dasilva,1,0,0
+2022,18534,29/04/2023,Brentford,home,Nottingham Forest,10405,Josh Dasilva,93,0.860999985,0.278999996,OpenPlay,LeftFoot,0.031213844,Goal,Frank Onyeka,1,1,1
+2022,18534,29/04/2023,Nottingham Forest,away,Brentford,7814,Taiwo Awoniyi,40,0.905999985,0.535999985,OpenPlay,Head,0.265342236,MissedShots,Brennan Johnson,1,0,0
+2022,18534,29/04/2023,Nottingham Forest,away,Brentford,6857,Morgan Gibbs-White,45,0.805,0.452000008,OpenPlay,RightFoot,0.045914579,BlockedShot,,1,0,0
+2022,18534,29/04/2023,Nottingham Forest,away,Brentford,11317,Danilo,45,0.93,0.525999985,OpenPlay,LeftFoot,0.543161571,Goal,,1,1,1
+2022,18534,29/04/2023,Nottingham Forest,away,Brentford,6857,Morgan Gibbs-White,62,0.774000015,0.602999992,OpenPlay,RightFoot,0.033196706,SavedShot,André Ayew,1,1,0
+2022,18534,29/04/2023,Nottingham Forest,away,Brentford,5989,Moussa Niakhate,71,0.865,0.464000015,SetPiece,LeftFoot,0.077017277,SavedShot,Renan Lodi,1,1,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,501,Danny Welbeck,5,0.906999969,0.482999992,OpenPlay,RightFoot,0.131369591,MissedShots,Joël Veltman,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,10804,Deniz Undav,5,0.95,0.545999985,OpenPlay,LeftFoot,0.60115248,Goal,Danny Welbeck,1,1,1
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,239,Pascal Groß,12,0.896999969,0.435,OpenPlay,LeftFoot,0.522104204,Goal,Julio Enciso,1,1,1
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,501,Danny Welbeck,18,0.836999969,0.520999985,OpenPlay,RightFoot,0.0744882,MissedShots,,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,501,Danny Welbeck,20,0.96,0.554000015,OpenPlay,RightFoot,0.1371869,SavedShot,,1,1,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,11058,Julio Enciso,24,0.773000031,0.715999985,OpenPlay,RightFoot,0.026999101,MissedShots,Danny Welbeck,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,239,Pascal Groß,25,0.786999969,0.400999985,OpenPlay,RightFoot,0.04399522,Goal,Julio Enciso,1,1,1
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,11058,Julio Enciso,31,0.873000031,0.725,OpenPlay,RightFoot,0.065119192,SavedShot,,1,1,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,501,Danny Welbeck,38,0.968000031,0.440999985,OpenPlay,Head,0.5025267,Goal,Estupiñán,1,1,1
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,6049,Solly March,47,0.859000015,0.499000015,OpenPlay,LeftFoot,0.094345532,MissedShots,,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,501,Danny Welbeck,47,0.798000031,0.547000008,OpenPlay,LeftFoot,0.044985935,Goal,,1,1,1
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,5136,Estupiñán,50,0.875,0.562999992,OpenPlay,LeftFoot,0.425060511,BlockedShot,Lewis Dunk,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,10804,Deniz Undav,57,0.9,0.641999969,OpenPlay,LeftFoot,0.105809346,BlockedShot,Kaoru Mitoma,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,10804,Deniz Undav,65,0.908000031,0.3,OpenPlay,RightFoot,0.364638239,Goal,,1,1,1
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,7988,Billy Gilmour,74,0.811999969,0.465999985,OpenPlay,RightFoot,0.078434952,ShotOnPost,Moisés Caicedo,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,5136,Estupiñán,75,0.886999969,0.580999985,OpenPlay,LeftFoot,0.122159645,MissedShots,Alexis Mac Allister,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,9453,Moisés Caicedo,77,0.801999969,0.497000008,OpenPlay,LeftFoot,0.046646945,BlockedShot,,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,239,Pascal Groß,85,0.766999969,0.658000031,SetPiece,RightFoot,0.017514806,BlockedShot,Estupiñán,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,11362,Facundo Buonanotte,85,0.875999985,0.540999985,SetPiece,LeftFoot,0.089239389,BlockedShot,Alexis Mac Allister,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,8379,Alexis Mac Allister,86,0.855999985,0.587999992,OpenPlay,RightFoot,0.109344013,BlockedShot,Yasin Ayari,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,10806,Kaoru Mitoma,86,0.871999969,0.585999985,OpenPlay,RightFoot,0.069021627,MissedShots,,1,0,0
+2022,18535,29/04/2023,Brighton,home,Wolverhampton Wanderers,9453,Moisés Caicedo,89,0.733000031,0.450999985,OpenPlay,RightFoot,0.019085648,BlockedShot,Estupiñán,1,0,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,11000,Matheus Nunes,23,0.88,0.394000015,OpenPlay,RightFoot,0.093049727,SavedShot,Pedro Neto,1,1,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,6853,Rúben Neves,27,0.745999985,0.497999992,OpenPlay,RightFoot,0.019484622,MissedShots,João Gomes,1,0,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,6382,Pedro Neto,30,0.886999969,0.305,OpenPlay,LeftFoot,0.049205028,BlockedShot,Nélson Semedo,1,0,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,6382,Pedro Neto,46,0.78,0.367000008,OpenPlay,LeftFoot,0.018545223,MissedShots,Rúben Neves,1,0,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,6853,Rúben Neves,51,0.723000031,0.445,FromCorner,LeftFoot,0.014155648,BlockedShot,,1,0,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,10293,Toti,52,0.910999985,0.464000015,FromCorner,Head,0.082132556,MissedShots,Daniel Podence,1,0,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,8845,Hee-Chan Hwang,53,0.915,0.535999985,FromCorner,Head,0.082475558,MissedShots,Hugo Bueno,1,0,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,8845,Hee-Chan Hwang,58,0.874000015,0.43,OpenPlay,RightFoot,0.101492994,BlockedShot,Pedro Neto,1,0,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,8291,Daniel Podence,77,0.865999985,0.691999969,OpenPlay,LeftFoot,0.130151078,SavedShot,Rúben Neves,1,1,0
+2022,18535,29/04/2023,Wolverhampton Wanderers,away,Brighton,8845,Hee-Chan Hwang,91,0.779000015,0.334000015,OpenPlay,RightFoot,0.01329284,MissedShots,,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,672,Jordan Ayew,14,0.889000015,0.409000015,OpenPlay,RightFoot,0.084022582,Goal,Michael Olise,1,1,1
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,522,Wilfried Zaha,19,0.970999985,0.579000015,OpenPlay,LeftFoot,0.495123982,Goal,,1,1,1
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,8706,Eberechi Eze,24,0.734000015,0.266000004,DirectFreekick,RightFoot,0.034355696,BlockedShot,,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,522,Wilfried Zaha,24,0.831999969,0.325999985,FromCorner,RightFoot,0.026925782,BlockedShot,Eberechi Eze,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,7603,Marc Guehi,27,0.928000031,0.434000015,FromCorner,Head,0.083773516,MissedShots,Wilfried Zaha,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,757,Jeffrey Schlupp,29,0.91,0.599000015,OpenPlay,LeftFoot,0.395281404,Goal,,1,1,1
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,757,Jeffrey Schlupp,32,0.755,0.597999992,OpenPlay,LeftFoot,0.031679798,MissedShots,Cheick Oumar Doucoure,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,522,Wilfried Zaha,38,0.96,0.674000015,OpenPlay,LeftFoot,0.08866711,MissedShots,Jordan Ayew,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,757,Jeffrey Schlupp,47,0.88,0.477999992,SetPiece,RightFoot,0.078279652,BlockedShot,,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,757,Jeffrey Schlupp,47,0.814000015,0.519000015,OpenPlay,LeftFoot,0.065252975,SavedShot,Eberechi Eze,1,1,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,9948,Michael Olise,53,0.785999985,0.292999992,OpenPlay,LeftFoot,0.022988178,SavedShot,Jordan Ayew,1,1,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,522,Wilfried Zaha,53,0.790999985,0.725999985,FromCorner,RightFoot,0.019358005,MissedShots,Eberechi Eze,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,510,Joel Ward,56,0.746999969,0.462000008,FromCorner,RightFoot,0.016574798,BlockedShot,,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,8706,Eberechi Eze,65,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,9948,Michael Olise,80,0.881999969,0.432999992,SetPiece,Head,0.040468715,BlockedShot,Marc Guehi,1,0,0
+2022,18536,29/04/2023,Crystal Palace,home,West Ham,6314,Joachim Andersen,85,0.925999985,0.475,FromCorner,RightFoot,0.07495518,BlockedShot,Eberechi Eze,1,0,0
+2022,18536,29/04/2023,West Ham,away,Crystal Palace,8288,Tomas Soucek,8,0.930999985,0.437000008,FromCorner,LeftFoot,0.488979429,Goal,,1,1,1
+2022,18536,29/04/2023,West Ham,away,Crystal Palace,8288,Tomas Soucek,21,0.729000015,0.527000008,OpenPlay,RightFoot,0.015177238,SavedShot,,1,1,0
+2022,18536,29/04/2023,West Ham,away,Crystal Palace,531,Michail Antonio,25,0.933000031,0.322000008,OpenPlay,Head,0.011039076,MissedShots,Vladimir Coufal,1,0,0
+2022,18536,29/04/2023,West Ham,away,Crystal Palace,8288,Tomas Soucek,34,0.956999969,0.55,FromCorner,Head,0.131133735,MissedShots,Emerson,1,0,0
+2022,18536,29/04/2023,West Ham,away,Crystal Palace,531,Michail Antonio,35,0.974000015,0.465999985,FromCorner,Head,0.581281066,Goal,Tomas Soucek,1,1,1
+2022,18536,29/04/2023,West Ham,away,Crystal Palace,7365,Lucas Paquetá,48,0.758000031,0.587999992,OpenPlay,LeftFoot,0.021750947,MissedShots,Emerson,1,0,0
+2022,18536,29/04/2023,West Ham,away,Crystal Palace,6935,Naif Aguerd,72,0.989000015,0.525999985,FromCorner,Head,0.802384257,Goal,,1,1,1
+2022,18536,29/04/2023,West Ham,away,Crystal Palace,3585,Said Benrahma,86,0.617999992,0.81,OpenPlay,RightFoot,0.007103991,BlockedShot,,1,0,0
+2022,18537,30/04/2023,Fulham,home,Manchester City,7395,Carlos Vinicius,14,0.88,0.555,OpenPlay,LeftFoot,0.361415982,Goal,Harry Wilson,1,1,1
+2022,18537,30/04/2023,Fulham,home,Manchester City,5973,Kenny Tete,46,0.793000031,0.315,OpenPlay,RightFoot,0.022408476,BlockedShot,,1,0,0
+2022,18537,30/04/2023,Fulham,home,Manchester City,6827,Bobby Reid,75,0.715999985,0.474000015,OpenPlay,RightFoot,0.013948716,MissedShots,,1,0,0
+2022,18537,30/04/2023,Fulham,home,Manchester City,10716,Manor Solomon,77,0.811999969,0.605,SetPiece,RightFoot,0.03404003,BlockedShot,,1,0,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,8260,Erling Haaland,2,0.885,0.5,Penalty,LeftFoot,0.761168838,Goal,,1,1,1
+2022,18537,30/04/2023,Manchester City,away,Fulham,675,Jack Grealish,13,0.910999985,0.670999985,OpenPlay,RightFoot,0.090592287,SavedShot,Erling Haaland,1,1,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,8260,Erling Haaland,25,0.991999969,0.354000015,OpenPlay,RightFoot,0.053700678,MissedShots,Riyad Mahrez,1,0,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,675,Jack Grealish,26,0.909000015,0.686999969,OpenPlay,RightFoot,0.048972938,SavedShot,Erling Haaland,1,1,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,10846,Julián Álvarez,26,0.966999969,0.437000008,OpenPlay,RightFoot,0.595654607,MissedShots,,1,0,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,675,Jack Grealish,33,0.84,0.695999985,OpenPlay,RightFoot,0.054446049,SavedShot,Julián Álvarez,1,1,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,10846,Julián Álvarez,35,0.76,0.419000015,OpenPlay,RightFoot,0.026580367,Goal,Riyad Mahrez,1,1,1
+2022,18537,30/04/2023,Manchester City,away,Fulham,314,Ilkay Gündogan,40,0.929000015,0.389000015,OpenPlay,RightFoot,0.401654303,SavedShot,Riyad Mahrez,1,1,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,8260,Erling Haaland,47,0.878000031,0.559000015,OpenPlay,LeftFoot,0.120544232,SavedShot,Jack Grealish,1,1,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,10846,Julián Álvarez,51,0.871999969,0.324000015,OpenPlay,RightFoot,0.088426232,SavedShot,,1,1,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,8260,Erling Haaland,72,0.901999969,0.437000008,SetPiece,Head,0.050973669,MissedShots,Manuel Akanji,1,0,0
+2022,18537,30/04/2023,Manchester City,away,Fulham,2496,Rodri,72,0.92,0.505,SetPiece,Head,0.059838708,SavedShot,Manuel Akanji,1,1,0
+2022,18538,1/05/2023,Leicester,home,Everton,6818,James Maddison,12,0.848000031,0.515,OpenPlay,RightFoot,0.08457806,SavedShot,Jamie Vardy,1,1,0
+2022,18538,1/05/2023,Leicester,home,Everton,5264,Caglar Söyüncü,21,0.914000015,0.565,SetPiece,RightFoot,0.089874282,Goal,Wout Faes,1,1,1
+2022,18538,1/05/2023,Leicester,home,Everton,6818,James Maddison,31,0.835999985,0.776999969,OpenPlay,RightFoot,0.01695112,SavedShot,Luke Thomas,1,1,0
+2022,18538,1/05/2023,Leicester,home,Everton,755,Jamie Vardy,32,0.939000015,0.550999985,OpenPlay,LeftFoot,0.964402437,Goal,James Maddison,1,1,1
+2022,18538,1/05/2023,Leicester,home,Everton,755,Jamie Vardy,42,0.909000015,0.595999985,OpenPlay,LeftFoot,0.451188266,ShotOnPost,Youri Tielemans,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,5545,Wilfred Ndidi,48,0.716999969,0.689000015,OpenPlay,RightFoot,0.015780199,BlockedShot,Boubakary Soumare,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,6818,James Maddison,53,0.885,0.5,Penalty,RightFoot,0.761168838,SavedShot,,1,1,0
+2022,18538,1/05/2023,Leicester,home,Everton,6681,Harvey Barnes,58,0.926999969,0.630999985,OpenPlay,RightFoot,0.068114944,MissedShots,James Maddison,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,755,Jamie Vardy,58,0.965999985,0.492999992,OpenPlay,Head,0.71656388,BlockedShot,Harvey Barnes,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,8562,Luke Thomas,59,0.761999969,0.695999985,OpenPlay,LeftFoot,0.016344031,BlockedShot,,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,6818,James Maddison,67,0.809000015,0.457999992,OpenPlay,LeftFoot,0.071889602,BlockedShot,Patson Daka,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,6818,James Maddison,68,0.829000015,0.325,OpenPlay,RightFoot,0.03151533,BlockedShot,Timothy Castagne,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,6681,Harvey Barnes,69,0.761999969,0.327999992,FromCorner,RightFoot,0.015101522,MissedShots,,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,5956,Youri Tielemans,71,0.724000015,0.430999985,OpenPlay,RightFoot,0.016031506,BlockedShot,Harvey Barnes,1,0,0
+2022,18538,1/05/2023,Leicester,home,Everton,6681,Harvey Barnes,76,0.925,0.703000031,OpenPlay,LeftFoot,0.054160923,MissedShots,James Maddison,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,585,Seamus Coleman,4,0.810999985,0.342000008,OpenPlay,LeftFoot,0.034606289,BlockedShot,Michael Keane,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,668,Idrissa Gueye,6,0.810999985,0.392000008,FromCorner,RightFoot,0.017337462,MissedShots,,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,500,Alex Iwobi,7,0.876999969,0.365999985,OpenPlay,RightFoot,0.085533902,SavedShot,Abdoulaye Doucouré,1,1,0
+2022,18538,1/05/2023,Everton,away,Leicester,1653,Michael Keane,8,0.9,0.542999992,FromCorner,RightFoot,0.043883409,MissedShots,Dominic Calvert-Lewin,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,1653,Michael Keane,9,0.855,0.515,SetPiece,LeftFoot,0.072568916,BlockedShot,Dominic Calvert-Lewin,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,5555,Dominic Calvert-Lewin,14,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18538,1/05/2023,Everton,away,Leicester,5555,Dominic Calvert-Lewin,17,0.97,0.342000008,OpenPlay,RightFoot,0.130433023,BlockedShot,Alex Iwobi,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,1653,Michael Keane,18,0.943000031,0.557999992,FromCorner,Head,0.054035425,MissedShots,Dwight McNeil,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,6756,Dwight McNeil,28,0.91,0.725999985,OpenPlay,LeftFoot,0.051767927,MissedShots,James Garner,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,5555,Dominic Calvert-Lewin,35,0.949000015,0.57,FromCorner,Head,0.051499527,MissedShots,,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,500,Alex Iwobi,37,0.92,0.455,SetPiece,RightFoot,0.091423422,MissedShots,James Garner,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,6756,Dwight McNeil,41,0.915999985,0.485,OpenPlay,RightFoot,0.498983294,SavedShot,Seamus Coleman,1,1,0
+2022,18538,1/05/2023,Everton,away,Leicester,1726,Abdoulaye Doucouré,41,0.853000031,0.580999985,OpenPlay,RightFoot,0.057503633,MissedShots,,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,5555,Dominic Calvert-Lewin,42,0.98,0.487999992,OpenPlay,RightFoot,0.914134026,SavedShot,,1,1,0
+2022,18538,1/05/2023,Everton,away,Leicester,5555,Dominic Calvert-Lewin,52,0.944000015,0.370999985,OpenPlay,RightFoot,0.115991332,SavedShot,Alex Iwobi,1,1,0
+2022,18538,1/05/2023,Everton,away,Leicester,500,Alex Iwobi,53,0.906999969,0.412999992,OpenPlay,RightFoot,0.076436475,Goal,,1,1,1
+2022,18538,1/05/2023,Everton,away,Leicester,6756,Dwight McNeil,63,0.736999969,0.312999992,OpenPlay,LeftFoot,0.016175963,SavedShot,Nathan Patterson,1,1,0
+2022,18538,1/05/2023,Everton,away,Leicester,6756,Dwight McNeil,74,0.801999969,0.490999985,OpenPlay,LeftFoot,0.05149173,BlockedShot,Alex Iwobi,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,1665,James Tarkowski,74,0.923000031,0.407000008,FromCorner,Head,0.015712796,MissedShots,Dwight McNeil,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,500,Alex Iwobi,82,0.865,0.271000004,OpenPlay,RightFoot,0.033957209,BlockedShot,Abdoulaye Doucouré,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,500,Alex Iwobi,83,0.831999969,0.615,OpenPlay,LeftFoot,0.059086289,BlockedShot,Dwight McNeil,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,1653,Michael Keane,83,0.933000031,0.43,FromCorner,Head,0.033300642,MissedShots,Dwight McNeil,1,0,0
+2022,18538,1/05/2023,Everton,away,Leicester,1726,Abdoulaye Doucouré,86,0.808000031,0.500999985,OpenPlay,LeftFoot,0.048139259,SavedShot,,1,1,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,6665,Curtis Jones,2,0.95,0.599000015,OpenPlay,LeftFoot,0.301737964,Goal,Trent Alexander-Arnold,1,1,1
+2022,18539,30/04/2023,Liverpool,home,Tottenham,10408,Luis Díaz,4,0.951999969,0.457000008,OpenPlay,RightFoot,0.621370256,Goal,Cody Gakpo,1,1,1
+2022,18539,30/04/2023,Liverpool,home,Tottenham,1250,Mohamed Salah,14,0.885,0.5,Penalty,LeftFoot,0.761168838,Goal,,1,1,1
+2022,18539,30/04/2023,Liverpool,home,Tottenham,11296,Cody Gakpo,17,0.835,0.595999985,OpenPlay,RightFoot,0.08405257,BlockedShot,Trent Alexander-Arnold,1,0,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,1250,Mohamed Salah,21,0.84,0.464000015,OpenPlay,LeftFoot,0.090576097,MissedShots,Luis Díaz,1,0,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,7546,Harvey Elliott,31,0.921999969,0.47,OpenPlay,Head,0.055086218,MissedShots,Andrew Robertson,1,0,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,833,Virgil van Dijk,47,0.955999985,0.554000015,FromCorner,Head,0.067968599,BlockedShot,Andrew Robertson,1,0,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,1250,Mohamed Salah,54,0.883000031,0.28,OpenPlay,LeftFoot,0.064550012,BlockedShot,Harvey Elliott,1,0,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,6854,Diogo Jota,64,0.954000015,0.617000008,OpenPlay,Head,0.018506108,MissedShots,Jordan Henderson,1,0,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,1791,Trent Alexander-Arnold,69,0.740999985,0.519000015,OpenPlay,RightFoot,0.02170163,BlockedShot,Curtis Jones,1,0,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,833,Virgil van Dijk,72,0.689000015,0.630999985,OpenPlay,RightFoot,0.013736873,MissedShots,Fabinho,1,0,0
+2022,18539,30/04/2023,Liverpool,home,Tottenham,6854,Diogo Jota,93,0.903000031,0.65,OpenPlay,LeftFoot,0.328651994,Goal,,1,1,1
+2022,18539,30/04/2023,Tottenham,away,Liverpool,6912,Pedro Porro,28,0.445999985,0.098999996,OpenPlay,RightFoot,0.005215469,SavedShot,,1,1,0
+2022,18539,30/04/2023,Tottenham,away,Liverpool,453,Son Heung-Min,38,0.873000031,0.565,OpenPlay,RightFoot,0.273504496,BlockedShot,Harry Kane,1,0,0
+2022,18539,30/04/2023,Tottenham,away,Liverpool,647,Harry Kane,39,0.923000031,0.455999985,OpenPlay,RightFoot,0.294917226,Goal,Ivan Perisic,1,1,1
+2022,18539,30/04/2023,Tottenham,away,Liverpool,6691,Dejan Kulusevski,40,0.849000015,0.465999985,OpenPlay,LeftFoot,0.067470364,SavedShot,,1,1,0
+2022,18539,30/04/2023,Tottenham,away,Liverpool,453,Son Heung-Min,53,0.804000015,0.465,OpenPlay,RightFoot,0.057523273,ShotOnPost,Dejan Kulusevski,1,0,0
+2022,18539,30/04/2023,Tottenham,away,Liverpool,7218,Cristian Romero,53,0.919000015,0.465999985,OpenPlay,RightFoot,0.090334207,ShotOnPost,Harry Kane,1,0,0
+2022,18539,30/04/2023,Tottenham,away,Liverpool,6912,Pedro Porro,56,0.780999985,0.217000008,OpenPlay,RightFoot,0.008393343,SavedShot,Ivan Perisic,1,1,0
+2022,18539,30/04/2023,Tottenham,away,Liverpool,453,Son Heung-Min,76,0.844000015,0.570999985,OpenPlay,RightFoot,0.29098013,Goal,Cristian Romero,1,1,1
+2022,18539,30/04/2023,Tottenham,away,Liverpool,343,Pierre-Emile Højbjerg,78,0.91,0.517999992,OpenPlay,Head,0.08228717,MissedShots,Pedro Porro,1,0,0
+2022,18539,30/04/2023,Tottenham,away,Liverpool,6026,Richarlison,92,0.915,0.48,SetPiece,Head,0.278643519,Goal,Son Heung-Min,1,1,1
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,556,Marcus Rashford,11,0.93,0.655,OpenPlay,LeftFoot,0.327626646,SavedShot,Bruno Fernandes,1,1,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,646,Christian Eriksen,12,0.763000031,0.949000015,OpenPlay,LeftFoot,0.007188651,MissedShots,,1,0,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,5248,Marcel Sabitzer,13,0.915999985,0.646999969,OpenPlay,LeftFoot,0.092219554,MissedShots,Marcus Rashford,1,0,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,2248,Casemiro,27,0.874000015,0.587999992,OpenPlay,RightFoot,0.096394688,ShotOnPost,Jadon Sancho,1,0,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,556,Marcus Rashford,38,0.875999985,0.678000031,OpenPlay,RightFoot,0.051771283,SavedShot,Casemiro,1,1,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,1228,Bruno Fernandes,38,0.958000031,0.377000008,OpenPlay,RightFoot,0.315668076,Goal,,1,1,1
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,646,Christian Eriksen,46,0.903000031,0.67,OpenPlay,LeftFoot,0.089230329,BlockedShot,Jadon Sancho,1,0,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,1228,Bruno Fernandes,46,0.819000015,0.547999992,OpenPlay,LeftFoot,0.071005955,SavedShot,,1,1,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,6080,Victor Lindelöf,52,0.961999969,0.680999985,OpenPlay,LeftFoot,0.06959787,MissedShots,Christian Eriksen,1,0,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,646,Christian Eriksen,63,0.763000031,0.380999985,OpenPlay,RightFoot,0.023621719,MissedShots,Marcel Sabitzer,1,0,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,2248,Casemiro,66,0.761999969,0.609000015,OpenPlay,RightFoot,0.02836162,SavedShot,Tyrell Malacia,1,1,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,556,Marcus Rashford,69,0.73,0.430999985,OpenPlay,LeftFoot,0.021089213,BlockedShot,Marcel Sabitzer,1,0,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,2248,Casemiro,72,0.741999969,0.507000008,OpenPlay,LeftFoot,0.02529216,MissedShots,Tyrell Malacia,1,0,0
+2022,18540,30/04/2023,Manchester United,home,Aston Villa,11094,Antony,92,0.925,0.656999969,OpenPlay,RightFoot,0.102873608,SavedShot,Anthony Martial,1,1,0
+2022,18540,30/04/2023,Aston Villa,away,Manchester United,4120,Álex Moreno,18,0.906999969,0.637000008,OpenPlay,LeftFoot,0.070969023,SavedShot,,1,1,0
+2022,18540,30/04/2023,Aston Villa,away,Manchester United,7723,John McGinn,19,0.765,0.469000015,FromCorner,RightFoot,0.024606861,MissedShots,,1,0,0
+2022,18540,30/04/2023,Aston Villa,away,Manchester United,6122,Douglas Luiz,49,0.845999985,0.54,SetPiece,RightFoot,0.077849567,BlockedShot,John McGinn,1,0,0
+2022,18540,30/04/2023,Aston Villa,away,Manchester United,8941,Jacob Ramsey,59,0.84,0.362999992,OpenPlay,RightFoot,0.044032872,BlockedShot,Ollie Watkins,1,0,0
+2022,18540,30/04/2023,Aston Villa,away,Manchester United,7723,John McGinn,67,0.735999985,0.600999985,OpenPlay,LeftFoot,0.014952619,MissedShots,,1,0,0
+2022,18540,30/04/2023,Aston Villa,away,Manchester United,1024,Tyrone Mings,84,0.953000031,0.532000008,FromCorner,Head,0.132258728,BlockedShot,Douglas Luiz,1,0,0
+2022,18540,30/04/2023,Aston Villa,away,Manchester United,508,Calum Chambers,95,0.879000015,0.587999992,SetPiece,RightFoot,0.070068292,BlockedShot,,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,8150,Anthony Gordon,6,0.89,0.684000015,OpenPlay,LeftFoot,0.051150504,MissedShots,Jacob Murphy,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,8327,Bruno Guimarães,9,0.851999969,0.465999985,OpenPlay,LeftFoot,0.079458632,MissedShots,Alexander Isak,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,8150,Anthony Gordon,18,0.855999985,0.537999992,OpenPlay,LeftFoot,0.542196631,ShotOnPost,Alexander Isak,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,87,Joelinton,20,0.931999969,0.457999992,FromCorner,Head,0.056241389,MissedShots,,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,6063,Jacob Murphy,39,0.845999985,0.715999985,OpenPlay,RightFoot,0.028289506,MissedShots,Bruno Guimarães,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,468,Callum Wilson,46,0.966999969,0.61,SetPiece,Head,0.04347942,MissedShots,Kieran Trippier,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,8635,Sven Botman,52,0.974000015,0.497999992,SetPiece,LeftFoot,0.744921267,SavedShot,Kieran Trippier,1,1,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,468,Callum Wilson,52,0.975999985,0.509000015,SetPiece,RightFoot,0.927511394,BlockedShot,,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,468,Callum Wilson,53,0.915999985,0.51,OpenPlay,RightFoot,0.467208236,Goal,Alexander Isak,1,1,1
+2022,18541,30/04/2023,Newcastle United,home,Southampton,6063,Jacob Murphy,62,0.840999985,0.455,OpenPlay,LeftFoot,0.071432278,BlockedShot,,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,87,Joelinton,64,0.819000015,0.569000015,OpenPlay,LeftFoot,0.061542116,BlockedShot,Joe Willock,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,6630,Joe Willock,65,0.803000031,0.59,FromCorner,RightFoot,0.03848882,SavedShot,Bruno Guimarães,1,1,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,6630,Joe Willock,66,0.900999985,0.69,OpenPlay,LeftFoot,0.09142293,BlockedShot,,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,8635,Sven Botman,67,0.956999969,0.46,FromCorner,Head,0.07655137,BlockedShot,Kieran Trippier,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,468,Callum Wilson,67,0.925,0.5,FromCorner,Head,0.056669768,SavedShot,Joe Willock,1,1,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,6630,Joe Willock,77,0.815999985,0.764000015,OpenPlay,RightFoot,0.022208218,BlockedShot,Dan Burn,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,8635,Sven Botman,78,0.928000031,0.512999992,FromCorner,Head,0.114805631,MissedShots,Kieran Trippier,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,468,Callum Wilson,80,0.948000031,0.395,OpenPlay,RightFoot,0.718163729,Goal,,1,1,1
+2022,18541,30/04/2023,Newcastle United,home,Southampton,8327,Bruno Guimarães,85,0.815999985,0.535999985,OpenPlay,RightFoot,0.070940271,MissedShots,Joelinton,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,6630,Joe Willock,88,0.845999985,0.379000015,OpenPlay,RightFoot,0.073597245,BlockedShot,Kieran Trippier,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,9154,Elliot Anderson,91,0.884000015,0.504000015,OpenPlay,LeftFoot,0.141015127,BlockedShot,Bruno Guimarães,1,0,0
+2022,18541,30/04/2023,Newcastle United,home,Southampton,468,Callum Wilson,93,0.88,0.482000008,OpenPlay,RightFoot,0.128203079,ShotOnPost,Fabian Schär,1,0,0
+2022,18541,30/04/2023,Southampton,away,Newcastle United,885,Kyle Walker-Peters,0,0.865999985,0.597999992,OpenPlay,RightFoot,0.076398917,SavedShot,,1,1,0
+2022,18541,30/04/2023,Southampton,away,Newcastle United,6893,Stuart Armstrong,8,0.93,0.735999985,OpenPlay,LeftFoot,0.089740254,SavedShot,,1,1,0
+2022,18541,30/04/2023,Southampton,away,Newcastle United,6252,Lyanco,24,0.738000031,0.690999985,OpenPlay,RightFoot,0.015072565,MissedShots,Romeo Lavia,1,0,0
+2022,18541,30/04/2023,Southampton,away,Newcastle United,6893,Stuart Armstrong,40,0.944000015,0.502999992,OpenPlay,RightFoot,0.715963364,Goal,Kamaldeen Sulemana,1,1,1
+2022,18541,30/04/2023,Southampton,away,Newcastle United,503,Theo Walcott,78,0.040999999,0.497999992,FromCorner,RightFoot,0,OwnGoal,,0,0,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,2182,Jefferson Lerma,4,0.760999985,0.480999985,OpenPlay,RightFoot,0.023702828,MissedShots,Philip Billing,1,0,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,9892,Matias Viña,20,0.86,0.599000015,OpenPlay,RightFoot,0.074082889,Goal,Ryan Christie,1,1,1
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,10744,Ryan Christie,32,0.931999969,0.515,OpenPlay,Head,0.074790716,MissedShots,Dango Ouattara,1,0,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,9892,Matias Viña,33,0.794000015,0.699000015,OpenPlay,LeftFoot,0.023114892,SavedShot,Dango Ouattara,1,1,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,10744,Ryan Christie,57,0.903000031,0.648000031,OpenPlay,LeftFoot,0.06079869,MissedShots,Dango Ouattara,1,0,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,6034,Philip Billing,66,0.896999969,0.395999985,OpenPlay,RightFoot,0.111931682,BlockedShot,Dominic Solanke,1,0,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,9662,Dango Ouattara,68,0.943000031,0.527000008,FromCorner,LeftFoot,0.123356171,BlockedShot,Lloyd Kelly,1,0,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,9892,Matias Viña,70,0.913000031,0.63,OpenPlay,LeftFoot,0.123928726,SavedShot,Ryan Christie,1,1,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,9662,Dango Ouattara,78,0.97,0.515,FromCorner,Head,0.566372633,MissedShots,Jefferson Lerma,1,0,0
+2022,18542,6/05/2023,Bournemouth,home,Chelsea,10746,Jaidon Anthony,84,0.790999985,0.597999992,OpenPlay,RightFoot,0.035471294,SavedShot,Antoine Semenyo,1,1,0
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,11357,Noni Madueke,7,0.805999985,0.337999992,OpenPlay,RightFoot,0.032166392,SavedShot,,1,1,0
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,9040,Conor Gallagher,8,0.920999985,0.47,OpenPlay,Head,0.343541563,Goal,N&#039;Golo Kanté,1,1,1
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,11356,Enzo Fernández,10,0.728000031,0.5,OpenPlay,RightFoot,0.021722274,MissedShots,,1,0,0
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,11357,Noni Madueke,30,0.978000031,0.397000008,OpenPlay,LeftFoot,0.157332003,MissedShots,N&#039;Golo Kanté,1,0,0
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,11357,Noni Madueke,36,0.899000015,0.349000015,OpenPlay,RightFoot,0.064424999,SavedShot,,1,1,0
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,751,N&#039;Golo Kanté,61,0.719000015,0.564000015,FromCorner,LeftFoot,0.015683696,MissedShots,,1,0,0
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,5220,Kai Havertz,76,0.926999969,0.475999985,OpenPlay,Head,0.456350416,MissedShots,,1,0,0
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,11356,Enzo Fernández,80,0.783000031,0.507000008,OpenPlay,LeftFoot,0.034281425,BlockedShot,Conor Gallagher,1,0,0
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,7240,Benoit Badiashile Mukinayi,81,0.94,0.542000008,SetPiece,LeftFoot,0.495218039,Goal,Hakim Ziyech,1,1,1
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,7892,João Félix,85,0.871999969,0.537999992,OpenPlay,RightFoot,0.11934109,Goal,Raheem Sterling,1,1,1
+2022,18542,6/05/2023,Chelsea,away,Bournemouth,681,César Azpilicueta,91,0.788000031,0.635999985,OpenPlay,LeftFoot,0.02845986,MissedShots,,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,501,Danny Welbeck,3,0.909000015,0.482000008,OpenPlay,Head,0.283939481,MissedShots,Kaoru Mitoma,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,239,Pascal Groß,12,0.784000015,0.306000004,OpenPlay,RightFoot,0.023590878,MissedShots,Moisés Caicedo,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,8379,Alexis Mac Allister,13,0.888000031,0.594000015,OpenPlay,RightFoot,0.086634763,BlockedShot,Kaoru Mitoma,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,7235,Jason Steele,34,0.025999999,0.47,OpenPlay,RightFoot,0,OwnGoal,,0,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,10177,Evan Ferguson,47,0.855,0.545999985,OpenPlay,RightFoot,0.091336422,BlockedShot,Julio Enciso,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,6049,Solly March,47,0.899000015,0.316000004,OpenPlay,LeftFoot,0.031064963,SavedShot,,1,1,0
+2022,18543,8/05/2023,Brighton,home,Everton,239,Pascal Groß,54,0.869000015,0.417999992,OpenPlay,LeftFoot,0.094461761,BlockedShot,Solly March,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,10805,Levi Colwill,60,0.954000015,0.479000015,FromCorner,RightFoot,0.13747938,BlockedShot,Alexis Mac Allister,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,6049,Solly March,62,0.865,0.312000008,OpenPlay,LeftFoot,0.07349135,BlockedShot,Moisés Caicedo,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,10177,Evan Ferguson,64,0.865999985,0.681999969,OpenPlay,LeftFoot,0.075672589,SavedShot,Alexis Mac Allister,1,1,0
+2022,18543,8/05/2023,Brighton,home,Everton,8379,Alexis Mac Allister,65,0.915999985,0.43,FromCorner,Head,0.068114117,ShotOnPost,Solly March,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,6048,Lewis Dunk,66,0.91,0.56,OpenPlay,Head,0.051583931,MissedShots,Pascal Groß,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,5136,Estupiñán,67,0.876999969,0.709000015,OpenPlay,LeftFoot,0.051057409,BlockedShot,Evan Ferguson,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,8379,Alexis Mac Allister,74,0.880999985,0.454000015,FromCorner,Head,0.043204848,SavedShot,Moisés Caicedo,1,1,0
+2022,18543,8/05/2023,Brighton,home,Everton,10806,Kaoru Mitoma,78,0.955,0.542000008,OpenPlay,RightFoot,0.446798742,ShotOnPost,Pascal Groß,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,8379,Alexis Mac Allister,78,0.964000015,0.492999992,OpenPlay,OtherBodyPart,0.712179303,Goal,,1,1,1
+2022,18543,8/05/2023,Brighton,home,Everton,9453,Moisés Caicedo,81,0.779000015,0.445,OpenPlay,RightFoot,0.034303922,BlockedShot,Evan Ferguson,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,10806,Kaoru Mitoma,82,0.929000015,0.648000031,FromCorner,RightFoot,0.040193487,MissedShots,Pascal Groß,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,10805,Levi Colwill,82,0.969000015,0.445999985,FromCorner,OtherBodyPart,0.679560721,MissedShots,Kaoru Mitoma,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,7988,Billy Gilmour,84,0.770999985,0.449000015,OpenPlay,RightFoot,0.031678703,BlockedShot,Estupiñán,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,10177,Evan Ferguson,87,0.913000031,0.48,OpenPlay,LeftFoot,0.370990127,SavedShot,,1,1,0
+2022,18543,8/05/2023,Brighton,home,Everton,7988,Billy Gilmour,88,0.815,0.46,FromCorner,RightFoot,0.039782047,BlockedShot,Pascal Groß,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,9453,Moisés Caicedo,90,0.810999985,0.464000015,OpenPlay,RightFoot,0.056771085,MissedShots,Evan Ferguson,1,0,0
+2022,18543,8/05/2023,Brighton,home,Everton,10805,Levi Colwill,92,0.935999985,0.47,FromCorner,Head,0.061627671,MissedShots,Pascal Groß,1,0,0
+2022,18543,8/05/2023,Everton,away,Brighton,1726,Abdoulaye Doucouré,0,0.933000031,0.527000008,OpenPlay,RightFoot,0.565420747,Goal,Dominic Calvert-Lewin,1,1,1
+2022,18543,8/05/2023,Everton,away,Brighton,5555,Dominic Calvert-Lewin,15,0.815999985,0.425,OpenPlay,RightFoot,0.062389396,MissedShots,,1,0,0
+2022,18543,8/05/2023,Everton,away,Brighton,6756,Dwight McNeil,23,0.859000015,0.658000031,OpenPlay,LeftFoot,0.074413314,BlockedShot,Dominic Calvert-Lewin,1,0,0
+2022,18543,8/05/2023,Everton,away,Brighton,668,Idrissa Gueye,23,0.830999985,0.342000008,FromCorner,RightFoot,0.026354792,BlockedShot,Abdoulaye Doucouré,1,0,0
+2022,18543,8/05/2023,Everton,away,Brighton,6756,Dwight McNeil,25,0.875,0.439000015,OpenPlay,LeftFoot,0.117714994,BlockedShot,Abdoulaye Doucouré,1,0,0
+2022,18543,8/05/2023,Everton,away,Brighton,1726,Abdoulaye Doucouré,28,0.888000031,0.362999992,OpenPlay,RightFoot,0.358786911,Goal,Dwight McNeil,1,1,1
+2022,18543,8/05/2023,Everton,away,Brighton,7438,James Garner,47,0.915999985,0.53,OpenPlay,RightFoot,0.596973181,BlockedShot,Dwight McNeil,1,0,0
+2022,18543,8/05/2023,Everton,away,Brighton,1665,James Tarkowski,73,0.904000015,0.649000015,SetPiece,Head,0.007741131,SavedShot,Dwight McNeil,1,1,0
+2022,18543,8/05/2023,Everton,away,Brighton,6756,Dwight McNeil,75,0.983000031,0.504000015,OpenPlay,LeftFoot,0.979893267,Goal,Alex Iwobi,1,1,1
+2022,18543,8/05/2023,Everton,away,Brighton,6756,Dwight McNeil,95,0.891999969,0.681999969,OpenPlay,LeftFoot,0.152542204,Goal,Amadou Onana,1,1,1
+2022,18544,8/05/2023,Fulham,home,Leicester,10715,João Palhinha,1,0.929000015,0.432999992,SetPiece,Head,0.113223381,MissedShots,Willian,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,5590,Tosin Adarabioyo,1,0.92,0.449000015,SetPiece,Head,0.051754773,BlockedShot,João Palhinha,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,700,Willian,9,0.766999969,0.965,DirectFreekick,RightFoot,0.022379065,Goal,,1,1,1
+2022,18544,8/05/2023,Fulham,home,Leicester,910,Harrison Reed,15,0.916999969,0.312999992,OpenPlay,RightFoot,0.07517153,BlockedShot,Harry Wilson,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,5590,Tosin Adarabioyo,16,0.895999985,0.457999992,FromCorner,Head,0.048660334,MissedShots,Willian,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,7395,Carlos Vinicius,17,0.824000015,0.560999985,OpenPlay,LeftFoot,0.154642522,Goal,Harry Wilson,1,1,1
+2022,18544,8/05/2023,Fulham,home,Leicester,910,Harrison Reed,30,0.889000015,0.555,OpenPlay,LeftFoot,0.474697411,SavedShot,Willian,1,1,0
+2022,18544,8/05/2023,Fulham,home,Leicester,5973,Kenny Tete,30,0.786999969,0.327999992,OpenPlay,RightFoot,0.018064428,SavedShot,,1,1,0
+2022,18544,8/05/2023,Fulham,home,Leicester,7395,Carlos Vinicius,37,0.899000015,0.515999985,OpenPlay,Head,0.041806683,MissedShots,Kenny Tete,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,700,Willian,43,0.801999969,0.703000031,OpenPlay,RightFoot,0.039441336,BlockedShot,Antonee Robinson,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,6835,Tom Cairney,43,0.88,0.644000015,OpenPlay,RightFoot,0.104225911,Goal,Carlos Vinicius,1,1,1
+2022,18544,8/05/2023,Fulham,home,Leicester,6835,Tom Cairney,50,0.883000031,0.490999985,OpenPlay,LeftFoot,0.436007977,Goal,Kenny Tete,1,1,1
+2022,18544,8/05/2023,Fulham,home,Leicester,6835,Tom Cairney,53,0.749000015,0.437000008,OpenPlay,LeftFoot,0.026776414,BlockedShot,Harry Wilson,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,700,Willian,69,0.769000015,0.565,OpenPlay,RightFoot,0.036103033,Goal,Harrison Reed,1,1,1
+2022,18544,8/05/2023,Fulham,home,Leicester,1537,Sasa Lukic,84,0.779000015,0.349000015,SetPiece,RightFoot,0.022200685,BlockedShot,Neeskens Kebano,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,5590,Tosin Adarabioyo,85,0.89,0.515,SetPiece,Head,0.075497076,MissedShots,Neeskens Kebano,1,0,0
+2022,18544,8/05/2023,Fulham,home,Leicester,6047,Shane Duffy,85,0.95,0.595999985,SetPiece,Head,0.022374259,MissedShots,Tosin Adarabioyo,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,755,Jamie Vardy,19,0.840999985,0.504000015,OpenPlay,LeftFoot,0.064882755,SavedShot,,1,1,0
+2022,18544,8/05/2023,Leicester,away,Fulham,755,Jamie Vardy,25,0.805,0.462999992,OpenPlay,RightFoot,0.05662803,SavedShot,,1,1,0
+2022,18544,8/05/2023,Leicester,away,Fulham,6818,James Maddison,27,0.77,0.262000008,DirectFreekick,RightFoot,0.04424699,BlockedShot,,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,5956,Youri Tielemans,27,0.78,0.535999985,FromCorner,RightFoot,0.028889267,BlockedShot,James Maddison,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,8646,Wout Faes,28,0.925,0.434000015,FromCorner,Head,0.028163977,MissedShots,Victor Kristiansen,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,5956,Youri Tielemans,31,0.755,0.509000015,SetPiece,RightFoot,0.019714531,SavedShot,Boubakary Soumare,1,1,0
+2022,18544,8/05/2023,Leicester,away,Fulham,5956,Youri Tielemans,40,0.773000031,0.537999992,FromCorner,RightFoot,0.015259088,BlockedShot,,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,6818,James Maddison,47,0.766999969,0.462999992,OpenPlay,RightFoot,0.029464334,BlockedShot,Youri Tielemans,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,6681,Harvey Barnes,48,0.764000015,0.362000008,OpenPlay,RightFoot,0.018420214,SavedShot,James Maddison,1,1,0
+2022,18544,8/05/2023,Leicester,away,Fulham,6818,James Maddison,55,0.789000015,0.492999992,OpenPlay,LeftFoot,0.05591283,SavedShot,Youri Tielemans,1,1,0
+2022,18544,8/05/2023,Leicester,away,Fulham,6681,Harvey Barnes,58,0.924000015,0.651999969,OpenPlay,RightFoot,0.290219665,Goal,James Maddison,1,1,1
+2022,18544,8/05/2023,Leicester,away,Fulham,6157,Timothy Castagne,61,0.959000015,0.572000008,FromCorner,Head,0.053351209,BlockedShot,James Maddison,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,755,Jamie Vardy,65,0.885,0.5,Penalty,RightFoot,0.761168838,SavedShot,,1,1,0
+2022,18544,8/05/2023,Leicester,away,Fulham,6818,James Maddison,65,0.915,0.389000015,SetPiece,RightFoot,0.364963323,MissedShots,,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,6818,James Maddison,71,0.738000031,0.437000008,DirectFreekick,RightFoot,0.054226771,MissedShots,,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,10536,Tetê,74,0.861999969,0.377000008,OpenPlay,LeftFoot,0.075869553,MissedShots,James Maddison,1,0,0
+2022,18544,8/05/2023,Leicester,away,Fulham,6818,James Maddison,80,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18544,8/05/2023,Leicester,away,Fulham,6681,Harvey Barnes,88,0.930999985,0.465999985,OpenPlay,RightFoot,0.480911195,Goal,Patson Daka,1,1,1
+2022,18545,6/05/2023,Liverpool,home,Brentford,1250,Mohamed Salah,7,0.788000031,0.330999985,FromCorner,LeftFoot,0.017835405,SavedShot,,1,1,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,6665,Curtis Jones,12,0.760999985,0.66,FromCorner,LeftFoot,0.013306991,BlockedShot,,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,1250,Mohamed Salah,12,0.989000015,0.495,FromCorner,LeftFoot,0.939291239,Goal,Virgil van Dijk,1,1,1
+2022,18545,6/05/2023,Liverpool,home,Brentford,6665,Curtis Jones,19,0.774000015,0.703000031,OpenPlay,RightFoot,0.01926475,SavedShot,Diogo Jota,1,1,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,10720,Darwin Núñez,20,0.913000031,0.325999985,OpenPlay,RightFoot,0.087625481,BlockedShot,Mohamed Salah,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,833,Virgil van Dijk,21,0.705999985,0.524000015,OpenPlay,RightFoot,0.016318329,MissedShots,Darwin Núñez,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,10720,Darwin Núñez,28,0.91,0.534000015,OpenPlay,RightFoot,0.437915355,MissedShots,Trent Alexander-Arnold,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,6854,Diogo Jota,44,0.880999985,0.412999992,OpenPlay,LeftFoot,0.115250915,BlockedShot,Mohamed Salah,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,1791,Trent Alexander-Arnold,50,0.709000015,0.564000015,OpenPlay,RightFoot,0.01685337,MissedShots,Diogo Jota,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,6854,Diogo Jota,52,0.975,0.327000008,OpenPlay,RightFoot,0.078869864,MissedShots,Mohamed Salah,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,1250,Mohamed Salah,57,0.87,0.317999992,OpenPlay,LeftFoot,0.06752836,MissedShots,Diogo Jota,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,1791,Trent Alexander-Arnold,73,0.755,0.648000031,OpenPlay,RightFoot,0.021279063,BlockedShot,Jordan Henderson,1,0,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,1791,Trent Alexander-Arnold,77,0.799000015,0.34,OpenPlay,RightFoot,0.039594166,SavedShot,,1,1,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,6326,Ibrahima Konaté,78,0.909000015,0.452000008,FromCorner,Head,0.028072776,SavedShot,,1,1,0
+2022,18545,6/05/2023,Liverpool,home,Brentford,11296,Cody Gakpo,83,0.875999985,0.397999992,OpenPlay,RightFoot,0.092989683,MissedShots,,1,0,0
+2022,18545,6/05/2023,Brentford,away,Liverpool,1654,Ben Mee,14,0.875,0.38,OpenPlay,Head,0.021000627,MissedShots,Mathias Jensen,1,0,0
+2022,18545,6/05/2023,Brentford,away,Liverpool,6552,Bryan Mbeumo,19,0.878000031,0.748000031,OpenPlay,LeftFoot,0.029806448,SavedShot,Ivan Toney,1,1,0
+2022,18545,6/05/2023,Brentford,away,Liverpool,998,Ivan Toney,38,0.754000015,0.614000015,DirectFreekick,RightFoot,0.058504108,MissedShots,,1,0,0
+2022,18545,6/05/2023,Brentford,away,Liverpool,9681,Frank Onyeka,47,0.795,0.637000008,OpenPlay,RightFoot,0.029001512,BlockedShot,Mathias Jensen,1,0,0
+2022,18545,6/05/2023,Brentford,away,Liverpool,9679,Rico Henry,51,0.909000015,0.679000015,OpenPlay,RightFoot,0.045579601,MissedShots,Aaron Hickey,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,8260,Erling Haaland,1,0.769000015,0.62,OpenPlay,LeftFoot,0.020324539,MissedShots,Phil Foden,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,6490,Manuel Akanji,6,0.920999985,0.519000015,FromCorner,Head,0.101251572,MissedShots,Riyad Mahrez,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,447,Kevin De Bruyne,11,0.795999985,0.355999985,OpenPlay,RightFoot,0.025453296,BlockedShot,Riyad Mahrez,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,10846,Julián Álvarez,15,0.895999985,0.467999992,OpenPlay,RightFoot,0.129734382,MissedShots,Kevin De Bruyne,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,8260,Erling Haaland,16,0.893000031,0.620999985,OpenPlay,LeftFoot,0.337285519,SavedShot,,1,1,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,314,Ilkay Gündogan,18,0.841999969,0.432999992,OpenPlay,RightFoot,0.080272824,Goal,Riyad Mahrez,1,1,1
+2022,18546,6/05/2023,Manchester City,home,Leeds,8260,Erling Haaland,24,0.866999969,0.519000015,OpenPlay,LeftFoot,0.390779853,MissedShots,Kevin De Bruyne,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,314,Ilkay Gündogan,26,0.815999985,0.465999985,OpenPlay,RightFoot,0.070866145,Goal,Riyad Mahrez,1,1,1
+2022,18546,6/05/2023,Manchester City,home,Leeds,10846,Julián Álvarez,31,0.809000015,0.480999985,OpenPlay,RightFoot,0.053951796,SavedShot,,1,1,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,8260,Erling Haaland,34,0.954000015,0.335,OpenPlay,RightFoot,0.136457831,MissedShots,Kevin De Bruyne,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,6055,Phil Foden,47,0.800999985,0.487000008,SetPiece,LeftFoot,0.036948115,MissedShots,,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,8260,Erling Haaland,52,0.926999969,0.502999992,OpenPlay,Head,0.071785241,SavedShot,Julián Álvarez,1,1,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,8260,Erling Haaland,61,0.821999969,0.53,OpenPlay,LeftFoot,0.416561902,ShotOnPost,Rico Lewis,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,750,Riyad Mahrez,66,0.800999985,0.324000015,DirectFreekick,LeftFoot,0.07618697,BlockedShot,,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,6490,Manuel Akanji,67,0.900999985,0.442999992,FromCorner,Head,0.048534825,MissedShots,Kevin De Bruyne,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,750,Riyad Mahrez,71,0.906999969,0.156000004,DirectFreekick,LeftFoot,0.052630778,SavedShot,,1,1,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,10847,Rico Lewis,80,0.778000031,0.632999992,FromCorner,RightFoot,0.024524705,MissedShots,Kevin De Bruyne,1,0,0
+2022,18546,6/05/2023,Manchester City,home,Leeds,314,Ilkay Gündogan,83,0.885,0.5,Penalty,RightFoot,0.761168838,ShotOnPost,,1,0,0
+2022,18546,6/05/2023,Leeds,away,Manchester City,822,Patrick Bamford,9,0.895,0.420999985,OpenPlay,Head,0.023505542,MissedShots,Weston McKennie,1,0,0
+2022,18546,6/05/2023,Leeds,away,Manchester City,5360,Weston McKennie,28,0.904000015,0.454000015,FromCorner,Head,0.019852187,SavedShot,Marc Roca,1,1,0
+2022,18546,6/05/2023,Leeds,away,Manchester City,822,Patrick Bamford,57,0.95,0.592999992,OpenPlay,Head,0.054591183,BlockedShot,Luke Ayling,1,0,0
+2022,18546,6/05/2023,Leeds,away,Manchester City,2381,Rodrigo,84,0.830999985,0.557000008,OpenPlay,LeftFoot,0.04297509,Goal,,1,1,1
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,6063,Jacob Murphy,1,0.86,0.405999985,OpenPlay,LeftFoot,0.080480032,ShotOnPost,Joe Willock,1,0,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,5232,Alexander Isak,2,0.884000015,0.711999969,OpenPlay,RightFoot,0.048922684,BlockedShot,Joe Willock,1,0,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,6630,Joe Willock,2,0.981999969,0.342999992,FromCorner,Head,0.010188526,MissedShots,Kieran Trippier,1,0,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,8327,Bruno Guimarães,7,0.844000015,0.467999992,FromCorner,RightFoot,0.049531471,BlockedShot,Kieran Trippier,1,0,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,6630,Joe Willock,26,0.87,0.607999992,OpenPlay,RightFoot,0.061986048,SavedShot,Callum Wilson,1,1,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,8635,Sven Botman,47,0.919000015,0.417999992,SetPiece,Head,0.027716244,SavedShot,Kieran Trippier,1,1,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,5232,Alexander Isak,47,0.941999969,0.477999992,OpenPlay,Head,0.466565013,ShotOnPost,Jacob Murphy,1,0,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,76,Fabian Schär,48,0.933000031,0.532000008,SetPiece,Head,0.426866293,SavedShot,Kieran Trippier,1,1,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,6630,Joe Willock,58,0.901999969,0.580999985,OpenPlay,RightFoot,0.107870907,BlockedShot,Alexander Isak,1,0,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,8327,Bruno Guimarães,62,0.815999985,0.439000015,OpenPlay,RightFoot,0.050231293,SavedShot,Joelinton,1,1,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,76,Fabian Schär,70,0.017,0.465999985,OpenPlay,RightFoot,0,OwnGoal,,0,0,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,76,Fabian Schär,89,0.774000015,0.487999992,FromCorner,LeftFoot,0.022767782,MissedShots,Elliot Anderson,1,0,0
+2022,18547,7/05/2023,Newcastle United,home,Arsenal,101,Allan Saint-Maximin,91,0.805999985,0.735,OpenPlay,RightFoot,0.019110722,SavedShot,Matt Targett,1,1,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,2517,Martin Odegaard,13,0.745,0.484000015,SetPiece,LeftFoot,0.020668674,Goal,Jorginho,1,1,1
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,7752,Gabriel Martinelli,20,0.890999985,0.36,OpenPlay,RightFoot,0.333318919,SavedShot,Martin Odegaard,1,1,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,2517,Martin Odegaard,20,0.895999985,0.297000008,OpenPlay,LeftFoot,0.050526652,SavedShot,,1,1,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,7322,Bukayo Saka,21,0.758000031,0.522000008,FromCorner,LeftFoot,0.029761281,BlockedShot,Jorginho,1,0,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,7322,Bukayo Saka,23,0.850999985,0.584000015,OpenPlay,LeftFoot,0.13719596,SavedShot,Granit Xhaka,1,1,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,7752,Gabriel Martinelli,40,0.946999969,0.655,OpenPlay,LeftFoot,0.101631805,MissedShots,Martin Odegaard,1,0,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,7752,Gabriel Martinelli,50,0.905,0.67,OpenPlay,RightFoot,0.090062514,ShotOnPost,Gabriel Jesus,1,0,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,2517,Martin Odegaard,51,0.92,0.485,OpenPlay,RightFoot,0.411226392,SavedShot,Gabriel Martinelli,1,1,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,5543,Gabriel Jesus,55,0.848000031,0.637000008,OpenPlay,RightFoot,0.064661846,BlockedShot,Gabriel Martinelli,1,0,0
+2022,18547,7/05/2023,Arsenal,away,Newcastle United,5543,Gabriel Jesus,68,0.960999985,0.273999996,OpenPlay,RightFoot,0.068397075,SavedShot,Bukayo Saka,1,1,0
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,10760,Brennan Johnson,9,0.881999969,0.298999996,OpenPlay,RightFoot,0.072499983,MissedShots,Morgan Gibbs-White,1,0,0
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,7814,Taiwo Awoniyi,17,0.875999985,0.485999985,OpenPlay,RightFoot,0.118824005,Goal,Brennan Johnson,1,1,1
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,11317,Danilo,20,0.816999969,0.569000015,OpenPlay,LeftFoot,0.026203766,MissedShots,,1,0,0
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,7814,Taiwo Awoniyi,20,0.91,0.472000008,OpenPlay,RightFoot,0.130509049,Goal,Danilo,1,1,1
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,7814,Taiwo Awoniyi,26,0.915,0.477999992,OpenPlay,RightFoot,0.131891057,MissedShots,,1,0,0
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,11003,Ryan Yates,32,0.866999969,0.334000015,OpenPlay,RightFoot,0.096919782,BlockedShot,Morgan Gibbs-White,1,0,0
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,6857,Morgan Gibbs-White,43,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,11317,Danilo,72,0.905,0.547000008,OpenPlay,LeftFoot,0.477662355,Goal,Morgan Gibbs-White,1,1,1
+2022,18548,8/05/2023,Nottingham Forest,home,Southampton,6857,Morgan Gibbs-White,76,0.863000031,0.505,OpenPlay,RightFoot,0.097585663,BlockedShot,,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,7700,Che Adams,2,0.815999985,0.725999985,OpenPlay,RightFoot,0.025254749,MissedShots,Romeo Lavia,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,7700,Che Adams,6,0.863000031,0.577000008,OpenPlay,RightFoot,0.09553577,BlockedShot,Theo Walcott,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,11297,Carlos Alcaraz,18,0.816999969,0.554000015,OpenPlay,RightFoot,0.05660256,MissedShots,James Ward-Prowse,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,6893,Stuart Armstrong,22,0.925999985,0.650999985,OpenPlay,LeftFoot,0.090163358,BlockedShot,Kyle Walker-Peters,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,503,Theo Walcott,23,0.969000015,0.629000015,FromCorner,Head,0.016543237,MissedShots,James Ward-Prowse,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,11297,Carlos Alcaraz,24,0.925999985,0.449000015,OpenPlay,RightFoot,0.60461849,Goal,Stuart Armstrong,1,1,1
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,10004,Romeo Lavia,40,0.73,0.345999985,OpenPlay,RightFoot,0.015461418,BlockedShot,James Ward-Prowse,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,7700,Che Adams,47,0.92,0.507000008,SetPiece,Head,0.354533494,MissedShots,James Ward-Prowse,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,6252,Lyanco,50,0.954000015,0.487999992,FromCorner,Head,0.482066453,Goal,James Ward-Prowse,1,1,1
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,7700,Che Adams,52,0.878000031,0.549000015,OpenPlay,Head,0.038473267,MissedShots,Ainsley Maitland-Niles,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,6252,Lyanco,67,0.881999969,0.590999985,FromCorner,Head,0.018762685,MissedShots,James Ward-Prowse,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,7700,Che Adams,67,0.961999969,0.462000008,FromCorner,RightFoot,0.149030447,BlockedShot,Lyanco,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,6252,Lyanco,78,0.930999985,0.365999985,FromCorner,Head,0.019910686,MissedShots,Samuel Edozie,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,9630,Kamaldeen Sulemana,85,0.794000015,0.746999969,OpenPlay,RightFoot,0.011897963,SavedShot,Samuel Edozie,1,1,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,4419,Adam Armstrong,85,0.921999969,0.668000031,OpenPlay,LeftFoot,0.041413959,MissedShots,,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,11360,Paul Onuachu,85,0.950999985,0.56,OpenPlay,RightFoot,0.470894456,MissedShots,Adam Armstrong,1,0,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,843,James Ward-Prowse,93,0.913000031,0.655,FromCorner,Head,0.012484366,SavedShot,Ainsley Maitland-Niles,1,1,0
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,843,James Ward-Prowse,95,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18548,8/05/2023,Southampton,away,Nottingham Forest,11360,Paul Onuachu,100,0.874000015,0.582000008,OpenPlay,LeftFoot,0.074304447,BlockedShot,Lyanco,1,0,0
+2022,18549,6/05/2023,Tottenham,home,Crystal Palace,7218,Cristian Romero,16,0.954000015,0.560999985,FromCorner,Head,0.240068033,ShotOnPost,Pedro Porro,1,0,0
+2022,18549,6/05/2023,Tottenham,home,Crystal Palace,343,Pierre-Emile Højbjerg,22,0.870999985,0.364000015,OpenPlay,RightFoot,0.120816894,MissedShots,Harry Kane,1,0,0
+2022,18549,6/05/2023,Tottenham,home,Crystal Palace,7218,Cristian Romero,31,0.925,0.509000015,FromCorner,Head,0.053473741,BlockedShot,Pedro Porro,1,0,0
+2022,18549,6/05/2023,Tottenham,home,Crystal Palace,647,Harry Kane,45,0.935,0.565,OpenPlay,Head,0.33936733,Goal,Pedro Porro,1,1,1
+2022,18549,6/05/2023,Tottenham,home,Crystal Palace,5050,Clement Lenglet,55,0.853000031,0.435999985,SetPiece,Head,0.020447873,BlockedShot,Pedro Porro,1,0,0
+2022,18549,6/05/2023,Tottenham,home,Crystal Palace,6912,Pedro Porro,56,0.829000015,0.31,OpenPlay,LeftFoot,0.043101069,MissedShots,Richarlison,1,0,0
+2022,18549,6/05/2023,Tottenham,home,Crystal Palace,6912,Pedro Porro,60,0.875999985,0.257999992,OpenPlay,RightFoot,0.034126047,SavedShot,Ben Davies,1,1,0
+2022,18549,6/05/2023,Tottenham,home,Crystal Palace,453,Son Heung-Min,75,0.905,0.402000008,OpenPlay,RightFoot,0.305248886,SavedShot,Cristian Romero,1,1,0
+2022,18549,6/05/2023,Crystal Palace,away,Tottenham,8706,Eberechi Eze,26,0.751999969,0.720999985,DirectFreekick,RightFoot,0.040951978,BlockedShot,,1,0,0
+2022,18549,6/05/2023,Crystal Palace,away,Tottenham,9948,Michael Olise,27,0.863000031,0.282999992,OpenPlay,LeftFoot,0.039143667,SavedShot,Jordan Ayew,1,1,0
+2022,18549,6/05/2023,Crystal Palace,away,Tottenham,6314,Joachim Andersen,36,0.963000031,0.402000008,OpenPlay,RightFoot,0.065638952,MissedShots,Michael Olise,1,0,0
+2022,18549,6/05/2023,Crystal Palace,away,Tottenham,522,Wilfried Zaha,49,0.889000015,0.705,OpenPlay,RightFoot,0.029129358,MissedShots,Michael Olise,1,0,0
+2022,18549,6/05/2023,Crystal Palace,away,Tottenham,8706,Eberechi Eze,52,0.859000015,0.397000008,OpenPlay,RightFoot,0.074629553,MissedShots,Wilfried Zaha,1,0,0
+2022,18549,6/05/2023,Crystal Palace,away,Tottenham,8666,Cheick Oumar Doucoure,58,0.873000031,0.25,FromCorner,RightFoot,0.020765048,SavedShot,,1,1,0
+2022,18549,6/05/2023,Crystal Palace,away,Tottenham,522,Wilfried Zaha,73,0.859000015,0.715,OpenPlay,RightFoot,0.03641006,BlockedShot,Cheick Oumar Doucoure,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,531,Michail Antonio,15,0.948000031,0.552999992,OpenPlay,LeftFoot,0.121427916,MissedShots,Said Benrahma,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,3585,Said Benrahma,26,0.765,0.572999992,OpenPlay,RightFoot,0.025918301,Goal,,1,1,1
+2022,18550,7/05/2023,West Ham,home,Manchester United,1776,Jarrod Bowen,29,0.924000015,0.56,OpenPlay,LeftFoot,0.150444776,SavedShot,,1,1,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,3585,Said Benrahma,45,0.879000015,0.350999985,OpenPlay,RightFoot,0.087390132,SavedShot,Lucas Paquetá,1,1,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,1776,Jarrod Bowen,45,0.813000031,0.316000004,OpenPlay,LeftFoot,0.032465208,BlockedShot,Michail Antonio,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,3585,Said Benrahma,48,0.795999985,0.650999985,FromCorner,LeftFoot,0.020172954,BlockedShot,,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,8288,Tomas Soucek,48,0.958000031,0.307999992,FromCorner,RightFoot,0.04093967,SavedShot,Naif Aguerd,1,1,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,6935,Naif Aguerd,48,0.860999985,0.327000008,FromCorner,RightFoot,0.044949133,BlockedShot,,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,7365,Lucas Paquetá,59,0.765,0.515,OpenPlay,LeftFoot,0.035836473,MissedShots,Jarrod Bowen,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,8288,Tomas Soucek,62,0.943000031,0.33,OpenPlay,RightFoot,0.054009855,ShotOnPost,Lucas Paquetá,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,531,Michail Antonio,65,0.965,0.470999985,SetPiece,Head,0.595169723,BlockedShot,Said Benrahma,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,7365,Lucas Paquetá,65,0.886999969,0.306000004,OpenPlay,LeftFoot,0.035077438,MissedShots,Aaron Cresswell,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,531,Michail Antonio,65,0.935999985,0.507000008,OpenPlay,Head,0.48034063,MissedShots,Lucas Paquetá,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,5553,Declan Rice,70,0.806999969,0.718000031,OpenPlay,RightFoot,0.029710753,BlockedShot,Said Benrahma,1,0,0
+2022,18550,7/05/2023,West Ham,home,Manchester United,6935,Naif Aguerd,88,0.878000031,0.529000015,FromCorner,Head,0.014170953,BlockedShot,Thilo Kehrer,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,556,Marcus Rashford,1,0.803000031,0.644000015,OpenPlay,RightFoot,0.072949722,MissedShots,,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,1228,Bruno Fernandes,6,0.808000031,0.452000008,OpenPlay,RightFoot,0.051860418,MissedShots,Antony,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,11094,Antony,9,0.86,0.359000015,OpenPlay,LeftFoot,0.073420271,MissedShots,Wout Weghorst,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,646,Christian Eriksen,14,0.845,0.362999992,OpenPlay,RightFoot,0.058792796,MissedShots,Antony,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,556,Marcus Rashford,16,0.885999985,0.699000015,OpenPlay,RightFoot,0.047886439,ShotOnPost,Bruno Fernandes,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,1228,Bruno Fernandes,17,0.710999985,0.301000004,OpenPlay,RightFoot,0.008653537,MissedShots,Marcus Rashford,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,11094,Antony,24,0.749000015,0.350999985,OpenPlay,LeftFoot,0.015865721,BlockedShot,Aaron Wan-Bissaka,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,11094,Antony,31,0.793000031,0.629000015,OpenPlay,LeftFoot,0.032662131,BlockedShot,Bruno Fernandes,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,556,Marcus Rashford,38,0.714000015,0.242000008,OpenPlay,RightFoot,0.012183667,MissedShots,Aaron Wan-Bissaka,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,556,Marcus Rashford,41,0.955999985,0.665,OpenPlay,Head,0.010427391,MissedShots,Antony,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,646,Christian Eriksen,46,0.9,0.649000015,OpenPlay,LeftFoot,0.074130408,SavedShot,Casemiro,1,1,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,11094,Antony,50,0.805,0.447000008,OpenPlay,LeftFoot,0.040726356,BlockedShot,,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,7052,Wout Weghorst,55,0.795999985,0.449000015,OpenPlay,RightFoot,0.044630051,SavedShot,Aaron Wan-Bissaka,1,1,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,556,Marcus Rashford,76,0.933000031,0.305,OpenPlay,RightFoot,0.056413613,SavedShot,Marcel Sabitzer,1,1,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,2248,Casemiro,85,0.914000015,0.567000008,OpenPlay,Head,0.075914524,MissedShots,Bruno Fernandes,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,553,Anthony Martial,90,0.93,0.387000008,OpenPlay,RightFoot,0.095011525,SavedShot,Marcus Rashford,1,1,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,553,Anthony Martial,91,0.97,0.424000015,FromCorner,Head,0.33140099,MissedShots,Bruno Fernandes,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,1006,Luke Shaw,96,0.914000015,0.552999992,OpenPlay,Head,0.053229012,MissedShots,Bruno Fernandes,1,0,0
+2022,18550,7/05/2023,Manchester United,away,West Ham,1228,Bruno Fernandes,97,0.84,0.281000004,FromCorner,LeftFoot,0.038043171,MissedShots,Jadon Sancho,1,0,0
+2022,18551,6/05/2023,Wolverhampton Wanderers,home,Aston Villa,10293,Toti,8,0.908000031,0.542999992,FromCorner,Head,0.066180579,Goal,Rúben Neves,1,1,1
+2022,18551,6/05/2023,Wolverhampton Wanderers,home,Aston Villa,7080,Matheus Cunha,43,0.844000015,0.520999985,OpenPlay,LeftFoot,0.096119985,MissedShots,Diego Costa,1,0,0
+2022,18551,6/05/2023,Wolverhampton Wanderers,home,Aston Villa,802,Diego Costa,46,0.900999985,0.665,OpenPlay,LeftFoot,0.519850314,SavedShot,Pedro Neto,1,1,0
+2022,18551,6/05/2023,Wolverhampton Wanderers,home,Aston Villa,1299,Mario Lemina,52,0.724000015,0.580999985,OpenPlay,RightFoot,0.019705422,BlockedShot,,1,0,0
+2022,18551,6/05/2023,Wolverhampton Wanderers,home,Aston Villa,7080,Matheus Cunha,54,0.815999985,0.607999992,OpenPlay,RightFoot,0.040592223,BlockedShot,Diego Costa,1,0,0
+2022,18551,6/05/2023,Wolverhampton Wanderers,home,Aston Villa,11000,Matheus Nunes,57,0.944000015,0.322000008,OpenPlay,RightFoot,0.063601241,MissedShots,Pedro Neto,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,2203,Emiliano Buendía,13,0.828000031,0.355,OpenPlay,RightFoot,0.029589105,SavedShot,Ollie Watkins,1,1,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,695,Bertrand Traoré,16,0.86,0.302999992,OpenPlay,LeftFoot,0.04459456,BlockedShot,Emiliano Buendía,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,695,Bertrand Traoré,16,0.885,0.327000008,OpenPlay,LeftFoot,0.049350116,SavedShot,,1,1,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,8865,Ollie Watkins,30,0.953000031,0.435,OpenPlay,RightFoot,0.096873194,MissedShots,,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,8865,Ollie Watkins,33,0.906999969,0.497000008,OpenPlay,Head,0.316396236,SavedShot,Jacob Ramsey,1,1,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,2203,Emiliano Buendía,40,0.915999985,0.412000008,OpenPlay,RightFoot,0.139577031,BlockedShot,Ashley Young,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,6122,Douglas Luiz,41,0.730999985,0.382000008,OpenPlay,RightFoot,0.016830143,BlockedShot,Emiliano Buendía,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,2203,Emiliano Buendía,53,0.856999969,0.629000015,OpenPlay,RightFoot,0.0566453,BlockedShot,Jacob Ramsey,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,631,Ashley Young,56,0.84,0.602000008,FromCorner,LeftFoot,0.042670924,BlockedShot,,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,631,Ashley Young,59,0.799000015,0.502999992,FromCorner,RightFoot,0.041536171,MissedShots,Leon Bailey,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,2203,Emiliano Buendía,61,0.920999985,0.37,OpenPlay,RightFoot,0.063145325,MissedShots,Leon Bailey,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,1024,Tyrone Mings,71,0.944000015,0.569000015,SetPiece,LeftFoot,0.403728575,MissedShots,Douglas Luiz,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,2203,Emiliano Buendía,72,0.865,0.5,OpenPlay,LeftFoot,0.068271101,MissedShots,Álex Moreno,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,8865,Ollie Watkins,79,0.885999985,0.555,OpenPlay,Head,0.034558497,MissedShots,Diego Carlos,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,8941,Jacob Ramsey,81,0.869000015,0.67,OpenPlay,LeftFoot,0.052535001,BlockedShot,Jhon Durán,1,0,0
+2022,18551,6/05/2023,Aston Villa,away,Wolverhampton Wanderers,5221,Leon Bailey,83,0.85,0.165,DirectFreekick,LeftFoot,0.045275331,BlockedShot,,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,7322,Bukayo Saka,6,0.751999969,0.442000008,OpenPlay,LeftFoot,0.022928707,BlockedShot,,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,2517,Martin Odegaard,15,0.720999985,0.504000015,OpenPlay,LeftFoot,0.013748062,MissedShots,Gabriel Jesus,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,5543,Gabriel Jesus,23,0.978000031,0.335,OpenPlay,RightFoot,0.065294437,SavedShot,Martin Odegaard,1,1,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,7698,Leandro Trossard,30,0.878000031,0.615,OpenPlay,RightFoot,0.094024904,ShotOnPost,Granit Xhaka,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,204,Granit Xhaka,34,0.923000031,0.46,SetPiece,Head,0.058403216,MissedShots,Leandro Trossard,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,5543,Gabriel Jesus,45,0.770999985,0.292999992,OpenPlay,RightFoot,0.016175697,BlockedShot,Bukayo Saka,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,5613,Gabriel,46,0.968000031,0.59,FromCorner,Head,0.026341129,MissedShots,Leandro Trossard,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,7322,Bukayo Saka,46,0.864000015,0.417999992,FromCorner,LeftFoot,0.061120592,MissedShots,,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,2517,Martin Odegaard,48,0.898000031,0.744000015,OpenPlay,LeftFoot,0.037233278,MissedShots,Granit Xhaka,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,6492,Reiss Nelson,62,0.830999985,0.649000015,OpenPlay,RightFoot,0.046642069,MissedShots,Gabriel Jesus,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,7698,Leandro Trossard,70,0.868000031,0.402999992,OpenPlay,RightFoot,0.077465504,SavedShot,Martin Odegaard,1,1,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,6492,Reiss Nelson,82,0.956999969,0.716999969,OpenPlay,LeftFoot,0.048920006,BlockedShot,Eddie Nketiah,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,5613,Gabriel,83,0.894000015,0.597999992,FromCorner,RightFoot,0.345952839,MissedShots,Thomas Partey,1,0,0
+2022,18552,14/05/2023,Arsenal,home,Brighton,6492,Reiss Nelson,92,0.845999985,0.678000031,OpenPlay,RightFoot,0.044400401,BlockedShot,Thomas Partey,1,0,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,11058,Julio Enciso,11,0.896999969,0.675,OpenPlay,LeftFoot,0.081888244,SavedShot,,1,1,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,11058,Julio Enciso,36,0.905999985,0.44,OpenPlay,LeftFoot,0.409544468,MissedShots,,1,0,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,10177,Evan Ferguson,43,0.818000031,0.597999992,OpenPlay,RightFoot,0.037997037,MissedShots,Levi Colwill,1,0,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,11058,Julio Enciso,50,0.958000031,0.51,OpenPlay,Head,0.618511319,Goal,Estupiñán,1,1,1
+2022,18552,14/05/2023,Brighton,away,Arsenal,501,Danny Welbeck,66,0.755,0.384000015,OpenPlay,RightFoot,0.032337546,MissedShots,Julio Enciso,1,0,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,5136,Estupiñán,67,0.851999969,0.658000031,OpenPlay,RightFoot,0.086906582,MissedShots,,1,0,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,8379,Alexis Mac Allister,75,0.754000015,0.39,OpenPlay,RightFoot,0.025228105,MissedShots,Danny Welbeck,1,0,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,10804,Deniz Undav,84,0.809000015,0.482999992,OpenPlay,RightFoot,0.063038044,SavedShot,,1,1,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,10804,Deniz Undav,85,0.856999969,0.582999992,OpenPlay,LeftFoot,0.357490778,Goal,Pascal Groß,1,1,1
+2022,18552,14/05/2023,Brighton,away,Arsenal,10806,Kaoru Mitoma,90,0.844000015,0.502000008,OpenPlay,RightFoot,0.119668357,BlockedShot,Deniz Undav,1,0,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,10804,Deniz Undav,95,0.739000015,0.517999992,OpenPlay,RightFoot,0.021978481,SavedShot,Danny Welbeck,1,1,0
+2022,18552,14/05/2023,Brighton,away,Arsenal,5136,Estupiñán,95,0.915999985,0.622999992,OpenPlay,LeftFoot,0.366223931,Goal,,1,1,1
+2022,18553,13/05/2023,Aston Villa,home,Tottenham,8941,Jacob Ramsey,7,0.916999969,0.450999985,OpenPlay,RightFoot,0.463871211,Goal,Leon Bailey,1,1,1
+2022,18553,13/05/2023,Aston Villa,home,Tottenham,5221,Leon Bailey,31,0.905999985,0.525,OpenPlay,LeftFoot,0.487308472,SavedShot,Ollie Watkins,1,1,0
+2022,18553,13/05/2023,Aston Villa,home,Tottenham,8865,Ollie Watkins,40,0.949000015,0.532000008,OpenPlay,Head,0.54079932,MissedShots,Álex Moreno,1,0,0
+2022,18553,13/05/2023,Aston Villa,home,Tottenham,2203,Emiliano Buendía,42,0.849000015,0.592000008,OpenPlay,LeftFoot,0.094253339,ShotOnPost,Jacob Ramsey,1,0,0
+2022,18553,13/05/2023,Aston Villa,home,Tottenham,631,Ashley Young,46,0.899000015,0.384000015,FromCorner,RightFoot,0.044547819,MissedShots,Douglas Luiz,1,0,0
+2022,18553,13/05/2023,Aston Villa,home,Tottenham,7723,John McGinn,48,0.778000031,0.365,OpenPlay,LeftFoot,0.02736632,MissedShots,Leon Bailey,1,0,0
+2022,18553,13/05/2023,Aston Villa,home,Tottenham,2203,Emiliano Buendía,50,0.854000015,0.349000015,OpenPlay,LeftFoot,0.066827446,SavedShot,Leon Bailey,1,1,0
+2022,18553,13/05/2023,Aston Villa,home,Tottenham,6122,Douglas Luiz,71,0.761999969,0.477999992,DirectFreekick,RightFoot,0.074893571,Goal,,1,1,1
+2022,18553,13/05/2023,Tottenham,away,Aston Villa,647,Harry Kane,51,0.848000031,0.524000015,OpenPlay,RightFoot,0.2917068,SavedShot,Pierre-Emile Højbjerg,1,1,0
+2022,18553,13/05/2023,Tottenham,away,Aston Villa,6691,Dejan Kulusevski,64,0.946999969,0.330999985,OpenPlay,LeftFoot,0.072233394,MissedShots,Pedro Porro,1,0,0
+2022,18553,13/05/2023,Tottenham,away,Aston Villa,647,Harry Kane,89,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18553,13/05/2023,Tottenham,away,Aston Villa,8066,Arnaut Danjuma Groeneveld,92,0.836999969,0.67,OpenPlay,RightFoot,0.03706098,BlockedShot,,1,0,0
+2022,18553,13/05/2023,Tottenham,away,Aston Villa,6691,Dejan Kulusevski,93,0.809000015,0.359000015,OpenPlay,LeftFoot,0.022876995,MissedShots,Ivan Perisic,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,8859,Mikkel Damsgaard,6,0.96,0.522000008,OpenPlay,Head,0.577777863,MissedShots,Kevin Schade,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,6552,Bryan Mbeumo,19,0.868000031,0.415,OpenPlay,LeftFoot,0.332258016,Goal,Mathias Jensen,1,1,1
+2022,18554,14/05/2023,Brentford,home,West Ham,5786,Yoane Wissa,33,0.875999985,0.405999985,OpenPlay,RightFoot,0.11215812,SavedShot,Aaron Hickey,1,1,0
+2022,18554,14/05/2023,Brentford,home,West Ham,9156,Kevin Schade,36,0.850999985,0.634000015,FromCorner,RightFoot,0.040367603,MissedShots,,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,8859,Mikkel Damsgaard,38,0.805,0.499000015,OpenPlay,RightFoot,0.024467858,BlockedShot,,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,9679,Rico Henry,38,0.715,0.617999992,OpenPlay,LeftFoot,0.01698618,BlockedShot,Aaron Hickey,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,9156,Kevin Schade,39,0.974000015,0.622000008,OpenPlay,Head,0.022249123,SavedShot,Mathias Jensen,1,1,0
+2022,18554,14/05/2023,Brentford,home,West Ham,8859,Mikkel Damsgaard,39,0.865,0.462000008,OpenPlay,RightFoot,0.096677355,BlockedShot,,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,5786,Yoane Wissa,39,0.955999985,0.524000015,OpenPlay,LeftFoot,0.183782607,SavedShot,,1,1,0
+2022,18554,14/05/2023,Brentford,home,West Ham,1654,Ben Mee,39,0.963000031,0.445,OpenPlay,RightFoot,0.633477151,SavedShot,,1,1,0
+2022,18554,14/05/2023,Brentford,home,West Ham,1654,Ben Mee,40,0.963000031,0.46,FromCorner,Head,0.136754423,MissedShots,Bryan Mbeumo,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,5786,Yoane Wissa,42,0.956999969,0.5,OpenPlay,Head,0.713637948,Goal,Ben Mee,1,1,1
+2022,18554,14/05/2023,Brentford,home,West Ham,8942,Aaron Hickey,45,0.805,0.404000015,OpenPlay,LeftFoot,0.058360815,MissedShots,,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,5786,Yoane Wissa,50,0.85,0.502999992,OpenPlay,RightFoot,0.11201553,MissedShots,Bryan Mbeumo,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,6552,Bryan Mbeumo,54,0.963000031,0.412000008,OpenPlay,Head,0.103721231,BlockedShot,Kevin Schade,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,6552,Bryan Mbeumo,56,0.873000031,0.332000008,OpenPlay,LeftFoot,0.06751883,BlockedShot,,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,5786,Yoane Wissa,59,0.925,0.475999985,OpenPlay,Head,0.059806369,MissedShots,Rico Henry,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,1654,Ben Mee,61,0.925999985,0.527999992,FromCorner,Head,0.108921051,MissedShots,Mathias Jensen,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,8859,Mikkel Damsgaard,61,0.963000031,0.462000008,FromCorner,RightFoot,0.62998122,MissedShots,Ben Mee,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,6552,Bryan Mbeumo,71,0.905,0.439000015,OpenPlay,Head,0.07892108,MissedShots,Vitaly Janelt,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,9681,Frank Onyeka,73,0.809000015,0.614000015,OpenPlay,LeftFoot,0.085821874,SavedShot,Yoane Wissa,1,1,0
+2022,18554,14/05/2023,Brentford,home,West Ham,6552,Bryan Mbeumo,85,0.801999969,0.637999992,OpenPlay,RightFoot,0.033404455,SavedShot,Saman Ghoddos,1,1,0
+2022,18554,14/05/2023,Brentford,home,West Ham,10405,Josh Dasilva,88,0.811999969,0.372999992,OpenPlay,LeftFoot,0.05894655,BlockedShot,Shandon Baptiste,1,0,0
+2022,18554,14/05/2023,Brentford,home,West Ham,6552,Bryan Mbeumo,93,0.916999969,0.472999992,OpenPlay,Head,0.406724185,SavedShot,Mads Roerslev,1,1,0
+2022,18554,14/05/2023,West Ham,away,Brentford,1245,Emerson,27,0.770999985,0.462000008,OpenPlay,RightFoot,0.030361956,SavedShot,Angelo Ogbonna,1,1,0
+2022,18554,14/05/2023,West Ham,away,Brentford,986,Danny Ings,44,0.856999969,0.607999992,OpenPlay,RightFoot,0.048176721,SavedShot,Naif Aguerd,1,1,0
+2022,18554,14/05/2023,West Ham,away,Brentford,6424,Ben Johnson,64,0.864000015,0.325,OpenPlay,RightFoot,0.059165474,SavedShot,Divin Mubama,1,1,0
+2022,18554,14/05/2023,West Ham,away,Brentford,3585,Said Benrahma,78,0.851999969,0.447000008,OpenPlay,RightFoot,0.06560827,SavedShot,,1,1,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,618,Raheem Sterling,17,0.89,0.587000008,OpenPlay,LeftFoot,0.105307378,BlockedShot,Enzo Fernández,1,0,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,10216,Lewis Hall,17,0.871999969,0.654000015,OpenPlay,LeftFoot,0.028316852,BlockedShot,Trevoh Chalobah,1,0,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,618,Raheem Sterling,26,0.785,0.500999985,OpenPlay,RightFoot,0.045738839,BlockedShot,,1,0,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,11356,Enzo Fernández,30,0.768000031,0.316000004,DirectFreekick,RightFoot,0.053834137,MissedShots,,1,0,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,7892,João Félix,32,0.895999985,0.527000008,OpenPlay,Head,0.265223742,SavedShot,Lewis Hall,1,1,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,618,Raheem Sterling,50,0.895,0.542999992,OpenPlay,RightFoot,0.080540814,Goal,,1,1,1
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,7892,João Félix,54,0.976999969,0.599000015,SetPiece,Head,0.056081787,BlockedShot,Lewis Hall,1,0,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,9040,Conor Gallagher,55,0.753000031,0.639000015,OpenPlay,RightFoot,0.019257963,SavedShot,Lewis Hall,1,1,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,7892,João Félix,57,0.749000015,0.587999992,OpenPlay,RightFoot,0.021789536,MissedShots,Raheem Sterling,1,0,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,618,Raheem Sterling,57,0.871999969,0.622999992,OpenPlay,RightFoot,0.1127517,Goal,Ruben Loftus-Cheek,1,1,1
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,618,Raheem Sterling,80,0.955999985,0.595999985,OpenPlay,Head,0.053845074,MissedShots,Thiago Silva,1,0,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,9040,Conor Gallagher,86,0.959000015,0.325,OpenPlay,RightFoot,0.11460831,BlockedShot,Enzo Fernández,1,0,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,8992,Hakim Ziyech,92,0.740999985,0.277000008,OpenPlay,LeftFoot,0.015470691,SavedShot,Trevoh Chalobah,1,1,0
+2022,18555,13/05/2023,Chelsea,home,Nottingham Forest,9040,Conor Gallagher,94,0.828000031,0.375999985,OpenPlay,RightFoot,0.026414065,SavedShot,Hakim Ziyech,1,1,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,7921,Felipe,3,0.973000031,0.432999992,FromCorner,Head,0.123470739,MissedShots,Renan Lodi,1,0,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,7814,Taiwo Awoniyi,12,0.925999985,0.504000015,OpenPlay,Head,0.439475358,Goal,Renan Lodi,1,1,1
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,11317,Danilo,21,0.889000015,0.676999969,OpenPlay,LeftFoot,0.080639273,BlockedShot,Renan Lodi,1,0,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,7891,Renan Lodi,23,0.818000031,0.700999985,FromCorner,LeftFoot,0.014851502,MissedShots,,1,0,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,7921,Felipe,48,0.964000015,0.427000008,FromCorner,Head,0.050932977,MissedShots,Renan Lodi,1,0,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,5989,Moussa Niakhate,48,0.985999985,0.550999985,FromCorner,LeftFoot,0.696846724,MissedShots,Felipe,1,0,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,7921,Felipe,52,0.909000015,0.505999985,SetPiece,Head,0.050394539,BlockedShot,Morgan Gibbs-White,1,0,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,11317,Danilo,52,0.878000031,0.515,SetPiece,LeftFoot,0.099668406,MissedShots,,1,0,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,7814,Taiwo Awoniyi,61,0.95,0.472000008,OpenPlay,Head,0.371189505,Goal,Orel Mangala,1,1,1
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,7891,Renan Lodi,66,0.904000015,0.695999985,OpenPlay,LeftFoot,0.019735215,MissedShots,,1,0,0
+2022,18555,13/05/2023,Nottingham Forest,away,Chelsea,7891,Renan Lodi,70,0.834000015,0.527000008,OpenPlay,LeftFoot,0.02578778,MissedShots,,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,9948,Michael Olise,14,0.805,0.298999996,OpenPlay,LeftFoot,0.045007791,MissedShots,Wilfried Zaha,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,672,Jordan Ayew,24,0.925,0.485999985,OpenPlay,Head,0.069415078,MissedShots,Joel Ward,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,522,Wilfried Zaha,25,0.965999985,0.594000015,OpenPlay,RightFoot,0.098173477,MissedShots,Michael Olise,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,8666,Cheick Oumar Doucoure,29,0.815,0.515,FromCorner,RightFoot,0.038518518,BlockedShot,,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,6104,Will Hughes,32,0.799000015,0.505,OpenPlay,LeftFoot,0.046393774,BlockedShot,,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,7603,Marc Guehi,32,0.915999985,0.600999985,OpenPlay,Head,0.027371164,MissedShots,Joel Ward,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,7603,Marc Guehi,36,0.93,0.62,SetPiece,Head,0.036858696,BlockedShot,Eberechi Eze,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,9948,Michael Olise,36,0.831999969,0.327999992,SetPiece,LeftFoot,0.029030262,BlockedShot,,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,8706,Eberechi Eze,38,0.924000015,0.504000015,OpenPlay,LeftFoot,0.558424711,Goal,Jordan Ayew,1,1,1
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,522,Wilfried Zaha,41,0.861999969,0.733000031,OpenPlay,RightFoot,0.094568737,MissedShots,Joachim Andersen,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,6104,Will Hughes,46,0.819000015,0.594000015,FromCorner,LeftFoot,0.019290011,SavedShot,Joel Ward,1,1,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,9948,Michael Olise,52,0.854000015,0.305,OpenPlay,LeftFoot,0.046486501,MissedShots,Marc Guehi,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,8706,Eberechi Eze,55,0.934000015,0.450999985,OpenPlay,Head,0.072346285,SavedShot,Michael Olise,1,1,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,8706,Eberechi Eze,57,0.825999985,0.534000015,OpenPlay,RightFoot,0.069707677,Goal,Michael Olise,1,1,1
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,510,Joel Ward,67,0.910999985,0.429000015,FromCorner,Head,0.052614916,BlockedShot,Michael Olise,1,0,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,9948,Michael Olise,69,0.855999985,0.257000008,OpenPlay,LeftFoot,0.044269592,SavedShot,Cheick Oumar Doucoure,1,1,0
+2022,18556,13/05/2023,Crystal Palace,home,Bournemouth,6027,Jairo Riedewald,78,0.880999985,0.653000031,SetPiece,LeftFoot,0.053897131,MissedShots,,1,0,0
+2022,18556,13/05/2023,Bournemouth,away,Crystal Palace,1679,Dominic Solanke,7,0.911999969,0.447999992,FromCorner,Head,0.067462049,BlockedShot,Ryan Christie,1,0,0
+2022,18556,13/05/2023,Bournemouth,away,Crystal Palace,1679,Dominic Solanke,17,0.863000031,0.372999992,OpenPlay,LeftFoot,0.062562779,BlockedShot,Philip Billing,1,0,0
+2022,18556,13/05/2023,Bournemouth,away,Crystal Palace,9662,Dango Ouattara,35,0.720999985,0.31,OpenPlay,LeftFoot,0.013896857,BlockedShot,Ryan Christie,1,0,0
+2022,18556,13/05/2023,Bournemouth,away,Crystal Palace,10744,Ryan Christie,57,0.956999969,0.552999992,FromCorner,Head,0.082932264,BlockedShot,Jefferson Lerma,1,0,0
+2022,18556,13/05/2023,Bournemouth,away,Crystal Palace,1789,Lewis Cook,85,0.71,0.653000031,DirectFreekick,RightFoot,0.035168562,MissedShots,,1,0,0
+2022,18557,14/05/2023,Everton,home,Manchester City,1665,James Tarkowski,33,0.955999985,0.53,FromCorner,Head,0.078171656,MissedShots,Dwight McNeil,1,0,0
+2022,18557,14/05/2023,Everton,home,Manchester City,985,Mason Holgate,33,0.965,0.464000015,FromCorner,RightFoot,0.649699271,MissedShots,James Tarkowski,1,0,0
+2022,18557,14/05/2023,Everton,home,Manchester City,6521,Yerry Mina,58,0.963000031,0.462000008,FromCorner,Head,0.129616365,SavedShot,James Garner,1,1,0
+2022,18557,14/05/2023,Everton,home,Manchester City,3621,Neal Maupay,58,0.956999969,0.482999992,FromCorner,LeftFoot,0.11588528,BlockedShot,,1,0,0
+2022,18557,14/05/2023,Everton,home,Manchester City,6756,Dwight McNeil,64,0.799000015,0.674000015,OpenPlay,LeftFoot,0.016643036,BlockedShot,,1,0,0
+2022,18557,14/05/2023,Everton,home,Manchester City,1665,James Tarkowski,65,0.933000031,0.517999992,FromCorner,Head,0.119227149,SavedShot,Dwight McNeil,1,1,0
+2022,18557,14/05/2023,Everton,home,Manchester City,6521,Yerry Mina,66,0.963000031,0.547999992,FromCorner,Head,0.1275132,MissedShots,Dwight McNeil,1,0,0
+2022,18557,14/05/2023,Manchester City,away,Everton,750,Riyad Mahrez,27,0.781999969,0.57,FromCorner,LeftFoot,0.025671287,MissedShots,Ilkay Gündogan,1,0,0
+2022,18557,14/05/2023,Manchester City,away,Everton,6055,Phil Foden,30,0.803000031,0.287000008,FromCorner,LeftFoot,0.021342993,BlockedShot,Riyad Mahrez,1,0,0
+2022,18557,14/05/2023,Manchester City,away,Everton,2496,Rodri,34,0.750999985,0.605,OpenPlay,RightFoot,0.015987882,SavedShot,Aymeric Laporte,1,1,0
+2022,18557,14/05/2023,Manchester City,away,Everton,314,Ilkay Gündogan,36,0.921999969,0.522000008,OpenPlay,RightFoot,0.117307253,Goal,Riyad Mahrez,1,1,1
+2022,18557,14/05/2023,Manchester City,away,Everton,8260,Erling Haaland,38,0.951999969,0.467999992,OpenPlay,Head,0.570234597,Goal,Ilkay Gündogan,1,1,1
+2022,18557,14/05/2023,Manchester City,away,Everton,638,Kyle Walker,42,0.821999969,0.273999996,SetPiece,RightFoot,0.016424812,MissedShots,,1,0,0
+2022,18557,14/05/2023,Manchester City,away,Everton,314,Ilkay Gündogan,50,0.798000031,0.645999985,DirectFreekick,RightFoot,0.084910661,Goal,,1,1,1
+2022,18557,14/05/2023,Manchester City,away,Everton,750,Riyad Mahrez,53,0.794000015,0.257000008,DirectFreekick,LeftFoot,0.052107312,BlockedShot,,1,0,0
+2022,18557,14/05/2023,Manchester City,away,Everton,8260,Erling Haaland,59,0.905999985,0.367000008,OpenPlay,LeftFoot,0.139390051,MissedShots,Phil Foden,1,0,0
+2022,18558,13/05/2023,Leeds,home,Newcastle United,2381,Rodrigo,6,0.899000015,0.495,OpenPlay,Head,0.047207125,SavedShot,,1,1,0
+2022,18558,13/05/2023,Leeds,home,Newcastle United,8716,Luke Ayling,6,0.976999969,0.472000008,OpenPlay,LeftFoot,0.887571692,Goal,,1,1,1
+2022,18558,13/05/2023,Leeds,home,Newcastle United,822,Patrick Bamford,27,0.885,0.5,Penalty,LeftFoot,0.761168838,SavedShot,,1,1,0
+2022,18558,13/05/2023,Leeds,home,Newcastle United,9493,Sam Greenwood,43,0.781999969,0.457000008,OpenPlay,RightFoot,0.034694899,MissedShots,Patrick Bamford,1,0,0
+2022,18558,13/05/2023,Leeds,home,Newcastle United,822,Patrick Bamford,55,0.860999985,0.635999985,OpenPlay,RightFoot,0.070057936,BlockedShot,Rodrigo,1,0,0
+2022,18558,13/05/2023,Leeds,home,Newcastle United,5360,Weston McKennie,62,0.866999969,0.53,OpenPlay,LeftFoot,0.081024759,MissedShots,Robin Koch,1,0,0
+2022,18558,13/05/2023,Leeds,home,Newcastle United,822,Patrick Bamford,78,0.905,0.432999992,FromCorner,LeftFoot,0.093670271,BlockedShot,,1,0,0
+2022,18558,13/05/2023,Leeds,home,Newcastle United,10750,Rasmus Kristensen,78,0.841999969,0.379000015,FromCorner,RightFoot,0.049957272,Goal,,1,1,1
+2022,18558,13/05/2023,Leeds,home,Newcastle United,822,Patrick Bamford,80,0.92,0.590999985,SetPiece,OtherBodyPart,0.036895726,MissedShots,Adam Forshaw,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,87,Joelinton,2,0.754000015,0.427000008,OpenPlay,RightFoot,0.019656448,MissedShots,,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,468,Callum Wilson,10,0.949000015,0.665999985,OpenPlay,LeftFoot,0.066561058,SavedShot,Dan Burn,1,1,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,7420,Miguel Almirón,14,0.936999969,0.704000015,OpenPlay,LeftFoot,0.05157692,MissedShots,Joe Willock,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,5232,Alexander Isak,20,0.825999985,0.557000008,OpenPlay,RightFoot,0.053854518,BlockedShot,Joe Willock,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,468,Callum Wilson,30,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18558,13/05/2023,Newcastle United,away,Leeds,7382,Dan Burn,33,0.758000031,0.552999992,OpenPlay,RightFoot,0.02192932,MissedShots,,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,76,Fabian Schär,37,0.935999985,0.535999985,FromCorner,Head,0.116092943,MissedShots,Kieran Trippier,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,7420,Miguel Almirón,45,0.87,0.262999992,OpenPlay,LeftFoot,0.033520684,MissedShots,Joelinton,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,87,Joelinton,47,0.954000015,0.694000015,SetPiece,Head,0.01244736,MissedShots,,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,468,Callum Wilson,50,0.84,0.482999992,OpenPlay,RightFoot,0.064898454,BlockedShot,Joe Willock,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,468,Callum Wilson,51,0.93,0.510999985,FromCorner,Head,0.115788609,MissedShots,Kieran Trippier,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,76,Fabian Schär,55,0.92,0.51,FromCorner,Head,0.046282556,BlockedShot,Kieran Trippier,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,76,Fabian Schär,55,0.905999985,0.685,FromCorner,RightFoot,0.040993739,BlockedShot,,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,468,Callum Wilson,68,0.885,0.5,Penalty,RightFoot,0.761168838,Goal,,1,1,1
+2022,18558,13/05/2023,Newcastle United,away,Leeds,6630,Joe Willock,70,0.809000015,0.769000015,OpenPlay,RightFoot,0.026079061,BlockedShot,Callum Wilson,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,101,Allan Saint-Maximin,85,0.856999969,0.710999985,OpenPlay,RightFoot,0.037787728,SavedShot,Bruno Guimarães,1,1,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,652,Kieran Trippier,92,0.804000015,0.375,DirectFreekick,RightFoot,0.100122921,BlockedShot,,1,0,0
+2022,18558,13/05/2023,Newcastle United,away,Leeds,76,Fabian Schär,96,0.770999985,0.555,OpenPlay,LeftFoot,0.021247303,SavedShot,Elliot Anderson,1,1,0
+2022,18559,15/05/2023,Leicester,home,Liverpool,755,Jamie Vardy,11,0.956999969,0.617999992,OpenPlay,LeftFoot,0.361181408,SavedShot,Harvey Barnes,1,1,0
+2022,18559,15/05/2023,Leicester,home,Liverpool,6818,James Maddison,45,0.905,0.347000008,OpenPlay,RightFoot,0.049749106,SavedShot,Ricardo Pereira,1,1,0
+2022,18559,15/05/2023,Leicester,home,Liverpool,6681,Harvey Barnes,51,0.820999985,0.605999985,OpenPlay,RightFoot,0.040972095,SavedShot,Youri Tielemans,1,1,0
+2022,18559,15/05/2023,Leicester,home,Liverpool,755,Jamie Vardy,87,0.891999969,0.472999992,OpenPlay,RightFoot,0.075592898,SavedShot,,1,1,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,6326,Ibrahima Konaté,16,0.881999969,0.552999992,FromCorner,Head,0.028107245,BlockedShot,Trent Alexander-Arnold,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,10408,Luis Díaz,28,0.905,0.699000015,OpenPlay,RightFoot,0.053354856,MissedShots,Andrew Robertson,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,3420,Fabinho,30,0.738000031,0.487000008,OpenPlay,RightFoot,0.017337469,MissedShots,Curtis Jones,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,6665,Curtis Jones,32,0.95,0.577000008,OpenPlay,LeftFoot,0.337425649,Goal,Mohamed Salah,1,1,1
+2022,18559,15/05/2023,Liverpool,away,Leicester,6665,Curtis Jones,35,0.861999969,0.387999992,OpenPlay,RightFoot,0.098918132,Goal,Mohamed Salah,1,1,1
+2022,18559,15/05/2023,Liverpool,away,Leicester,11296,Cody Gakpo,37,0.864000015,0.432999992,OpenPlay,RightFoot,0.112957954,SavedShot,Mohamed Salah,1,1,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,1250,Mohamed Salah,42,0.87,0.570999985,OpenPlay,LeftFoot,0.122753039,BlockedShot,Luis Díaz,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,3420,Fabinho,46,0.765,0.517000008,OpenPlay,LeftFoot,0.032896969,MissedShots,,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,10408,Luis Díaz,50,0.873000031,0.464000015,OpenPlay,Head,0.038079005,MissedShots,Jordan Henderson,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,1250,Mohamed Salah,52,0.810999985,0.322999992,OpenPlay,LeftFoot,0.045936577,MissedShots,Jordan Henderson,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,6665,Curtis Jones,56,0.900999985,0.686999969,OpenPlay,RightFoot,0.059334636,BlockedShot,,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,1250,Mohamed Salah,67,0.845999985,0.367000008,OpenPlay,LeftFoot,0.079892121,SavedShot,Cody Gakpo,1,1,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,1791,Trent Alexander-Arnold,70,0.761999969,0.594000015,DirectFreekick,RightFoot,0.067105994,Goal,,1,1,1
+2022,18559,15/05/2023,Liverpool,away,Leicester,1250,Mohamed Salah,75,0.905999985,0.625,OpenPlay,LeftFoot,0.138534054,BlockedShot,Curtis Jones,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,1250,Mohamed Salah,78,0.858000031,0.545,OpenPlay,LeftFoot,0.43927756,MissedShots,Cody Gakpo,1,0,0
+2022,18559,15/05/2023,Liverpool,away,Leicester,7546,Harvey Elliott,88,0.853000031,0.387000008,OpenPlay,LeftFoot,0.098942183,BlockedShot,James Milner,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,11094,Antony,0,0.785999985,0.316000004,OpenPlay,LeftFoot,0.02493698,BlockedShot,Aaron Wan-Bissaka,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,646,Christian Eriksen,6,0.736999969,0.557000008,OpenPlay,LeftFoot,0.019169461,MissedShots,Casemiro,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,11094,Antony,8,0.813000031,0.457999992,OpenPlay,LeftFoot,0.054612208,MissedShots,,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,2245,Raphael Varane,21,0.739000015,0.262000008,OpenPlay,RightFoot,0.014457619,MissedShots,Victor Lindelöf,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,1228,Bruno Fernandes,26,0.755999985,0.749000015,DirectFreekick,RightFoot,0.038197368,SavedShot,,1,1,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,1228,Bruno Fernandes,26,0.800999985,0.680999985,OpenPlay,LeftFoot,0.022717964,BlockedShot,Anthony Martial,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,646,Christian Eriksen,26,0.749000015,0.542000008,OpenPlay,RightFoot,0.022052638,MissedShots,Jadon Sancho,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,553,Anthony Martial,29,0.9,0.615999985,OpenPlay,LeftFoot,0.1009956,BlockedShot,Jadon Sancho,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,1006,Luke Shaw,29,0.755999985,0.69,OpenPlay,LeftFoot,0.020160645,BlockedShot,Victor Lindelöf,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,11094,Antony,29,0.949000015,0.45,OpenPlay,Head,0.41626814,MissedShots,Luke Shaw,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,553,Anthony Martial,31,0.914000015,0.54,OpenPlay,RightFoot,0.459608644,Goal,Antony,1,1,1
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,6080,Victor Lindelöf,41,0.941999969,0.555,FromCorner,Head,0.115458228,MissedShots,Christian Eriksen,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,1228,Bruno Fernandes,42,0.908000031,0.469000015,FromCorner,Head,0.050050288,MissedShots,Victor Lindelöf,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,2245,Raphael Varane,42,0.925999985,0.640999985,FromCorner,Head,0.013883112,SavedShot,Bruno Fernandes,1,1,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,553,Anthony Martial,45,0.78,0.641999969,OpenPlay,RightFoot,0.048880484,SavedShot,Antony,1,1,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,1228,Bruno Fernandes,46,0.741999969,0.656999969,OpenPlay,RightFoot,0.016486781,MissedShots,Jadon Sancho,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,11094,Antony,47,0.89,0.364000015,OpenPlay,LeftFoot,0.084085919,BlockedShot,,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,646,Christian Eriksen,49,0.725999985,0.547999992,OpenPlay,RightFoot,0.017493257,BlockedShot,Anthony Martial,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,11094,Antony,58,0.845999985,0.367999992,OpenPlay,LeftFoot,0.064937748,BlockedShot,Bruno Fernandes,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,1228,Bruno Fernandes,63,0.930999985,0.685999985,OpenPlay,RightFoot,0.075447038,SavedShot,,1,1,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,6345,Jadon Sancho,72,0.879000015,0.605,OpenPlay,RightFoot,0.11586006,SavedShot,Wout Weghorst,1,1,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,2248,Casemiro,81,0.761999969,0.349000015,OpenPlay,RightFoot,0.02043587,SavedShot,Antony,1,1,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,7052,Wout Weghorst,82,0.953000031,0.495999985,FromCorner,Head,0.486771971,MissedShots,Bruno Fernandes,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,1228,Bruno Fernandes,86,0.871999969,0.845,FromCorner,RightFoot,0.02820944,MissedShots,Luke Shaw,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,1228,Bruno Fernandes,88,0.805999985,0.507000008,DirectFreekick,RightFoot,0.142022014,MissedShots,,1,0,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,11094,Antony,89,0.833000031,0.489000015,OpenPlay,LeftFoot,0.082749598,SavedShot,Bruno Fernandes,1,1,0
+2022,18560,13/05/2023,Manchester United,home,Wolverhampton Wanderers,10552,Alejandro Garnacho,93,0.856999969,0.465999985,OpenPlay,RightFoot,0.545231104,Goal,Bruno Fernandes,1,1,1
+2022,18560,13/05/2023,Wolverhampton Wanderers,away,Manchester United,804,Craig Dawson,7,0.899000015,0.602000008,FromCorner,LeftFoot,0.048962891,MissedShots,Pedro Neto,1,0,0
+2022,18560,13/05/2023,Wolverhampton Wanderers,away,Manchester United,7332,Max Kilman,54,0.913000031,0.487999992,FromCorner,Head,0.036351219,MissedShots,Rúben Neves,1,0,0
+2022,18560,13/05/2023,Wolverhampton Wanderers,away,Manchester United,7332,Max Kilman,57,0.911999969,0.472000008,FromCorner,Head,0.080509484,MissedShots,Rúben Neves,1,0,0
+2022,18560,13/05/2023,Wolverhampton Wanderers,away,Manchester United,8845,Hee-Chan Hwang,57,0.964000015,0.62,FromCorner,LeftFoot,0.079789296,MissedShots,Max Kilman,1,0,0
+2022,18560,13/05/2023,Wolverhampton Wanderers,away,Manchester United,8845,Hee-Chan Hwang,69,0.893000031,0.604000015,OpenPlay,Head,0.029600129,MissedShots,Matheus Nunes,1,0,0
+2022,18561,13/05/2023,Southampton,home,Fulham,11360,Paul Onuachu,20,0.78,0.196000004,OpenPlay,RightFoot,0.013393304,SavedShot,,1,1,0
+2022,18561,13/05/2023,Southampton,home,Fulham,11297,Carlos Alcaraz,32,0.706999969,0.540999985,OpenPlay,RightFoot,0.014494006,MissedShots,Stuart Armstrong,1,0,0
+2022,18561,13/05/2023,Southampton,home,Fulham,11360,Paul Onuachu,53,0.936999969,0.559000015,OpenPlay,Head,0.049294371,MissedShots,Kyle Walker-Peters,1,0,0
+2022,18561,13/05/2023,Southampton,home,Fulham,9630,Kamaldeen Sulemana,83,0.81,0.442000008,OpenPlay,RightFoot,0.047140289,BlockedShot,,1,0,0
+2022,18561,13/05/2023,Southampton,home,Fulham,10004,Romeo Lavia,83,0.741999969,0.512000008,FromCorner,RightFoot,0.025327388,BlockedShot,Moussa Djenepo,1,0,0
+2022,18561,13/05/2023,Fulham,away,Southampton,5590,Tosin Adarabioyo,11,0.684000015,0.467000008,OpenPlay,RightFoot,0.012510963,MissedShots,Willian,1,0,0
+2022,18561,13/05/2023,Fulham,away,Southampton,6835,Tom Cairney,13,0.818000031,0.394000015,FromCorner,LeftFoot,0.0327955,BlockedShot,Willian,1,0,0
+2022,18561,13/05/2023,Fulham,away,Southampton,7395,Carlos Vinicius,25,0.906999969,0.507000008,SetPiece,Head,0.069934145,BlockedShot,Harry Wilson,1,0,0
+2022,18561,13/05/2023,Fulham,away,Southampton,700,Willian,40,0.941999969,0.612000008,OpenPlay,LeftFoot,0.118467502,BlockedShot,Harrison Reed,1,0,0
+2022,18561,13/05/2023,Fulham,away,Southampton,7395,Carlos Vinicius,47,0.919000015,0.532000008,OpenPlay,RightFoot,0.482284576,Goal,Harrison Reed,1,1,1
+2022,18561,13/05/2023,Fulham,away,Southampton,10715,João Palhinha,51,0.850999985,0.303999996,OpenPlay,RightFoot,0.075658455,BlockedShot,Carlos Vinicius,1,0,0
+2022,18561,13/05/2023,Fulham,away,Southampton,6835,Tom Cairney,60,0.799000015,0.577000008,OpenPlay,LeftFoot,0.042370748,BlockedShot,Willian,1,0,0
+2022,18561,13/05/2023,Fulham,away,Southampton,773,Aleksandar Mitrovic,71,0.923000031,0.53,OpenPlay,Head,0.380608827,Goal,Harry Wilson,1,1,1
+2022,18561,13/05/2023,Fulham,away,Southampton,10716,Manor Solomon,94,0.799000015,0.599000015,OpenPlay,RightFoot,0.056222901,SavedShot,Bobby Reid,1,1,0

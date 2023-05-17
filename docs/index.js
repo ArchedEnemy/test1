@@ -64,7 +64,7 @@ date_range_slider = pn.widgets.DateRangeSlider(
 )
 teams = pn.widgets.MultiSelect(options=list(df['team'].unique()),name='Team',value=list(df['team'].unique()),size=10)
 sort = pn.widgets.Select(options=['shot', 'onTarget', 'goal', 'xG', 'xG_Diff','%ShotsOnTarget','GoalsPerShot', 'attAssists', 'Assits', 'xA', 'xA_Diff'],name='Sort by', value='goal')
-	
+
 
 def input_function1(sdate, team, sortby):
     a=sdate[0]

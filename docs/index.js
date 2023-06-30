@@ -57,6 +57,17 @@ import datetime as dt
 
 df = pd.read_csv('https://raw.githubusercontent.com/ArchedEnemy/test1/main/docs/understat.csv', parse_dates = ['date'], dayfirst=True)
 
+def update_date_range_slider21(event):
+    date_range_slider.value = (dt.datetime(2021, 8, 13), dt.datetime(2022, 5, 22))
+
+def update_date_range_slider22(event):
+    date_range_slider.value = (dt.datetime(2022, 8, 5), dt.datetime(2023, 5, 28))
+    
+s21 = pn.widgets.Button(name='2021/22', button_type='primary')
+s21.on_click(update_date_range_slider21)
+s22 = pn.widgets.Button(name='2022/23', button_type='primary')
+s22.on_click(update_date_range_slider22)
+
 date_range_slider = pn.widgets.DateRangeSlider(
     name='Date Range Slider',
     start=min(df['date']), end=max(df['date']),
@@ -103,7 +114,8 @@ def input_function1(sdate, team):
     
     return pn.widgets.Tabulator(df5, formatters=bokeh_formatters, page_size=20, show_index=False, header_filters=col_filters)
 
-pn.Column(pn.Row(teams, pn.Column(date_range_slider)), hvplot.bind(input_function1, date_range_slider, teams)).servable()
+pn.Column(pn.Row(teams, pn.Column(pn.Row(s21,s22),date_range_slider)), hvplot.bind(input_function1, date_range_slider, teams)).servable()
+
 
 await write_doc()
   `
